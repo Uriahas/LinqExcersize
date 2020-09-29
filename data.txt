@@ -1,0 +1,2155 @@
+﻿Paul Henriot,Queso Cabrales,7/4/1996 12:00:00 AM,14.0000,12,0
+Paul Henriot,Singaporean Hokkien Fried Mee,7/4/1996 12:00:00 AM,9.8000,10,0
+Paul Henriot,Mozzarella di Giovanni,7/4/1996 12:00:00 AM,34.8000,5,0
+Karin Josephs,Tofu,7/5/1996 12:00:00 AM,18.6000,9,0
+Karin Josephs,Manjimup Dried Apples,7/5/1996 12:00:00 AM,42.4000,40,0
+Mario Pontes,Jack's New England Clam Chowder,7/8/1996 12:00:00 AM,7.7000,10,0
+Mario Pontes,Manjimup Dried Apples,7/8/1996 12:00:00 AM,42.4000,35,0.15
+Mario Pontes,Louisiana Fiery Hot Pepper Sauce,7/8/1996 12:00:00 AM,16.8000,15,0.15
+Mary Saveley,Gustaf's Knäckebröd,7/8/1996 12:00:00 AM,16.8000,6,0.05
+Mary Saveley,Ravioli Angelo,7/8/1996 12:00:00 AM,15.6000,15,0.05
+Mary Saveley,Louisiana Fiery Hot Pepper Sauce,7/8/1996 12:00:00 AM,16.8000,20,0
+Pascale Cartrain,Sir Rodney's Marmalade,7/9/1996 12:00:00 AM,64.8000,40,0.05
+Pascale Cartrain,Geitost,7/9/1996 12:00:00 AM,2.0000,25,0.05
+Pascale Cartrain,Camembert Pierrot,7/9/1996 12:00:00 AM,27.2000,40,0
+Mario Pontes,Gorgonzola Telino,7/10/1996 12:00:00 AM,10.0000,20,0
+Mario Pontes,Chartreuse verte,7/10/1996 12:00:00 AM,14.4000,42,0
+Mario Pontes,Maxilaku,7/10/1996 12:00:00 AM,16.0000,40,0
+Yang Wang,Guaraná Fantástica,7/11/1996 12:00:00 AM,3.6000,15,0.15
+Yang Wang,Pâté chinois,7/11/1996 12:00:00 AM,19.2000,21,0.15
+Yang Wang,Longlife Tofu,7/11/1996 12:00:00 AM,8.0000,21,0
+Michael Holz,Chang,7/12/1996 12:00:00 AM,15.2000,20,0
+Michael Holz,Pavlova,7/12/1996 12:00:00 AM,13.9000,35,0
+Michael Holz,Inlagd Sill,7/12/1996 12:00:00 AM,15.2000,25,0
+Michael Holz,Raclette Courdavault,7/12/1996 12:00:00 AM,44.0000,30,0
+Paula Parente,Perth Pasties,7/15/1996 12:00:00 AM,26.2000,15,0
+Paula Parente,Original Frankfurter grüne Soße,7/15/1996 12:00:00 AM,10.4000,12,0
+Carlos Hernández,Schoggi Schokolade,7/16/1996 12:00:00 AM,35.1000,25,0
+Carlos Hernández,Chartreuse verte,7/16/1996 12:00:00 AM,14.4000,6,0
+Carlos Hernández,Original Frankfurter grüne Soße,7/16/1996 12:00:00 AM,10.4000,15,0
+Roland Mendel,Chang,7/17/1996 12:00:00 AM,15.2000,50,0.2
+Roland Mendel,Chef Anton's Gumbo Mix,7/17/1996 12:00:00 AM,17.0000,65,0.2
+Roland Mendel,Mascarpone Fabioli,7/17/1996 12:00:00 AM,25.6000,6,0.2
+Francisco Chang,Sir Rodney's Scones,7/18/1996 12:00:00 AM,8.0000,10,0
+Francisco Chang,Gravad lax,7/18/1996 12:00:00 AM,20.8000,1,0
+Henriette Pfalzheim,Jack's New England Clam Chowder,7/19/1996 12:00:00 AM,7.7000,16,0.25
+Henriette Pfalzheim,Ravioli Angelo,7/19/1996 12:00:00 AM,15.6000,50,0
+Henriette Pfalzheim,Tarte au sucre,7/19/1996 12:00:00 AM,39.4000,15,0.25
+Henriette Pfalzheim,Outback Lager,7/19/1996 12:00:00 AM,12.0000,21,0.25
+Bernardo Batista,Sir Rodney's Scones,7/19/1996 12:00:00 AM,8.0000,20,0
+Bernardo Batista,Steeleye Stout,7/19/1996 12:00:00 AM,14.4000,20,0
+Paula Wilson,Chef Anton's Gumbo Mix,7/22/1996 12:00:00 AM,17.0000,12,0.2
+Paula Wilson,Uncle Bob's Organic Dried Pears,7/22/1996 12:00:00 AM,24.0000,15,0
+Paula Wilson,Gnocchi di nonna Alice,7/22/1996 12:00:00 AM,30.4000,2,0
+Roland Mendel,Pavlova,7/23/1996 12:00:00 AM,13.9000,60,0.25
+Roland Mendel,Guaraná Fantástica,7/23/1996 12:00:00 AM,3.6000,28,0
+Roland Mendel,Nord-Ost Matjeshering,7/23/1996 12:00:00 AM,20.7000,60,0.25
+Roland Mendel,Longlife Tofu,7/23/1996 12:00:00 AM,8.0000,36,0.25
+Maria Larsson,Chang,7/24/1996 12:00:00 AM,15.2000,35,0
+Maria Larsson,Jack's New England Clam Chowder,7/24/1996 12:00:00 AM,7.7000,25,0.15
+Frédérique Citeaux,Alice Mutton,7/25/1996 12:00:00 AM,31.2000,30,0
+Frédérique Citeaux,Outback Lager,7/25/1996 12:00:00 AM,12.0000,20,0
+Pirkko Koskitalo,Queso Manchego La Pastora,7/26/1996 12:00:00 AM,30.4000,12,0.05
+Peter Franken,Boston Crab Meat,7/29/1996 12:00:00 AM,14.7000,50,0
+Peter Franken,Raclette Courdavault,7/29/1996 12:00:00 AM,44.0000,70,0.15
+Peter Franken,Lakkalikööri,7/29/1996 12:00:00 AM,14.4000,15,0.15
+Manuel Pereira,Thüringer Rostbratwurst,7/30/1996 12:00:00 AM,99.0000,10,0
+Manuel Pereira,Mozzarella di Giovanni,7/30/1996 12:00:00 AM,27.8000,4,0
+Karl Jablonski,Geitost,7/31/1996 12:00:00 AM,2.0000,60,0.05
+Karl Jablonski,Mozzarella di Giovanni,7/31/1996 12:00:00 AM,27.8000,20,0.05
+Pirkko Koskitalo,Inlagd Sill,8/1/1996 12:00:00 AM,15.2000,30,0
+Pirkko Koskitalo,Ipoh Coffee,8/1/1996 12:00:00 AM,36.8000,25,0
+Art Braunschweiger,Geitost,8/1/1996 12:00:00 AM,2.0000,24,0
+Paula Wilson,Sir Rodney's Marmalade,8/2/1996 12:00:00 AM,64.8000,6,0
+Paula Wilson,Gorgonzola Telino,8/2/1996 12:00:00 AM,10.0000,40,0
+Paula Wilson,Mozzarella di Giovanni,8/2/1996 12:00:00 AM,27.8000,24,0
+Horst Kloss,Ikura,8/5/1996 12:00:00 AM,24.8000,24,0.05
+Horst Kloss,Gorgonzola Telino,8/5/1996 12:00:00 AM,10.0000,15,0.05
+Horst Kloss,Geitost,8/5/1996 12:00:00 AM,2.0000,20,0
+Horst Kloss,Boston Crab Meat,8/5/1996 12:00:00 AM,14.7000,60,0.05
+Horst Kloss,Lakkalikööri,8/5/1996 12:00:00 AM,14.4000,33,0.05
+Paul Henriot,Flotemysost,8/6/1996 12:00:00 AM,17.2000,20,0
+Paul Henriot,Mozzarella di Giovanni,8/6/1996 12:00:00 AM,27.8000,7,0
+Giovanni Rovelli,Guaraná Fantástica,8/7/1996 12:00:00 AM,3.6000,12,0.05
+Giovanni Rovelli,Raclette Courdavault,8/7/1996 12:00:00 AM,44.0000,6,0.05
+Miguel Angel Paolino,Ikura,8/8/1996 12:00:00 AM,24.8000,15,0
+Miguel Angel Paolino,Konbu,8/8/1996 12:00:00 AM,4.8000,10,0
+Alexander Feuer,Rössle Sauerkraut,8/9/1996 12:00:00 AM,36.4000,20,0
+Alexander Feuer,Tarte au sucre,8/9/1996 12:00:00 AM,39.4000,12,0
+Christina Berglund,Gula Malacca,8/12/1996 12:00:00 AM,15.5000,16,0
+Christina Berglund,Raclette Courdavault,8/12/1996 12:00:00 AM,44.0000,15,0
+Christina Berglund,Vegie-spread,8/12/1996 12:00:00 AM,35.1000,8,0
+Christina Berglund,Röd Kaviar,8/12/1996 12:00:00 AM,12.0000,25,0
+Renate Messner,Alice Mutton,8/13/1996 12:00:00 AM,31.2000,15,0.25
+Christina Berglund,Guaraná Fantástica,8/14/1996 12:00:00 AM,3.6000,12,0
+Christina Berglund,Pâté chinois,8/14/1996 12:00:00 AM,19.2000,20,0
+Christina Berglund,Rhönbräu Klosterbier,8/14/1996 12:00:00 AM,6.2000,30,0
+Alejandra Camino,Teatime Chocolate Biscuits,8/14/1996 12:00:00 AM,7.3000,1,0
+Alejandra Camino,Guaraná Fantástica,8/14/1996 12:00:00 AM,3.6000,6,0
+Alejandra Camino,Steeleye Stout,8/14/1996 12:00:00 AM,14.4000,4,0
+Alejandra Camino,Nord-Ost Matjeshering,8/15/1996 12:00:00 AM,20.7000,6,0
+Alejandra Camino,Ravioli Angelo,8/15/1996 12:00:00 AM,15.6000,2,0
+Carlos González,Genen Shouyu,8/16/1996 12:00:00 AM,12.4000,20,0
+Carlos González,Teatime Chocolate Biscuits,8/16/1996 12:00:00 AM,7.3000,18,0
+Carlos González,Camembert Pierrot,8/16/1996 12:00:00 AM,27.2000,35,0
+Carlos González,Mozzarella di Giovanni,8/16/1996 12:00:00 AM,27.8000,3,0
+Renate Messner,Schoggi Schokolade,8/19/1996 12:00:00 AM,35.1000,15,0.25
+Renate Messner,Gula Malacca,8/19/1996 12:00:00 AM,15.5000,21,0
+Renate Messner,Camembert Pierrot,8/19/1996 12:00:00 AM,27.2000,20,0.25
+Renate Messner,Laughing Lumberjack Lager,8/19/1996 12:00:00 AM,11.2000,5,0.25
+Horst Kloss,Chai,8/20/1996 12:00:00 AM,14.4000,45,0.2
+Horst Kloss,Boston Crab Meat,8/20/1996 12:00:00 AM,14.7000,40,0.2
+Horst Kloss,Perth Pasties,8/20/1996 12:00:00 AM,26.2000,36,0.2
+Horst Kloss,Steeleye Stout,8/21/1996 12:00:00 AM,14.4000,100,0
+Horst Kloss,Tarte au sucre,8/21/1996 12:00:00 AM,39.4000,40,0
+Janete Limeira,Pavlova,8/22/1996 12:00:00 AM,13.9000,40,0.15
+Janete Limeira,Sasquatch Ale,8/22/1996 12:00:00 AM,11.2000,20,0
+Janete Limeira,Spegesild,8/22/1996 12:00:00 AM,9.6000,15,0.15
+Maurizio Moroni,Tourtière,8/23/1996 12:00:00 AM,5.9000,10,0.1
+Maurizio Moroni,Scottish Longbreads,8/23/1996 12:00:00 AM,10.0000,3,0.1
+Victoria Ashworth,Aniseed Syrup,8/26/1996 12:00:00 AM,8.0000,30,0
+Victoria Ashworth,Wimmers gute Semmelknödel,8/26/1996 12:00:00 AM,26.6000,9,0
+Pedro Afonso,Chef Anton's Gumbo Mix,8/27/1996 12:00:00 AM,17.0000,20,0
+Pedro Afonso,Thüringer Rostbratwurst,8/27/1996 12:00:00 AM,99.0000,15,0
+Pedro Afonso,Maxilaku,8/27/1996 12:00:00 AM,16.0000,15,0
+Pedro Afonso,Original Frankfurter grüne Soße,8/27/1996 12:00:00 AM,10.4000,10,0
+Bernardo Batista,Konbu,8/27/1996 12:00:00 AM,4.8000,20,0.1
+Bernardo Batista,Gula Malacca,8/27/1996 12:00:00 AM,15.5000,24,0.1
+Bernardo Batista,Manjimup Dried Apples,8/27/1996 12:00:00 AM,42.4000,2,0.1
+Anabela Domingues,Sir Rodney's Marmalade,8/28/1996 12:00:00 AM,64.8000,20,0
+Miguel Angel Paolino,Carnarvon Tigers,8/29/1996 12:00:00 AM,50.0000,12,0
+Miguel Angel Paolino,Guaraná Fantástica,8/29/1996 12:00:00 AM,3.6000,10,0
+Miguel Angel Paolino,Vegie-spread,8/29/1996 12:00:00 AM,35.1000,5,0
+Miguel Angel Paolino,Rhönbräu Klosterbier,8/29/1996 12:00:00 AM,6.2000,6,0
+Paula Wilson,Chai,8/30/1996 12:00:00 AM,14.4000,18,0
+Paula Wilson,Alice Mutton,8/30/1996 12:00:00 AM,31.2000,15,0
+Paula Wilson,Ipoh Coffee,8/30/1996 12:00:00 AM,36.8000,15,0
+Paula Wilson,Camembert Pierrot,8/30/1996 12:00:00 AM,27.2000,21,0
+Paula Wilson,Rhönbräu Klosterbier,8/30/1996 12:00:00 AM,6.2000,6,0
+Paul Henriot,Gnocchi di nonna Alice,9/2/1996 12:00:00 AM,30.4000,4,0
+Carlos González,Queso Cabrales,9/3/1996 12:00:00 AM,16.8000,12,0
+Carlos González,Pavlova,9/3/1996 12:00:00 AM,13.9000,30,0
+Carlos González,Gudbrandsdalsost,9/3/1996 12:00:00 AM,28.8000,15,0
+Frédérique Citeaux,Chartreuse verte,9/4/1996 12:00:00 AM,14.4000,60,0
+Frédérique Citeaux,Mozzarella di Giovanni,9/4/1996 12:00:00 AM,27.8000,20,0
+Patricia McKenna,Chang,9/5/1996 12:00:00 AM,15.2000,40,0
+Patricia McKenna,Inlagd Sill,9/5/1996 12:00:00 AM,15.2000,40,0.25
+Patricia McKenna,Raclette Courdavault,9/5/1996 12:00:00 AM,44.0000,30,0.25
+Patricia McKenna,Tarte au sucre,9/5/1996 12:00:00 AM,39.4000,15,0
+Janete Limeira,Teatime Chocolate Biscuits,9/6/1996 12:00:00 AM,7.3000,15,0
+Janete Limeira,Outback Lager,9/6/1996 12:00:00 AM,12.0000,20,0
+Giovanni Rovelli,Louisiana Hot Spiced Okra,9/9/1996 12:00:00 AM,13.6000,30,0
+Giovanni Rovelli,Scottish Longbreads,9/9/1996 12:00:00 AM,10.0000,20,0
+Rita Müller,Boston Crab Meat,9/9/1996 12:00:00 AM,14.7000,10,0
+Rita Müller,Gnocchi di nonna Alice,9/9/1996 12:00:00 AM,30.4000,20,0
+Pascale Cartrain,Alice Mutton,9/10/1996 12:00:00 AM,31.2000,40,0
+Pascale Cartrain,Rössle Sauerkraut,9/10/1996 12:00:00 AM,36.4000,28,0
+Pascale Cartrain,Ipoh Coffee,9/10/1996 12:00:00 AM,36.8000,12,0
+José Pedro Freyre,Boston Crab Meat,9/11/1996 12:00:00 AM,14.7000,40,0.1
+José Pedro Freyre,Louisiana Fiery Hot Pepper Sauce,9/11/1996 12:00:00 AM,16.8000,30,0.1
+José Pedro Freyre,Scottish Longbreads,9/11/1996 12:00:00 AM,10.0000,15,0.1
+Miguel Angel Paolino,Maxilaku,9/12/1996 12:00:00 AM,16.0000,30,0
+Miguel Angel Paolino,Raclette Courdavault,9/12/1996 12:00:00 AM,44.0000,10,0
+Miguel Angel Paolino,Flotemysost,9/12/1996 12:00:00 AM,17.2000,2,0
+Rene Phillips,Carnarvon Tigers,9/13/1996 12:00:00 AM,50.0000,25,0.1
+Rene Phillips,Thüringer Rostbratwurst,9/13/1996 12:00:00 AM,99.0000,25,0.1
+Rene Phillips,Chartreuse verte,9/13/1996 12:00:00 AM,14.4000,30,0.1
+Alejandra Camino,Nord-Ost Matjeshering,9/16/1996 12:00:00 AM,20.7000,10,0
+Alejandra Camino,Perth Pasties,9/16/1996 12:00:00 AM,26.2000,10,0
+Alejandra Camino,Tourtière,9/16/1996 12:00:00 AM,5.9000,5,0
+Fran Wilson,Tarte au sucre,9/17/1996 12:00:00 AM,39.4000,10,0
+Fran Wilson,Scottish Longbreads,9/17/1996 12:00:00 AM,10.0000,3,0
+Ana Trujillo,Gudbrandsdalsost,9/18/1996 12:00:00 AM,28.8000,1,0
+Ana Trujillo,Outback Lager,9/18/1996 12:00:00 AM,12.0000,5,0
+Patricia McKenna,Chef Anton's Cajun Seasoning,9/19/1996 12:00:00 AM,17.6000,20,0
+Patricia McKenna,Grandma's Boysenberry Spread,9/19/1996 12:00:00 AM,20.0000,30,0
+Patricia McKenna,Singaporean Hokkien Fried Mee,9/19/1996 12:00:00 AM,11.2000,2,0
+Patricia McKenna,Ipoh Coffee,9/19/1996 12:00:00 AM,36.8000,20,0
+Patricia McKenna,Flotemysost,9/19/1996 12:00:00 AM,17.2000,3,0
+Liz Nixon,Pavlova,9/20/1996 12:00:00 AM,13.9000,10,0
+Liz Nixon,Tarte au sucre,9/20/1996 12:00:00 AM,39.4000,5,0
+Janine Labrune,Singaporean Hokkien Fried Mee,9/20/1996 12:00:00 AM,11.2000,6,0
+Janine Labrune,Gudbrandsdalsost,9/20/1996 12:00:00 AM,28.8000,7,0
+Rita Müller,Rössle Sauerkraut,9/23/1996 12:00:00 AM,36.4000,4,0
+Rita Müller,Ipoh Coffee,9/23/1996 12:00:00 AM,36.8000,24,0
+Rita Müller,Perth Pasties,9/23/1996 12:00:00 AM,26.2000,20,0
+Rita Müller,Rhönbräu Klosterbier,9/23/1996 12:00:00 AM,6.2000,10,0
+Horst Kloss,Inlagd Sill,9/24/1996 12:00:00 AM,15.2000,12,0
+Paula Wilson,Mascarpone Fabioli,9/25/1996 12:00:00 AM,25.6000,40,0.1
+Paula Wilson,Escargots de Bourgogne,9/25/1996 12:00:00 AM,10.6000,30,0.1
+Paula Wilson,Tarte au sucre,9/25/1996 12:00:00 AM,39.4000,25,0.1
+Helen Bennett,Sasquatch Ale,9/26/1996 12:00:00 AM,11.2000,14,0
+Helen Bennett,Outback Lager,9/26/1996 12:00:00 AM,12.0000,30,0
+Paula Wilson,Jack's New England Clam Chowder,9/27/1996 12:00:00 AM,7.7000,10,0
+Paula Wilson,Tarte au sucre,9/27/1996 12:00:00 AM,39.4000,70,0
+Fran Wilson,Chai,9/30/1996 12:00:00 AM,14.4000,20,0
+Helen Bennett,Jack's New England Clam Chowder,10/1/1996 12:00:00 AM,7.7000,20,0
+Helen Bennett,Lakkalikööri,10/1/1996 12:00:00 AM,14.4000,6,0
+Miguel Angel Paolino,Alice Mutton,10/2/1996 12:00:00 AM,31.2000,8,0
+Miguel Angel Paolino,Rössle Sauerkraut,10/2/1996 12:00:00 AM,36.4000,14,0
+Miguel Angel Paolino,Lakkalikööri,10/2/1996 12:00:00 AM,14.4000,30,0
+Pirkko Koskitalo,Flotemysost,10/3/1996 12:00:00 AM,17.2000,30,0
+Helen Bennett,Steeleye Stout,10/3/1996 12:00:00 AM,14.4000,10,0
+Guillermo Fernández,Filo Mix,10/4/1996 12:00:00 AM,5.6000,20,0
+Philip Cramer,Genen Shouyu,10/7/1996 12:00:00 AM,12.4000,5,0
+Philip Cramer,NuNuCa Nuß-Nougat-Creme,10/7/1996 12:00:00 AM,11.2000,4,0
+Philip Cramer,Chartreuse verte,10/7/1996 12:00:00 AM,14.4000,4,0
+Jose Pavarotti,Pavlova,10/8/1996 12:00:00 AM,13.9000,21,0.15
+Jose Pavarotti,Steeleye Stout,10/8/1996 12:00:00 AM,14.4000,70,0.15
+Jose Pavarotti,Spegesild,10/8/1996 12:00:00 AM,9.6000,30,0
+Jose Pavarotti,Raclette Courdavault,10/8/1996 12:00:00 AM,44.0000,40,0.15
+Jose Pavarotti,Vegie-spread,10/8/1996 12:00:00 AM,35.1000,80,0.15
+Philip Cramer,Grandma's Boysenberry Spread,10/9/1996 12:00:00 AM,20.0000,6,0
+Philip Cramer,Konbu,10/9/1996 12:00:00 AM,4.8000,12,0
+Philip Cramer,Tofu,10/9/1996 12:00:00 AM,18.6000,9,0
+Philip Cramer,Gorgonzola Telino,10/9/1996 12:00:00 AM,10.0000,4,0
+Philip Cramer,Mozzarella di Giovanni,10/9/1996 12:00:00 AM,27.8000,40,0
+Martín Sommer,Chef Anton's Cajun Seasoning,10/10/1996 12:00:00 AM,17.6000,24,0
+Martín Sommer,Ravioli Angelo,10/10/1996 12:00:00 AM,15.6000,16,0
+Martín Sommer,Rhönbräu Klosterbier,10/10/1996 12:00:00 AM,6.2000,50,0
+Maria Larsson,Chang,10/11/1996 12:00:00 AM,15.2000,25,0.2
+Maria Larsson,Queso Cabrales,10/11/1996 12:00:00 AM,16.8000,50,0.2
+Maria Larsson,Nord-Ost Matjeshering,10/11/1996 12:00:00 AM,20.7000,35,0.2
+Maria Larsson,Escargots de Bourgogne,10/11/1996 12:00:00 AM,10.6000,30,0.2
+Lino Rodriguez,Raclette Courdavault,10/14/1996 12:00:00 AM,44.0000,9,0
+Lino Rodriguez,Louisiana Fiery Hot Pepper Sauce,10/14/1996 12:00:00 AM,16.8000,40,0
+Lino Rodriguez,Scottish Longbreads,10/14/1996 12:00:00 AM,10.0000,10,0
+Art Braunschweiger,Teatime Chocolate Biscuits,10/15/1996 12:00:00 AM,7.3000,10,0.05
+Art Braunschweiger,Nord-Ost Matjeshering,10/15/1996 12:00:00 AM,20.7000,8,0.05
+Art Braunschweiger,Côte de Blaye,10/15/1996 12:00:00 AM,210.8000,20,0.05
+Art Braunschweiger,Gnocchi di nonna Alice,10/15/1996 12:00:00 AM,30.4000,12,0.05
+Carlos González,Gumbär Gummibärchen,10/16/1996 12:00:00 AM,24.9000,50,0.15
+Carlos González,Mozzarella di Giovanni,10/16/1996 12:00:00 AM,27.8000,25,0.15
+Laurence Lebihan,Tourtière,10/16/1996 12:00:00 AM,5.9000,15,0
+Jean Fresnière,Carnarvon Tigers,10/17/1996 12:00:00 AM,50.0000,40,0.2
+Jean Fresnière,Singaporean Hokkien Fried Mee,10/17/1996 12:00:00 AM,11.2000,10,0.2
+Jean Fresnière,Zaanse koeken,10/17/1996 12:00:00 AM,7.6000,16,0.2
+Pirkko Koskitalo,Tofu,10/18/1996 12:00:00 AM,18.6000,10,0
+Pirkko Koskitalo,Sir Rodney's Scones,10/18/1996 12:00:00 AM,8.0000,10,0.1
+Pirkko Koskitalo,Flotemysost,10/18/1996 12:00:00 AM,17.2000,40,0.1
+Mary Saveley,Filo Mix,10/21/1996 12:00:00 AM,5.6000,8,0
+Mary Saveley,Scottish Longbreads,10/21/1996 12:00:00 AM,10.0000,10,0
+Patricia McKenna,Chang,10/22/1996 12:00:00 AM,15.2000,7,0.2
+Patricia McKenna,Gorgonzola Telino,10/22/1996 12:00:00 AM,10.0000,25,0.2
+Patricia McKenna,Mascarpone Fabioli,10/22/1996 12:00:00 AM,25.6000,6,0.2
+Patricia McKenna,Manjimup Dried Apples,10/22/1996 12:00:00 AM,42.4000,48,0.2
+Isabel de Castro,Chef Anton's Cajun Seasoning,10/23/1996 12:00:00 AM,17.6000,18,0.1
+Peter Franken,Tunnbröd,10/24/1996 12:00:00 AM,7.2000,40,0
+Peter Franken,Gumbär Gummibärchen,10/24/1996 12:00:00 AM,24.9000,24,0
+Peter Franken,Inlagd Sill,10/24/1996 12:00:00 AM,15.2000,20,0
+Peter Franken,Gravad lax,10/24/1996 12:00:00 AM,20.8000,28,0
+Peter Franken,Mozzarella di Giovanni,10/24/1996 12:00:00 AM,27.8000,25,0
+Rene Phillips,Alice Mutton,10/25/1996 12:00:00 AM,31.2000,20,0
+Rene Phillips,Nord-Ost Matjeshering,10/25/1996 12:00:00 AM,20.7000,15,0
+Jean Fresnière,Chef Anton's Cajun Seasoning,10/28/1996 12:00:00 AM,17.6000,10,0
+Jean Fresnière,Alice Mutton,10/28/1996 12:00:00 AM,31.2000,70,0.05
+Jean Fresnière,Tarte au sucre,10/28/1996 12:00:00 AM,39.4000,28,0
+Laurence Lebihan,Carnarvon Tigers,10/29/1996 12:00:00 AM,50.0000,20,0.05
+Laurence Lebihan,Jack's New England Clam Chowder,10/29/1996 12:00:00 AM,7.7000,12,0.05
+Laurence Lebihan,Ipoh Coffee,10/29/1996 12:00:00 AM,36.8000,40,0.05
+Jytte Petersen,Geitost,10/29/1996 12:00:00 AM,2.0000,8,0
+Jytte Petersen,Raclette Courdavault,10/29/1996 12:00:00 AM,44.0000,9,0.15
+Peter Franken,Chang,10/30/1996 12:00:00 AM,15.2000,24,0.2
+Peter Franken,Gorgonzola Telino,10/30/1996 12:00:00 AM,10.0000,56,0.2
+Peter Franken,Inlagd Sill,10/30/1996 12:00:00 AM,15.2000,40,0.2
+Peter Franken,Pâté chinois,10/30/1996 12:00:00 AM,19.2000,40,0.2
+Renate Messner,Wimmers gute Semmelknödel,10/31/1996 12:00:00 AM,26.6000,50,0
+Renate Messner,Scottish Longbreads,10/31/1996 12:00:00 AM,10.0000,4,0.05
+Renate Messner,Lakkalikööri,10/31/1996 12:00:00 AM,14.4000,15,0
+Karl Jablonski,Chef Anton's Cajun Seasoning,11/1/1996 12:00:00 AM,17.6000,35,0
+Karl Jablonski,Northwoods Cranberry Sauce,11/1/1996 12:00:00 AM,32.0000,70,0.25
+Horst Kloss,Northwoods Cranberry Sauce,11/4/1996 12:00:00 AM,32.0000,70,0
+Horst Kloss,Teatime Chocolate Biscuits,11/4/1996 12:00:00 AM,7.3000,80,0
+Horst Kloss,Singaporean Hokkien Fried Mee,11/4/1996 12:00:00 AM,11.2000,9,0
+Paula Wilson,Alice Mutton,11/5/1996 12:00:00 AM,31.2000,36,0.1
+Paula Wilson,Gnocchi di nonna Alice,11/5/1996 12:00:00 AM,30.4000,20,0
+Aria Cruz,NuNuCa Nuß-Nougat-Creme,11/6/1996 12:00:00 AM,11.2000,10,0
+Aria Cruz,Chartreuse verte,11/6/1996 12:00:00 AM,14.4000,50,0.15
+Aria Cruz,Boston Crab Meat,11/6/1996 12:00:00 AM,14.7000,4,0
+Aria Cruz,Rhönbräu Klosterbier,11/6/1996 12:00:00 AM,6.2000,6,0.15
+Rita Müller,Chai,11/7/1996 12:00:00 AM,14.4000,15,0.15
+Rita Müller,Tunnbröd,11/7/1996 12:00:00 AM,7.2000,25,0
+Art Braunschweiger,Tourtière,11/8/1996 12:00:00 AM,5.9000,24,0
+Annette Roulet,Valkoinen suklaa,11/11/1996 12:00:00 AM,13.0000,15,0.1
+Annette Roulet,Gudbrandsdalsost,11/11/1996 12:00:00 AM,28.8000,18,0.1
+Roland Mendel,Côte de Blaye,11/11/1996 12:00:00 AM,210.8000,20,0.05
+Roland Mendel,Jack's New England Clam Chowder,11/11/1996 12:00:00 AM,7.7000,13,0
+Roland Mendel,Gula Malacca,11/11/1996 12:00:00 AM,15.5000,77,0.05
+Roland Mendel,Louisiana Fiery Hot Pepper Sauce,11/11/1996 12:00:00 AM,16.8000,10,0.05
+Lino Rodriguez,Guaraná Fantástica,11/12/1996 12:00:00 AM,3.6000,10,0
+Lino Rodriguez,Tourtière,11/12/1996 12:00:00 AM,5.9000,20,0.15
+Georg Pipps,Queso Cabrales,11/13/1996 12:00:00 AM,16.8000,12,0.2
+Georg Pipps,Côte de Blaye,11/13/1996 12:00:00 AM,210.8000,50,0.2
+Guillermo Fernández,Chai,11/14/1996 12:00:00 AM,14.4000,12,0
+Guillermo Fernández,Thüringer Rostbratwurst,11/14/1996 12:00:00 AM,99.0000,4,0
+Thomas Hardy,Guaraná Fantástica,11/15/1996 12:00:00 AM,3.6000,25,0
+Thomas Hardy,Ravioli Angelo,11/15/1996 12:00:00 AM,15.6000,25,0
+Rita Müller,Gorgonzola Telino,11/18/1996 12:00:00 AM,10.0000,30,0
+Rita Müller,Pâté chinois,11/18/1996 12:00:00 AM,19.2000,12,0
+Rita Müller,Gudbrandsdalsost,11/18/1996 12:00:00 AM,28.8000,20,0
+Carlos González,Ikura,11/19/1996 12:00:00 AM,24.8000,30,0.2
+Carlos González,Gumbär Gummibärchen,11/19/1996 12:00:00 AM,24.9000,16,0
+Carlos González,Camembert Pierrot,11/19/1996 12:00:00 AM,27.2000,8,0.2
+Annette Roulet,Guaraná Fantástica,11/20/1996 12:00:00 AM,3.6000,10,0.05
+Annette Roulet,Sasquatch Ale,11/20/1996 12:00:00 AM,11.2000,10,0.05
+Annette Roulet,Inlagd Sill,11/20/1996 12:00:00 AM,15.2000,20,0.05
+Hari Kumar,Pavlova,11/21/1996 12:00:00 AM,13.9000,56,0.05
+Hari Kumar,Gorgonzola Telino,11/21/1996 12:00:00 AM,10.0000,70,0.05
+Hari Kumar,Camembert Pierrot,11/21/1996 12:00:00 AM,27.2000,80,0.05
+Frédérique Citeaux,Rössle Sauerkraut,11/22/1996 12:00:00 AM,36.4000,30,0
+Frédérique Citeaux,Thüringer Rostbratwurst,11/22/1996 12:00:00 AM,99.0000,35,0
+Frédérique Citeaux,Côte de Blaye,11/22/1996 12:00:00 AM,210.8000,10,0
+Frédérique Citeaux,Maxilaku,11/22/1996 12:00:00 AM,16.0000,35,0
+Frédérique Citeaux,Tourtière,11/22/1996 12:00:00 AM,5.9000,28,0
+Horst Kloss,Chartreuse verte,11/22/1996 12:00:00 AM,14.4000,54,0.1
+Horst Kloss,Camembert Pierrot,11/22/1996 12:00:00 AM,27.2000,55,0.1
+Laurence Lebihan,NuNuCa Nuß-Nougat-Creme,11/25/1996 12:00:00 AM,11.2000,50,0
+Laurence Lebihan,Manjimup Dried Apples,11/25/1996 12:00:00 AM,42.4000,20,0
+Laurence Lebihan,Tourtière,11/25/1996 12:00:00 AM,5.9000,24,0
+Sven Ottlieb,Gorgonzola Telino,11/26/1996 12:00:00 AM,10.0000,20,0
+Sven Ottlieb,Rhönbräu Klosterbier,11/26/1996 12:00:00 AM,6.2000,12,0
+Sven Ottlieb,Lakkalikööri,11/26/1996 12:00:00 AM,14.4000,12,0
+Ann Devon,Gudbrandsdalsost,11/26/1996 12:00:00 AM,28.8000,30,0
+Ann Devon,Flotemysost,11/26/1996 12:00:00 AM,17.2000,5,0
+Antonio Moreno,Queso Cabrales,11/27/1996 12:00:00 AM,16.8000,24,0
+Eduardo Saavedra,Louisiana Fiery Hot Pepper Sauce,11/28/1996 12:00:00 AM,16.8000,5,0
+Eduardo Saavedra,Original Frankfurter grüne Soße,11/28/1996 12:00:00 AM,10.4000,5,0
+Palle Ibsen,Sasquatch Ale,11/28/1996 12:00:00 AM,11.2000,36,0
+Palle Ibsen,Tourtière,11/28/1996 12:00:00 AM,5.9000,18,0
+Palle Ibsen,Louisiana Fiery Hot Pepper Sauce,11/28/1996 12:00:00 AM,16.8000,15,0
+Palle Ibsen,Original Frankfurter grüne Soße,11/28/1996 12:00:00 AM,10.4000,7,0
+Roland Mendel,Sir Rodney's Scones,11/29/1996 12:00:00 AM,8.0000,5,0.1
+Roland Mendel,Rössle Sauerkraut,11/29/1996 12:00:00 AM,36.4000,13,0.1
+Roland Mendel,Ravioli Angelo,11/29/1996 12:00:00 AM,15.6000,25,0
+Roland Mendel,Wimmers gute Semmelknödel,11/29/1996 12:00:00 AM,26.6000,35,0.1
+Art Braunschweiger,Thüringer Rostbratwurst,12/2/1996 12:00:00 AM,99.0000,20,0
+Art Braunschweiger,Gnocchi di nonna Alice,12/2/1996 12:00:00 AM,30.4000,18,0.25
+Yang Wang,Chai,12/3/1996 12:00:00 AM,14.4000,15,0.15
+Yang Wang,Wimmers gute Semmelknödel,12/3/1996 12:00:00 AM,26.6000,30,0
+Yang Wang,Longlife Tofu,12/3/1996 12:00:00 AM,8.0000,20,0.15
+Annette Roulet,Inlagd Sill,12/3/1996 12:00:00 AM,15.2000,6,0.2
+Lúcia Carvalho,Sir Rodney's Marmalade,12/4/1996 12:00:00 AM,64.8000,12,0.25
+Lúcia Carvalho,Côte de Blaye,12/4/1996 12:00:00 AM,210.8000,40,0.25
+Lúcia Carvalho,Camembert Pierrot,12/4/1996 12:00:00 AM,27.2000,70,0.25
+Lúcia Carvalho,Mozzarella di Giovanni,12/4/1996 12:00:00 AM,27.8000,42,0.25
+Patricia McKenna,Escargots de Bourgogne,12/5/1996 12:00:00 AM,10.6000,80,0.2
+Patricia McKenna,Flotemysost,12/5/1996 12:00:00 AM,17.2000,50,0.2
+Zbyszek Piestrzeniewicz,Gorgonzola Telino,12/5/1996 12:00:00 AM,10.0000,30,0
+Zbyszek Piestrzeniewicz,Escargots de Bourgogne,12/5/1996 12:00:00 AM,10.6000,15,0
+Yoshi Latimer,Tofu,12/6/1996 12:00:00 AM,18.6000,15,0
+Yoshi Latimer,Tourtière,12/6/1996 12:00:00 AM,5.9000,10,0
+Jean Fresnière,Gorgonzola Telino,12/9/1996 12:00:00 AM,10.0000,42,0.05
+Hari Kumar,Rössle Sauerkraut,12/9/1996 12:00:00 AM,36.4000,20,0.15
+Hari Kumar,Chartreuse verte,12/9/1996 12:00:00 AM,14.4000,20,0.15
+Maria Larsson,Flotemysost,12/10/1996 12:00:00 AM,17.2000,6,0
+Bernardo Batista,Jack's New England Clam Chowder,12/11/1996 12:00:00 AM,7.7000,8,0.1
+Bernardo Batista,Vegie-spread,12/11/1996 12:00:00 AM,35.1000,16,0.1
+Bernardo Batista,Louisiana Fiery Hot Pepper Sauce,12/11/1996 12:00:00 AM,16.8000,20,0.1
+Patricia McKenna,Nord-Ost Matjeshering,12/12/1996 12:00:00 AM,20.7000,18,0.1
+Patricia McKenna,Perth Pasties,12/12/1996 12:00:00 AM,26.2000,20,0.1
+Patricia McKenna,Camembert Pierrot,12/12/1996 12:00:00 AM,27.2000,6,0.1
+Patricia McKenna,Outback Lager,12/12/1996 12:00:00 AM,12.0000,30,0
+Carlos González,Longlife Tofu,12/12/1996 12:00:00 AM,8.0000,14,0
+Roland Mendel,Chef Anton's Gumbo Mix,12/13/1996 12:00:00 AM,17.0000,32,0
+Roland Mendel,Carnarvon Tigers,12/13/1996 12:00:00 AM,50.0000,9,0
+Roland Mendel,Thüringer Rostbratwurst,12/13/1996 12:00:00 AM,99.0000,14,0
+Roland Mendel,Geitost,12/13/1996 12:00:00 AM,2.0000,60,0
+Roland Mendel,Longlife Tofu,12/13/1996 12:00:00 AM,8.0000,50,0
+Thomas Hardy,Konbu,12/16/1996 12:00:00 AM,4.8000,20,0
+Thomas Hardy,Valkoinen suklaa,12/16/1996 12:00:00 AM,13.0000,15,0
+Thomas Hardy,Gnocchi di nonna Alice,12/16/1996 12:00:00 AM,30.4000,20,0
+Christina Berglund,Sir Rodney's Marmalade,12/16/1996 12:00:00 AM,64.8000,28,0
+Christina Berglund,Camembert Pierrot,12/16/1996 12:00:00 AM,27.2000,15,0
+Art Braunschweiger,Uncle Bob's Organic Dried Pears,12/17/1996 12:00:00 AM,24.0000,10,0.2
+Art Braunschweiger,Camembert Pierrot,12/17/1996 12:00:00 AM,27.2000,20,0.2
+Art Braunschweiger,Scottish Longbreads,12/17/1996 12:00:00 AM,10.0000,8,0.2
+Aria Cruz,Guaraná Fantástica,12/18/1996 12:00:00 AM,3.6000,15,0
+Aria Cruz,Sasquatch Ale,12/18/1996 12:00:00 AM,11.2000,10,0
+Jonas Bergulfsen,Guaraná Fantástica,12/18/1996 12:00:00 AM,3.6000,15,0
+Jonas Bergulfsen,Rössle Sauerkraut,12/18/1996 12:00:00 AM,36.4000,6,0
+Jonas Bergulfsen,Raclette Courdavault,12/18/1996 12:00:00 AM,44.0000,12,0
+Jonas Bergulfsen,Flotemysost,12/18/1996 12:00:00 AM,17.2000,15,0
+Hari Kumar,Rogede sild,12/19/1996 12:00:00 AM,7.6000,15,0.2
+Hari Kumar,Filo Mix,12/19/1996 12:00:00 AM,5.6000,20,0.2
+Hari Kumar,Perth Pasties,12/19/1996 12:00:00 AM,26.2000,40,0
+Elizabeth Lincoln,Ikura,12/20/1996 12:00:00 AM,24.8000,16,0
+Elizabeth Lincoln,Pâté chinois,12/20/1996 12:00:00 AM,19.2000,15,0
+Elizabeth Lincoln,Tarte au sucre,12/20/1996 12:00:00 AM,39.4000,20,0
+Elizabeth Lincoln,Outback Lager,12/20/1996 12:00:00 AM,12.0000,30,0
+Roland Mendel,Gorgonzola Telino,12/23/1996 12:00:00 AM,10.0000,60,0.1
+Roland Mendel,Steeleye Stout,12/23/1996 12:00:00 AM,14.4000,40,0.1
+Roland Mendel,Spegesild,12/23/1996 12:00:00 AM,9.6000,45,0
+Roland Mendel,Mozzarella di Giovanni,12/23/1996 12:00:00 AM,27.8000,24,0.1
+Sven Ottlieb,Konbu,12/23/1996 12:00:00 AM,4.8000,18,0
+Georg Pipps,Gudbrandsdalsost,12/24/1996 12:00:00 AM,28.8000,50,0
+Jose Pavarotti,Chang,12/25/1996 12:00:00 AM,15.2000,25,0.25
+Jose Pavarotti,Tofu,12/25/1996 12:00:00 AM,18.6000,42,0.25
+Jose Pavarotti,NuNuCa Nuß-Nougat-Creme,12/25/1996 12:00:00 AM,11.2000,7,0.25
+Jose Pavarotti,Gumbär Gummibärchen,12/25/1996 12:00:00 AM,24.9000,70,0.25
+Jose Pavarotti,Gorgonzola Telino,12/25/1996 12:00:00 AM,10.0000,32,0
+Yoshi Latimer,Konbu,12/25/1996 12:00:00 AM,4.8000,10,0
+Yoshi Latimer,Tarte au sucre,12/25/1996 12:00:00 AM,39.4000,10,0
+Carlos Hernández,Spegesild,12/26/1996 12:00:00 AM,9.6000,28,0.1
+Carlos Hernández,Perth Pasties,12/26/1996 12:00:00 AM,26.2000,70,0.1
+Carlos Hernández,Gudbrandsdalsost,12/26/1996 12:00:00 AM,28.8000,8,0
+Peter Franken,Tunnbröd,12/27/1996 12:00:00 AM,7.2000,40,0
+Peter Franken,Flotemysost,12/27/1996 12:00:00 AM,17.2000,60,0
+Peter Franken,Mozzarella di Giovanni,12/27/1996 12:00:00 AM,27.8000,21,0
+Isabel de Castro,Sir Rodney's Scones,12/27/1996 12:00:00 AM,8.0000,10,0.15
+Isabel de Castro,Manjimup Dried Apples,12/27/1996 12:00:00 AM,42.4000,18,0.15
+Jose Pavarotti,Steeleye Stout,12/30/1996 12:00:00 AM,14.4000,30,0
+Jose Pavarotti,Pâté chinois,12/30/1996 12:00:00 AM,19.2000,120,0.1
+Palle Ibsen,Scottish Longbreads,12/31/1996 12:00:00 AM,10.0000,60,0
+Palle Ibsen,Flotemysost,12/31/1996 12:00:00 AM,17.2000,30,0
+Palle Ibsen,Lakkalikööri,12/31/1996 12:00:00 AM,14.4000,35,0
+Palle Ibsen,Original Frankfurter grüne Soße,12/31/1996 12:00:00 AM,10.4000,14,0
+Ann Devon,Thüringer Rostbratwurst,1/1/1997 12:00:00 AM,99.0000,21,0
+Ann Devon,Steeleye Stout,1/1/1997 12:00:00 AM,14.4000,35,0
+Ann Devon,Maxilaku,1/1/1997 12:00:00 AM,16.0000,30,0
+Paula Wilson,Nord-Ost Matjeshering,1/1/1997 12:00:00 AM,20.7000,18,0
+Paula Wilson,Gnocchi di nonna Alice,1/1/1997 12:00:00 AM,30.4000,70,0
+Paula Wilson,Louisiana Fiery Hot Pepper Sauce,1/1/1997 12:00:00 AM,16.8000,20,0
+Paula Wilson,Flotemysost,1/1/1997 12:00:00 AM,17.2000,60,0
+Roland Mendel,Tunnbröd,1/2/1997 12:00:00 AM,7.2000,60,0
+Roland Mendel,Vegie-spread,1/2/1997 12:00:00 AM,35.1000,65,0
+Roland Mendel,Pavlova,1/3/1997 12:00:00 AM,13.9000,21,0.15
+Roland Mendel,Chocolade,1/3/1997 12:00:00 AM,10.2000,70,0.15
+Giovanni Rovelli,Gumbär Gummibärchen,1/3/1997 12:00:00 AM,24.9000,30,0.05
+Giovanni Rovelli,Singaporean Hokkien Fried Mee,1/3/1997 12:00:00 AM,11.2000,40,0.05
+Giovanni Rovelli,Maxilaku,1/3/1997 12:00:00 AM,16.0000,30,0.05
+Felipe Izquierdo,Aniseed Syrup,1/6/1997 12:00:00 AM,8.0000,50,0
+Lúcia Carvalho,Chai,1/7/1997 12:00:00 AM,14.4000,10,0
+Lúcia Carvalho,Sir Rodney's Scones,1/7/1997 12:00:00 AM,8.0000,30,0.1
+Lúcia Carvalho,Rössle Sauerkraut,1/7/1997 12:00:00 AM,36.4000,42,0.1
+Lúcia Carvalho,Inlagd Sill,1/7/1997 12:00:00 AM,15.2000,5,0.1
+Lúcia Carvalho,Boston Crab Meat,1/7/1997 12:00:00 AM,14.7000,2,0.1
+Henriette Pfalzheim,Queso Cabrales,1/7/1997 12:00:00 AM,16.8000,30,0
+Henriette Pfalzheim,Gudbrandsdalsost,1/7/1997 12:00:00 AM,28.8000,15,0
+Henriette Pfalzheim,Flotemysost,1/7/1997 12:00:00 AM,17.2000,15,0
+Martine Rancé,Gravad lax,1/8/1997 12:00:00 AM,20.8000,10,0
+Martine Rancé,Tourtière,1/8/1997 12:00:00 AM,5.9000,6,0
+Martine Rancé,Tarte au sucre,1/8/1997 12:00:00 AM,39.4000,35,0
+Yvonne Moncada,Tofu,1/9/1997 12:00:00 AM,18.6000,12,0
+Yvonne Moncada,Sir Rodney's Scones,1/9/1997 12:00:00 AM,8.0000,12,0
+Elizabeth Lincoln,Geitost,1/10/1997 12:00:00 AM,2.0000,49,0
+Elizabeth Lincoln,Raclette Courdavault,1/10/1997 12:00:00 AM,44.0000,16,0
+Elizabeth Lincoln,Jack's New England Clam Chowder,1/10/1997 12:00:00 AM,7.7000,25,0.2
+Elizabeth Lincoln,Gula Malacca,1/10/1997 12:00:00 AM,15.5000,40,0.2
+Elizabeth Lincoln,Raclette Courdavault,1/10/1997 12:00:00 AM,44.0000,9,0.2
+Pirkko Koskitalo,Tofu,1/13/1997 12:00:00 AM,18.6000,20,0.1
+Annette Roulet,Chai,1/14/1997 12:00:00 AM,14.4000,24,0
+Annette Roulet,Tarte au sucre,1/14/1997 12:00:00 AM,39.4000,40,0
+Annette Roulet,Lakkalikööri,1/14/1997 12:00:00 AM,14.4000,14,0
+Aria Cruz,Teatime Chocolate Biscuits,1/14/1997 12:00:00 AM,7.3000,18,0.05
+Aria Cruz,Geitost,1/14/1997 12:00:00 AM,2.0000,50,0
+Yoshi Latimer,Alice Mutton,1/15/1997 12:00:00 AM,31.2000,2,0
+Yoshi Latimer,Geitost,1/15/1997 12:00:00 AM,2.0000,20,0
+Pirkko Koskitalo,Teatime Chocolate Biscuits,1/16/1997 12:00:00 AM,7.3000,20,0
+Pirkko Koskitalo,Perth Pasties,1/16/1997 12:00:00 AM,26.2000,10,0
+Pirkko Koskitalo,Ravioli Angelo,1/16/1997 12:00:00 AM,15.6000,20,0
+Jytte Petersen,Côte de Blaye,1/16/1997 12:00:00 AM,210.8000,50,0
+Jytte Petersen,Spegesild,1/16/1997 12:00:00 AM,9.6000,2,0.25
+Jytte Petersen,Scottish Longbreads,1/16/1997 12:00:00 AM,10.0000,36,0.25
+Jytte Petersen,Original Frankfurter grüne Soße,1/16/1997 12:00:00 AM,10.4000,35,0
+Horst Kloss,Chang,1/17/1997 12:00:00 AM,15.2000,60,0
+Horst Kloss,Zaanse koeken,1/17/1997 12:00:00 AM,7.6000,55,0
+Horst Kloss,Sirop d'érable,1/17/1997 12:00:00 AM,22.8000,16,0
+Horst Kloss,Longlife Tofu,1/17/1997 12:00:00 AM,8.0000,15,0
+Michael Holz,Camembert Pierrot,1/20/1997 12:00:00 AM,27.2000,60,0.05
+Michael Holz,Gudbrandsdalsost,1/20/1997 12:00:00 AM,28.8000,20,0.05
+Paula Parente,Mishi Kobe Niku,1/21/1997 12:00:00 AM,77.6000,20,0.1
+Paula Parente,Konbu,1/21/1997 12:00:00 AM,4.8000,2,0.1
+Paula Parente,Outback Lager,1/21/1997 12:00:00 AM,12.0000,8,0.1
+Paula Parente,Röd Kaviar,1/21/1997 12:00:00 AM,12.0000,20,0.1
+Bernardo Batista,Teatime Chocolate Biscuits,1/21/1997 12:00:00 AM,7.3000,4,0.15
+Bernardo Batista,Gumbär Gummibärchen,1/21/1997 12:00:00 AM,24.9000,30,0
+Bernardo Batista,Perth Pasties,1/21/1997 12:00:00 AM,26.2000,15,0.15
+Bernardo Batista,Original Frankfurter grüne Soße,1/21/1997 12:00:00 AM,10.4000,10,0.15
+Paolo Accorti,Gumbär Gummibärchen,1/22/1997 12:00:00 AM,24.9000,2,0
+André Fonseca,Gorgonzola Telino,1/23/1997 12:00:00 AM,10.0000,14,0
+André Fonseca,Raclette Courdavault,1/23/1997 12:00:00 AM,44.0000,20,0
+Jean Fresnière,Steeleye Stout,1/23/1997 12:00:00 AM,14.4000,60,0.2
+Jean Fresnière,Côte de Blaye,1/23/1997 12:00:00 AM,210.8000,49,0.2
+Jean Fresnière,Scottish Longbreads,1/23/1997 12:00:00 AM,10.0000,30,0.2
+Annette Roulet,Pâté chinois,1/24/1997 12:00:00 AM,19.2000,10,0.25
+Annette Roulet,Lakkalikööri,1/24/1997 12:00:00 AM,14.4000,20,0.25
+Eduardo Saavedra,Gnocchi di nonna Alice,1/27/1997 12:00:00 AM,30.4000,5,0
+Eduardo Saavedra,Wimmers gute Semmelknödel,1/27/1997 12:00:00 AM,26.6000,7,0
+Georg Pipps,Tofu,1/27/1997 12:00:00 AM,18.6000,35,0
+Maurizio Moroni,Spegesild,1/28/1997 12:00:00 AM,9.6000,20,0
+Patricia McKenna,Valkoinen suklaa,1/29/1997 12:00:00 AM,13.0000,40,0
+Patricia McKenna,Vegie-spread,1/29/1997 12:00:00 AM,35.1000,35,0.25
+Roland Mendel,Alice Mutton,1/30/1997 12:00:00 AM,31.2000,45,0.2
+Roland Mendel,Sir Rodney's Scones,1/30/1997 12:00:00 AM,8.0000,50,0
+Roland Mendel,Gnocchi di nonna Alice,1/30/1997 12:00:00 AM,30.4000,30,0
+Roland Mendel,Raclette Courdavault,1/30/1997 12:00:00 AM,44.0000,70,0.2
+Elizabeth Lincoln,Alice Mutton,1/30/1997 12:00:00 AM,31.2000,50,0.25
+Elizabeth Lincoln,Boston Crab Meat,1/30/1997 12:00:00 AM,14.7000,50,0.25
+Elizabeth Lincoln,Zaanse koeken,1/30/1997 12:00:00 AM,7.6000,30,0.25
+Art Braunschweiger,Gumbär Gummibärchen,1/31/1997 12:00:00 AM,24.9000,10,0
+Art Braunschweiger,Tourtière,1/31/1997 12:00:00 AM,5.9000,40,0
+Isabel de Castro,Gnocchi di nonna Alice,2/3/1997 12:00:00 AM,30.4000,28,0
+Maria Larsson,Queso Cabrales,2/3/1997 12:00:00 AM,16.8000,6,0
+Maria Larsson,Lakkalikööri,2/3/1997 12:00:00 AM,14.4000,18,0.15
+Elizabeth Brown,Chang,2/4/1997 12:00:00 AM,15.2000,10,0
+Elizabeth Brown,Gustaf's Knäckebröd,2/4/1997 12:00:00 AM,16.8000,12,0
+Elizabeth Brown,Mozzarella di Giovanni,2/4/1997 12:00:00 AM,27.8000,10,0
+Frédérique Citeaux,Spegesild,2/5/1997 12:00:00 AM,9.6000,5,0
+Frédérique Citeaux,Gnocchi di nonna Alice,2/5/1997 12:00:00 AM,30.4000,40,0.1
+Frédérique Citeaux,Wimmers gute Semmelknödel,2/5/1997 12:00:00 AM,26.6000,30,0.1
+Frédérique Citeaux,Rhönbräu Klosterbier,2/5/1997 12:00:00 AM,6.2000,24,0.1
+Pirkko Koskitalo,Perth Pasties,2/5/1997 12:00:00 AM,26.2000,15,0
+Karin Josephs,Teatime Chocolate Biscuits,2/6/1997 12:00:00 AM,7.3000,15,0.2
+Karin Josephs,Sasquatch Ale,2/6/1997 12:00:00 AM,11.2000,20,0.2
+Karin Josephs,Ravioli Angelo,2/6/1997 12:00:00 AM,15.6000,15,0.2
+Jean Fresnière,Queso Manchego La Pastora,2/7/1997 12:00:00 AM,30.4000,15,0
+Jean Fresnière,Pavlova,2/7/1997 12:00:00 AM,13.9000,16,0
+Jean Fresnière,Wimmers gute Semmelknödel,2/7/1997 12:00:00 AM,26.6000,6,0
+Jean Fresnière,Longlife Tofu,2/7/1997 12:00:00 AM,8.0000,30,0
+Jose Pavarotti,Chang,2/10/1997 12:00:00 AM,15.2000,45,0.15
+Jose Pavarotti,Pavlova,2/10/1997 12:00:00 AM,13.9000,49,0.15
+Jose Pavarotti,Thüringer Rostbratwurst,2/10/1997 12:00:00 AM,99.0000,24,0.15
+Jose Pavarotti,Sirop d'érable,2/10/1997 12:00:00 AM,22.8000,90,0.15
+Rene Phillips,Schoggi Schokolade,2/10/1997 12:00:00 AM,35.1000,50,0
+Roland Mendel,Queso Cabrales,2/11/1997 12:00:00 AM,16.8000,30,0
+Roland Mendel,Tourtière,2/11/1997 12:00:00 AM,5.9000,80,0
+Roland Mendel,Louisiana Hot Spiced Okra,2/11/1997 12:00:00 AM,13.6000,60,0
+Maurizio Moroni,Queso Cabrales,2/12/1997 12:00:00 AM,16.8000,6,0.2
+Maurizio Moroni,Rössle Sauerkraut,2/12/1997 12:00:00 AM,36.4000,12,0
+Christina Berglund,Alice Mutton,2/12/1997 12:00:00 AM,31.2000,10,0
+Christina Berglund,Gumbär Gummibärchen,2/12/1997 12:00:00 AM,24.9000,15,0
+Christina Berglund,Steeleye Stout,2/12/1997 12:00:00 AM,14.4000,8,0
+Christina Berglund,Jack's New England Clam Chowder,2/12/1997 12:00:00 AM,7.7000,30,0
+Christina Berglund,Chartreuse verte,2/13/1997 12:00:00 AM,14.4000,6,0
+Christina Berglund,Tourtière,2/13/1997 12:00:00 AM,5.9000,15,0
+Karin Josephs,Teatime Chocolate Biscuits,2/14/1997 12:00:00 AM,7.3000,12,0.1
+Karin Josephs,Guaraná Fantástica,2/14/1997 12:00:00 AM,3.6000,20,0.1
+Karin Josephs,Gorgonzola Telino,2/14/1997 12:00:00 AM,10.0000,3,0.1
+Karin Josephs,Filo Mix,2/14/1997 12:00:00 AM,5.6000,15,0.1
+Janete Limeira,Teatime Chocolate Biscuits,2/14/1997 12:00:00 AM,7.3000,40,0
+Janete Limeira,Louisiana Fiery Hot Pepper Sauce,2/14/1997 12:00:00 AM,16.8000,35,0
+Janete Limeira,Flotemysost,2/14/1997 12:00:00 AM,17.2000,2,0
+Sergio Gutiérrez,Gumbär Gummibärchen,2/17/1997 12:00:00 AM,24.9000,6,0
+Sergio Gutiérrez,Boston Crab Meat,2/17/1997 12:00:00 AM,14.7000,20,0
+Frédérique Citeaux,Ikura,2/18/1997 12:00:00 AM,24.8000,14,0
+Frédérique Citeaux,Filo Mix,2/18/1997 12:00:00 AM,5.6000,20,0
+Frédérique Citeaux,Tarte au sucre,2/18/1997 12:00:00 AM,39.4000,35,0
+Mary Saveley,Ikura,2/19/1997 12:00:00 AM,24.8000,20,0.2
+Mary Saveley,Tourtière,2/19/1997 12:00:00 AM,5.9000,6,0.2
+Horst Kloss,Pâté chinois,2/19/1997 12:00:00 AM,19.2000,120,0.1
+Horst Kloss,Wimmers gute Semmelknödel,2/19/1997 12:00:00 AM,26.6000,35,0.1
+Horst Kloss,Louisiana Fiery Hot Pepper Sauce,2/19/1997 12:00:00 AM,16.8000,28,0.1
+Horst Kloss,Original Frankfurter grüne Soße,2/19/1997 12:00:00 AM,10.4000,55,0.1
+Jose Pavarotti,Rössle Sauerkraut,2/20/1997 12:00:00 AM,36.4000,15,0
+Jose Pavarotti,Gula Malacca,2/20/1997 12:00:00 AM,15.5000,100,0.05
+Thomas Hardy,Chocolade,2/21/1997 12:00:00 AM,10.2000,15,0.1
+Thomas Hardy,Outback Lager,2/21/1997 12:00:00 AM,12.0000,25,0.1
+Annette Roulet,Pavlova,2/21/1997 12:00:00 AM,13.9000,20,0.2
+Annette Roulet,Geitost,2/21/1997 12:00:00 AM,2.0000,20,0.2
+Annette Roulet,Spegesild,2/21/1997 12:00:00 AM,9.6000,10,0.2
+Pirkko Koskitalo,Chartreuse verte,2/24/1997 12:00:00 AM,14.4000,20,0
+Pirkko Koskitalo,Perth Pasties,2/24/1997 12:00:00 AM,26.2000,50,0
+Pirkko Koskitalo,Sirop d'érable,2/24/1997 12:00:00 AM,22.8000,25,0
+Pirkko Koskitalo,Flotemysost,2/24/1997 12:00:00 AM,17.2000,30,0
+Philip Cramer,Sir Rodney's Scones,2/25/1997 12:00:00 AM,8.0000,40,0.15
+Philip Cramer,Maxilaku,2/25/1997 12:00:00 AM,16.0000,21,0.15
+Philip Cramer,Raclette Courdavault,2/25/1997 12:00:00 AM,44.0000,36,0
+Pascale Cartrain,Gumbär Gummibärchen,2/26/1997 12:00:00 AM,24.9000,30,0
+Pascale Cartrain,Rössle Sauerkraut,2/26/1997 12:00:00 AM,36.4000,30,0
+Pascale Cartrain,Ipoh Coffee,2/26/1997 12:00:00 AM,36.8000,20,0
+Pascale Cartrain,Gnocchi di nonna Alice,2/26/1997 12:00:00 AM,30.4000,15,0
+Pascale Cartrain,Flotemysost,2/26/1997 12:00:00 AM,17.2000,50,0
+Mary Saveley,Uncle Bob's Organic Dried Pears,2/27/1997 12:00:00 AM,24.0000,16,0.05
+Mary Saveley,Spegesild,2/27/1997 12:00:00 AM,9.6000,20,0.05
+Mary Saveley,Mozzarella di Giovanni,2/27/1997 12:00:00 AM,27.8000,40,0
+Maria Larsson,Scottish Longbreads,2/28/1997 12:00:00 AM,10.0000,21,0.25
+Maria Larsson,Rhönbräu Klosterbier,2/28/1997 12:00:00 AM,6.2000,4,0.25
+Carlos González,Sir Rodney's Scones,2/28/1997 12:00:00 AM,8.0000,40,0.25
+Carlos González,Nord-Ost Matjeshering,2/28/1997 12:00:00 AM,20.7000,28,0.25
+Carlos González,Pâté chinois,2/28/1997 12:00:00 AM,19.2000,60,0.25
+Elizabeth Brown,Konbu,3/3/1997 12:00:00 AM,4.8000,1,0
+Elizabeth Brown,Tunnbröd,3/3/1997 12:00:00 AM,7.2000,21,0
+Pascale Cartrain,Teatime Chocolate Biscuits,3/4/1997 12:00:00 AM,7.3000,21,0
+Pascale Cartrain,Singaporean Hokkien Fried Mee,3/4/1997 12:00:00 AM,11.2000,50,0
+Lino Rodriguez,Chef Anton's Cajun Seasoning,3/4/1997 12:00:00 AM,17.6000,16,0.2
+Lino Rodriguez,Ipoh Coffee,3/4/1997 12:00:00 AM,36.8000,3,0
+Lino Rodriguez,Gnocchi di nonna Alice,3/4/1997 12:00:00 AM,30.4000,30,0.2
+Lino Rodriguez,Camembert Pierrot,3/4/1997 12:00:00 AM,27.2000,20,0
+Palle Ibsen,Guaraná Fantástica,3/5/1997 12:00:00 AM,3.6000,25,0
+Palle Ibsen,Thüringer Rostbratwurst,3/5/1997 12:00:00 AM,99.0000,18,0.1
+Palle Ibsen,Boston Crab Meat,3/5/1997 12:00:00 AM,14.7000,20,0
+Palle Ibsen,Rogede sild,3/5/1997 12:00:00 AM,7.6000,30,0.1
+Palle Ibsen,Valkoinen suklaa,3/5/1997 12:00:00 AM,13.0000,25,0
+Pedro Afonso,Queso Cabrales,3/6/1997 12:00:00 AM,16.8000,10,0
+Pedro Afonso,Spegesild,3/6/1997 12:00:00 AM,9.6000,5,0
+Giovanni Rovelli,Guaraná Fantástica,3/6/1997 12:00:00 AM,3.6000,28,0
+Giovanni Rovelli,NuNuCa Nuß-Nougat-Creme,3/6/1997 12:00:00 AM,11.2000,12,0
+Philip Cramer,Nord-Ost Matjeshering,3/7/1997 12:00:00 AM,20.7000,8,0
+Philip Cramer,Ipoh Coffee,3/7/1997 12:00:00 AM,36.8000,15,0
+Karl Jablonski,Chang,3/10/1997 12:00:00 AM,15.2000,40,0.15
+Karl Jablonski,Pavlova,3/10/1997 12:00:00 AM,13.9000,35,0.15
+Karl Jablonski,Gula Malacca,3/10/1997 12:00:00 AM,15.5000,2,0.15
+Laurence Lebihan,Carnarvon Tigers,3/11/1997 12:00:00 AM,50.0000,30,0
+Laurence Lebihan,Tunnbröd,3/11/1997 12:00:00 AM,7.2000,15,0
+Laurence Lebihan,Wimmers gute Semmelknödel,3/11/1997 12:00:00 AM,26.6000,8,0
+Victoria Ashworth,Uncle Bob's Organic Dried Pears,3/11/1997 12:00:00 AM,24.0000,30,0
+Victoria Ashworth,Gnocchi di nonna Alice,3/11/1997 12:00:00 AM,30.4000,20,0
+Hari Kumar,Guaraná Fantástica,3/12/1997 12:00:00 AM,3.6000,80,0.05
+Hari Kumar,Manjimup Dried Apples,3/12/1997 12:00:00 AM,42.4000,18,0
+Helen Bennett,Geitost,3/13/1997 12:00:00 AM,2.0000,12,0
+Helen Bennett,Flotemysost,3/13/1997 12:00:00 AM,17.2000,12,0
+Guillermo Fernández,Tofu,3/13/1997 12:00:00 AM,18.6000,12,0
+Guillermo Fernández,Rössle Sauerkraut,3/13/1997 12:00:00 AM,36.4000,18,0
+Guillermo Fernández,Boston Crab Meat,3/13/1997 12:00:00 AM,14.7000,21,0
+Guillermo Fernández,Rhönbräu Klosterbier,3/13/1997 12:00:00 AM,6.2000,10,0
+Pascale Cartrain,Gorgonzola Telino,3/14/1997 12:00:00 AM,10.0000,35,0.15
+Pascale Cartrain,Louisiana Hot Spiced Okra,3/14/1997 12:00:00 AM,13.6000,60,0.15
+Pascale Cartrain,Lakkalikööri,3/14/1997 12:00:00 AM,14.4000,42,0.15
+Carlos Hernández,Pâté chinois,3/17/1997 12:00:00 AM,19.2000,2,0.05
+Carlos Hernández,Outback Lager,3/17/1997 12:00:00 AM,12.0000,12,0
+Isabel de Castro,Chai,3/17/1997 12:00:00 AM,14.4000,15,0
+Isabel de Castro,Sir Rodney's Scones,3/17/1997 12:00:00 AM,8.0000,21,0.25
+Isabel de Castro,Chartreuse verte,3/17/1997 12:00:00 AM,14.4000,20,0.25
+Mary Saveley,Ikura,3/18/1997 12:00:00 AM,24.8000,20,0.05
+Paula Wilson,Côte de Blaye,3/19/1997 12:00:00 AM,210.8000,30,0
+Paula Wilson,Perth Pasties,3/19/1997 12:00:00 AM,26.2000,28,0
+Paula Wilson,Raclette Courdavault,3/19/1997 12:00:00 AM,44.0000,60,0
+Paula Wilson,Wimmers gute Semmelknödel,3/19/1997 12:00:00 AM,26.6000,30,0
+Martine Rancé,Zaanse koeken,3/20/1997 12:00:00 AM,7.6000,30,0
+Martine Rancé,Raclette Courdavault,3/20/1997 12:00:00 AM,44.0000,12,0
+Janete Limeira,Maxilaku,3/20/1997 12:00:00 AM,16.0000,24,0
+Janete Limeira,Camembert Pierrot,3/20/1997 12:00:00 AM,27.2000,40,0
+John Steel,Boston Crab Meat,3/21/1997 12:00:00 AM,14.7000,10,0
+Karl Jablonski,Sasquatch Ale,3/24/1997 12:00:00 AM,11.2000,35,0.05
+Karl Jablonski,Original Frankfurter grüne Soße,3/24/1997 12:00:00 AM,10.4000,30,0.05
+Victoria Ashworth,Sir Rodney's Scones,3/24/1997 12:00:00 AM,8.0000,14,0
+Victoria Ashworth,Boston Crab Meat,3/24/1997 12:00:00 AM,14.7000,10,0
+Victoria Ashworth,Manjimup Dried Apples,3/24/1997 12:00:00 AM,42.4000,3,0
+Felipe Izquierdo,Chang,3/25/1997 12:00:00 AM,15.2000,20,0.1
+Felipe Izquierdo,Aniseed Syrup,3/25/1997 12:00:00 AM,8.0000,20,0.1
+Felipe Izquierdo,Pâté chinois,3/25/1997 12:00:00 AM,19.2000,30,0.1
+Felipe Izquierdo,Outback Lager,3/25/1997 12:00:00 AM,12.0000,60,0.1
+Carlos Hernández,Queso Cabrales,3/26/1997 12:00:00 AM,16.8000,5,0
+Carlos Hernández,Manjimup Dried Apples,3/26/1997 12:00:00 AM,42.4000,25,0
+Carlos Hernández,Longlife Tofu,3/26/1997 12:00:00 AM,8.0000,16,0
+Lúcia Carvalho,Teatime Chocolate Biscuits,3/26/1997 12:00:00 AM,7.3000,5,0
+Lúcia Carvalho,Gumbär Gummibärchen,3/26/1997 12:00:00 AM,24.9000,30,0
+Lúcia Carvalho,Tourtière,3/26/1997 12:00:00 AM,5.9000,24,0.25
+Peter Franken,Raclette Courdavault,3/27/1997 12:00:00 AM,44.0000,30,0
+Peter Franken,Röd Kaviar,3/27/1997 12:00:00 AM,12.0000,20,0.2
+Georg Pipps,Queso Cabrales,3/28/1997 12:00:00 AM,16.8000,15,0.25
+Georg Pipps,Pavlova,3/28/1997 12:00:00 AM,13.9000,18,0
+Carlos Hernández,Raclette Courdavault,3/31/1997 12:00:00 AM,44.0000,60,0
+Carlos Hernández,Scottish Longbreads,3/31/1997 12:00:00 AM,10.0000,30,0
+Carlos Hernández,Rhönbräu Klosterbier,3/31/1997 12:00:00 AM,6.2000,36,0
+Lino Rodriguez,Gula Malacca,3/31/1997 12:00:00 AM,15.5000,15,0.15
+Lino Rodriguez,Original Frankfurter grüne Soße,3/31/1997 12:00:00 AM,10.4000,7,0.15
+Elizabeth Lincoln,NuNuCa Nuß-Nougat-Creme,4/1/1997 12:00:00 AM,11.2000,60,0.05
+Elizabeth Lincoln,Singaporean Hokkien Fried Mee,4/1/1997 12:00:00 AM,11.2000,20,0.05
+Annette Roulet,Louisiana Fiery Hot Pepper Sauce,4/2/1997 12:00:00 AM,16.8000,15,0.1
+Annette Roulet,Louisiana Hot Spiced Okra,4/2/1997 12:00:00 AM,13.6000,10,0.1
+Annette Roulet,Gudbrandsdalsost,4/2/1997 12:00:00 AM,28.8000,10,0.1
+Pedro Afonso,Gnocchi di nonna Alice,4/2/1997 12:00:00 AM,30.4000,30,0
+Yoshi Tannamuri,Tunnbröd,4/3/1997 12:00:00 AM,7.2000,10,0
+Yoshi Tannamuri,Jack's New England Clam Chowder,4/3/1997 12:00:00 AM,7.7000,20,0
+Yoshi Tannamuri,Original Frankfurter grüne Soße,4/3/1997 12:00:00 AM,10.4000,5,0
+Anabela Domingues,Gorgonzola Telino,4/4/1997 12:00:00 AM,10.0000,20,0.05
+Renate Messner,Gnocchi di nonna Alice,4/4/1997 12:00:00 AM,30.4000,14,0
+Renate Messner,Mozzarella di Giovanni,4/4/1997 12:00:00 AM,27.8000,25,0
+Renate Messner,Original Frankfurter grüne Soße,4/4/1997 12:00:00 AM,10.4000,25,0
+Carlos Hernández,Guaraná Fantástica,4/7/1997 12:00:00 AM,4.5000,14,0
+Carlos Hernández,Boston Crab Meat,4/7/1997 12:00:00 AM,18.4000,5,0
+Carlos Hernández,Singaporean Hokkien Fried Mee,4/7/1997 12:00:00 AM,14.0000,30,0
+Carlos González,Rössle Sauerkraut,4/8/1997 12:00:00 AM,45.6000,20,0
+Carlos González,Maxilaku,4/8/1997 12:00:00 AM,20.0000,25,0
+Annette Roulet,Genen Shouyu,4/9/1997 12:00:00 AM,15.5000,12,0.05
+Annette Roulet,Rössle Sauerkraut,4/9/1997 12:00:00 AM,45.6000,8,0.05
+Hanna Moos,Tourtière,4/9/1997 12:00:00 AM,7.4500,20,0
+Guillermo Fernández,Rogede sild,4/10/1997 12:00:00 AM,9.5000,21,0
+Guillermo Fernández,Perth Pasties,4/10/1997 12:00:00 AM,32.8000,6,0
+Guillermo Fernández,Laughing Lumberjack Lager,4/10/1997 12:00:00 AM,14.0000,30,0
+Patricia McKenna,Tofu,4/11/1997 12:00:00 AM,23.2500,70,0
+Patricia McKenna,Louisiana Fiery Hot Pepper Sauce,4/11/1997 12:00:00 AM,21.0500,20,0
+Karl Jablonski,Chang,4/11/1997 12:00:00 AM,19.0000,12,0
+Karl Jablonski,Sir Rodney's Scones,4/11/1997 12:00:00 AM,10.0000,12,0
+Karl Jablonski,Perth Pasties,4/11/1997 12:00:00 AM,32.8000,10,0
+Karl Jablonski,Sirop d'érable,4/11/1997 12:00:00 AM,28.5000,25,0
+Jean Fresnière,Tarte au sucre,4/14/1997 12:00:00 AM,49.3000,3,0
+Philip Cramer,NuNuCa Nuß-Nougat-Creme,4/15/1997 12:00:00 AM,14.0000,18,0.1
+Philip Cramer,Outback Lager,4/15/1997 12:00:00 AM,15.0000,14,0.1
+Antonio Moreno,Ipoh Coffee,4/15/1997 12:00:00 AM,46.0000,15,0.15
+Antonio Moreno,Chocolade,4/15/1997 12:00:00 AM,12.7500,15,0.15
+Henriette Pfalzheim,Konbu,4/16/1997 12:00:00 AM,6.0000,10,0
+Henriette Pfalzheim,Chartreuse verte,4/16/1997 12:00:00 AM,18.0000,10,0
+Hanna Moos,Rössle Sauerkraut,4/17/1997 12:00:00 AM,45.6000,3,0
+Jose Pavarotti,Thüringer Rostbratwurst,4/18/1997 12:00:00 AM,123.7900,36,0
+Jose Pavarotti,Rhönbräu Klosterbier,4/18/1997 12:00:00 AM,7.7500,36,0.1
+Laurence Lebihan,Chef Anton's Cajun Seasoning,4/18/1997 12:00:00 AM,22.0000,50,0.15
+Laurence Lebihan,Uncle Bob's Organic Dried Pears,4/18/1997 12:00:00 AM,30.0000,50,0.15
+Laurence Lebihan,Northwoods Cranberry Sauce,4/18/1997 12:00:00 AM,40.0000,10,0.15
+Aria Cruz,Guaraná Fantástica,4/21/1997 12:00:00 AM,4.5000,10,0.15
+Aria Cruz,Spegesild,4/21/1997 12:00:00 AM,12.0000,9,0.15
+Aria Cruz,Zaanse koeken,4/21/1997 12:00:00 AM,9.5000,6,0.15
+Aria Cruz,Camembert Pierrot,4/21/1997 12:00:00 AM,34.0000,12,0.15
+Rita Müller,Sir Rodney's Scones,4/22/1997 12:00:00 AM,10.0000,40,0.2
+Rita Müller,Mascarpone Fabioli,4/22/1997 12:00:00 AM,32.0000,50,0.2
+Rita Müller,Sirop d'érable,4/22/1997 12:00:00 AM,28.5000,15,0.2
+Roland Mendel,Sir Rodney's Marmalade,4/22/1997 12:00:00 AM,81.0000,39,0
+Roland Mendel,Rössle Sauerkraut,4/22/1997 12:00:00 AM,45.6000,35,0
+Roland Mendel,Gnocchi di nonna Alice,4/22/1997 12:00:00 AM,38.0000,70,0
+Roland Mendel,Louisiana Fiery Hot Pepper Sauce,4/22/1997 12:00:00 AM,21.0500,39,0
+Roland Mendel,Rhönbräu Klosterbier,4/22/1997 12:00:00 AM,7.7500,50,0
+Horst Kloss,Mishi Kobe Niku,4/23/1997 12:00:00 AM,97.0000,16,0.15
+Horst Kloss,Pavlova,4/23/1997 12:00:00 AM,17.4500,50,0
+Horst Kloss,Schoggi Schokolade,4/23/1997 12:00:00 AM,43.9000,120,0
+Horst Kloss,Geitost,4/23/1997 12:00:00 AM,2.5000,16,0.15
+Horst Kloss,Camembert Pierrot,4/23/1997 12:00:00 AM,34.0000,84,0.15
+Patricia McKenna,Carnarvon Tigers,4/24/1997 12:00:00 AM,62.5000,25,0.1
+Patricia McKenna,Jack's New England Clam Chowder,4/24/1997 12:00:00 AM,9.6500,80,0.1
+Patricia McKenna,Singaporean Hokkien Fried Mee,4/24/1997 12:00:00 AM,14.0000,20,0
+Simon Crowther,Filo Mix,4/24/1997 12:00:00 AM,7.0000,6,0
+Simon Crowther,Raclette Courdavault,4/24/1997 12:00:00 AM,55.0000,4,0
+Simon Crowther,Outback Lager,4/24/1997 12:00:00 AM,15.0000,6,0
+Miguel Angel Paolino,Guaraná Fantástica,4/25/1997 12:00:00 AM,4.5000,5,0
+Miguel Angel Paolino,Côte de Blaye,4/25/1997 12:00:00 AM,263.5000,15,0
+Miguel Angel Paolino,Gula Malacca,4/25/1997 12:00:00 AM,19.4500,9,0
+Yang Wang,Ikura,4/28/1997 12:00:00 AM,31.0000,16,0.05
+Yang Wang,Gnocchi di nonna Alice,4/28/1997 12:00:00 AM,38.0000,40,0
+Yang Wang,Camembert Pierrot,4/28/1997 12:00:00 AM,34.0000,10,0.05
+Jonas Bergulfsen,Guaraná Fantástica,4/29/1997 12:00:00 AM,4.5000,8,0
+Jonas Bergulfsen,Perth Pasties,4/29/1997 12:00:00 AM,32.8000,5,0
+Patricio Simpson,Steeleye Stout,4/29/1997 12:00:00 AM,18.0000,3,0
+Patricio Simpson,Jack's New England Clam Chowder,4/29/1997 12:00:00 AM,9.6500,10,0
+Patricio Simpson,Scottish Longbreads,4/29/1997 12:00:00 AM,12.5000,6,0
+Renate Messner,Chai,4/30/1997 12:00:00 AM,18.0000,40,0.2
+Renate Messner,Northwoods Cranberry Sauce,4/30/1997 12:00:00 AM,40.0000,24,0
+Renate Messner,Nord-Ost Matjeshering,4/30/1997 12:00:00 AM,25.8900,20,0.2
+Renate Messner,Boston Crab Meat,4/30/1997 12:00:00 AM,18.4000,25,0.2
+Hari Kumar,Alice Mutton,5/1/1997 12:00:00 AM,39.0000,25,0.1
+Hari Kumar,Sir Rodney's Marmalade,5/1/1997 12:00:00 AM,81.0000,15,0.1
+Hari Kumar,Gravad lax,5/1/1997 12:00:00 AM,26.0000,18,0.1
+Hari Kumar,Jack's New England Clam Chowder,5/1/1997 12:00:00 AM,9.6500,6,0.1
+Christina Berglund,Ikura,5/1/1997 12:00:00 AM,31.0000,2,0
+Christina Berglund,Nord-Ost Matjeshering,5/1/1997 12:00:00 AM,25.8900,10,0
+Christina Berglund,Ipoh Coffee,5/1/1997 12:00:00 AM,46.0000,60,0
+Christina Berglund,Tourtière,5/1/1997 12:00:00 AM,7.4500,15,0
+Laurence Lebihan,Inlagd Sill,5/2/1997 12:00:00 AM,19.0000,30,0
+Laurence Lebihan,Boston Crab Meat,5/2/1997 12:00:00 AM,18.4000,15,0.1
+Pirkko Koskitalo,Chai,5/5/1997 12:00:00 AM,18.0000,8,0.15
+Pirkko Koskitalo,Konbu,5/5/1997 12:00:00 AM,6.0000,10,0
+Pirkko Koskitalo,Gnocchi di nonna Alice,5/5/1997 12:00:00 AM,38.0000,30,0.15
+Horst Kloss,Chef Anton's Cajun Seasoning,5/5/1997 12:00:00 AM,22.0000,50,0.1
+Horst Kloss,Inlagd Sill,5/5/1997 12:00:00 AM,19.0000,30,0.1
+Howard Snyder,Queso Cabrales,5/6/1997 12:00:00 AM,21.0000,3,0
+Howard Snyder,Geitost,5/6/1997 12:00:00 AM,2.5000,8,0.2
+Howard Snyder,Mozzarella di Giovanni,5/6/1997 12:00:00 AM,34.8000,9,0
+Catherine Dewey,Pâté chinois,5/7/1997 12:00:00 AM,24.0000,14,0
+Catherine Dewey,Scottish Longbreads,5/7/1997 12:00:00 AM,12.5000,20,0
+Catherine Dewey,Gudbrandsdalsost,5/7/1997 12:00:00 AM,36.0000,10,0
+Georg Pipps,Alice Mutton,5/8/1997 12:00:00 AM,39.0000,40,0
+Georg Pipps,Ipoh Coffee,5/8/1997 12:00:00 AM,46.0000,25,0
+Georg Pipps,Sirop d'érable,5/8/1997 12:00:00 AM,28.5000,20,0
+Georg Pipps,Lakkalikööri,5/8/1997 12:00:00 AM,18.0000,50,0
+Yvonne Moncada,Raclette Courdavault,5/8/1997 12:00:00 AM,55.0000,2,0
+Ann Devon,Nord-Ost Matjeshering,5/9/1997 12:00:00 AM,25.8900,15,0
+Ann Devon,Louisiana Hot Spiced Okra,5/9/1997 12:00:00 AM,17.0000,24,0
+Maria Larsson,Chef Anton's Cajun Seasoning,5/12/1997 12:00:00 AM,22.0000,50,0.05
+Maria Larsson,Mozzarella di Giovanni,5/12/1997 12:00:00 AM,34.8000,24,0
+Maria Larsson,Röd Kaviar,5/12/1997 12:00:00 AM,15.0000,24,0.05
+Renate Messner,Nord-Ost Matjeshering,5/12/1997 12:00:00 AM,25.8900,10,0
+Renate Messner,Boston Crab Meat,5/12/1997 12:00:00 AM,18.4000,10,0.2
+Renate Messner,Tourtière,5/12/1997 12:00:00 AM,7.4500,10,0.2
+Antonio Moreno,Queso Cabrales,5/13/1997 12:00:00 AM,21.0000,50,0.1
+Antonio Moreno,Boston Crab Meat,5/13/1997 12:00:00 AM,18.4000,10,0.1
+Antonio Moreno,Ravioli Angelo,5/13/1997 12:00:00 AM,19.5000,5,0.1
+Antonio Moreno,Raclette Courdavault,5/13/1997 12:00:00 AM,55.0000,15,0.1
+Renate Messner,Queso Manchego La Pastora,5/14/1997 12:00:00 AM,38.0000,15,0.25
+Renate Messner,Gorgonzola Telino,5/14/1997 12:00:00 AM,12.5000,20,0
+Renate Messner,Geitost,5/14/1997 12:00:00 AM,2.5000,30,0
+Renate Messner,Camembert Pierrot,5/14/1997 12:00:00 AM,34.0000,35,0.25
+Michael Holz,Gorgonzola Telino,5/14/1997 12:00:00 AM,12.5000,30,0
+Michael Holz,Manjimup Dried Apples,5/14/1997 12:00:00 AM,53.0000,6,0
+Michael Holz,Escargots de Bourgogne,5/14/1997 12:00:00 AM,13.2500,20,0
+Michael Holz,Mozzarella di Giovanni,5/14/1997 12:00:00 AM,34.8000,21,0
+Michael Holz,Röd Kaviar,5/14/1997 12:00:00 AM,15.0000,9,0
+Victoria Ashworth,Outback Lager,5/15/1997 12:00:00 AM,15.0000,7,0
+Victoria Ashworth,Mozzarella di Giovanni,5/15/1997 12:00:00 AM,34.8000,1,0
+Victoria Ashworth,Konbu,5/16/1997 12:00:00 AM,6.0000,8,0
+Victoria Ashworth,Sir Rodney's Scones,5/16/1997 12:00:00 AM,10.0000,15,0
+Victoria Ashworth,Geitost,5/16/1997 12:00:00 AM,2.5000,15,0
+Victoria Ashworth,Maxilaku,5/16/1997 12:00:00 AM,20.0000,6,0
+Horst Kloss,Aniseed Syrup,5/19/1997 12:00:00 AM,10.0000,60,0
+Horst Kloss,Gumbär Gummibärchen,5/19/1997 12:00:00 AM,31.2300,40,0
+Horst Kloss,Côte de Blaye,5/19/1997 12:00:00 AM,263.5000,30,0
+Horst Kloss,Scottish Longbreads,5/19/1997 12:00:00 AM,12.5000,35,0
+Mario Pontes,Guaraná Fantástica,5/19/1997 12:00:00 AM,4.5000,35,0.1
+Mario Pontes,Côte de Blaye,5/19/1997 12:00:00 AM,263.5000,4,0.1
+Mario Pontes,Louisiana Fiery Hot Pepper Sauce,5/19/1997 12:00:00 AM,21.0500,36,0.1
+Mario Pontes,Flotemysost,5/19/1997 12:00:00 AM,21.5000,9,0.1
+Philip Cramer,Queso Cabrales,5/20/1997 12:00:00 AM,21.0000,15,0.05
+Philip Cramer,Tourtière,5/20/1997 12:00:00 AM,7.4500,24,0.05
+Carlos González,Queso Manchego La Pastora,5/21/1997 12:00:00 AM,38.0000,30,0.15
+Carlos González,Tunnbröd,5/21/1997 12:00:00 AM,9.0000,70,0.15
+Fran Wilson,Rössle Sauerkraut,5/21/1997 12:00:00 AM,45.6000,7,0
+Fran Wilson,Laughing Lumberjack Lager,5/21/1997 12:00:00 AM,14.0000,7,0
+John Steel,Queso Cabrales,5/22/1997 12:00:00 AM,21.0000,10,0
+Mary Saveley,Uncle Bob's Organic Dried Pears,5/23/1997 12:00:00 AM,30.0000,10,0
+Mary Saveley,Steeleye Stout,5/23/1997 12:00:00 AM,18.0000,30,0
+Mary Saveley,Tarte au sucre,5/23/1997 12:00:00 AM,49.3000,40,0
+Hari Kumar,Mascarpone Fabioli,5/23/1997 12:00:00 AM,32.0000,24,0.15
+Hari Kumar,Inlagd Sill,5/23/1997 12:00:00 AM,19.0000,60,0
+Karin Josephs,Sasquatch Ale,5/26/1997 12:00:00 AM,14.0000,10,0.25
+Karin Josephs,Jack's New England Clam Chowder,5/26/1997 12:00:00 AM,9.6500,14,0
+Horst Kloss,Gorgonzola Telino,5/27/1997 12:00:00 AM,12.5000,55,0.15
+Horst Kloss,Rogede sild,5/27/1997 12:00:00 AM,9.5000,100,0.15
+Horst Kloss,Manjimup Dried Apples,5/27/1997 12:00:00 AM,53.0000,48,0.15
+José Pedro Freyre,Alice Mutton,5/28/1997 12:00:00 AM,39.0000,8,0.1
+José Pedro Freyre,Teatime Chocolate Biscuits,5/28/1997 12:00:00 AM,9.2000,10,0
+José Pedro Freyre,Sir Rodney's Scones,5/28/1997 12:00:00 AM,10.0000,6,0.1
+José Pedro Freyre,Sirop d'érable,5/28/1997 12:00:00 AM,28.5000,10,0.1
+Lino Rodriguez,Pavlova,5/28/1997 12:00:00 AM,17.4500,40,0.15
+Lino Rodriguez,Steeleye Stout,5/28/1997 12:00:00 AM,18.0000,20,0.15
+Lino Rodriguez,Gula Malacca,5/28/1997 12:00:00 AM,19.4500,40,0
+Carlos Hernández,Gudbrandsdalsost,5/29/1997 12:00:00 AM,36.0000,18,0
+Carlos Hernández,Rhönbräu Klosterbier,5/29/1997 12:00:00 AM,7.7500,30,0
+Pirkko Koskitalo,Queso Cabrales,5/30/1997 12:00:00 AM,21.0000,15,0
+Pirkko Koskitalo,Pavlova,5/30/1997 12:00:00 AM,17.4500,14,0
+Pirkko Koskitalo,Gustaf's Knäckebröd,5/30/1997 12:00:00 AM,21.0000,24,0
+Pirkko Koskitalo,Gorgonzola Telino,5/30/1997 12:00:00 AM,12.5000,30,0
+Pirkko Koskitalo,Steeleye Stout,5/30/1997 12:00:00 AM,18.0000,6,0
+Henriette Pfalzheim,Pavlova,5/30/1997 12:00:00 AM,17.4500,30,0.05
+Henriette Pfalzheim,Tunnbröd,5/30/1997 12:00:00 AM,9.0000,20,0.05
+Henriette Pfalzheim,Tarte au sucre,5/30/1997 12:00:00 AM,49.3000,20,0.05
+Henriette Pfalzheim,Original Frankfurter grüne Soße,5/30/1997 12:00:00 AM,13.0000,10,0.05
+Jose Pavarotti,Tofu,6/2/1997 12:00:00 AM,23.2500,30,0.2
+Jose Pavarotti,Teatime Chocolate Biscuits,6/2/1997 12:00:00 AM,9.2000,35,0.2
+Jose Pavarotti,Guaraná Fantástica,6/2/1997 12:00:00 AM,4.5000,18,0.2
+Jose Pavarotti,Manjimup Dried Apples,6/2/1997 12:00:00 AM,53.0000,20,0.2
+Jose Pavarotti,Gnocchi di nonna Alice,6/2/1997 12:00:00 AM,38.0000,40,0.2
+Jytte Petersen,Mozzarella di Giovanni,6/3/1997 12:00:00 AM,34.8000,24,0
+Renate Messner,Wimmers gute Semmelknödel,6/3/1997 12:00:00 AM,33.2500,30,0
+Renate Messner,Rhönbräu Klosterbier,6/3/1997 12:00:00 AM,7.7500,20,0
+Thomas Hardy,Zaanse koeken,6/4/1997 12:00:00 AM,9.5000,25,0
+Thomas Hardy,Manjimup Dried Apples,6/4/1997 12:00:00 AM,53.0000,20,0
+Thomas Hardy,Filo Mix,6/4/1997 12:00:00 AM,7.0000,30,0
+Thomas Hardy,Perth Pasties,6/4/1997 12:00:00 AM,32.8000,18,0
+Thomas Hardy,Röd Kaviar,6/4/1997 12:00:00 AM,15.0000,3,0
+Frédérique Citeaux,Jack's New England Clam Chowder,6/5/1997 12:00:00 AM,9.6500,12,0.05
+Frédérique Citeaux,Pâté chinois,6/5/1997 12:00:00 AM,24.0000,18,0.05
+Peter Franken,Nord-Ost Matjeshering,6/6/1997 12:00:00 AM,25.8900,20,0
+Peter Franken,Tarte au sucre,6/6/1997 12:00:00 AM,49.3000,15,0.25
+Maria Larsson,Gula Malacca,6/6/1997 12:00:00 AM,19.4500,10,0
+Maria Larsson,Manjimup Dried Apples,6/6/1997 12:00:00 AM,53.0000,50,0
+Maurizio Moroni,Geitost,6/9/1997 12:00:00 AM,2.5000,20,0.1
+Maurizio Moroni,Tarte au sucre,6/9/1997 12:00:00 AM,49.3000,10,0.1
+Janete Limeira,Inlagd Sill,6/10/1997 12:00:00 AM,19.0000,25,0
+Janete Limeira,Filo Mix,6/10/1997 12:00:00 AM,7.0000,70,0
+Paula Wilson,Alice Mutton,6/10/1997 12:00:00 AM,39.0000,16,0.05
+Paula Wilson,Gorgonzola Telino,6/10/1997 12:00:00 AM,12.5000,6,0.05
+Paula Wilson,Pâté chinois,6/10/1997 12:00:00 AM,24.0000,25,0.05
+Jean Fresnière,Guaraná Fantástica,6/11/1997 12:00:00 AM,4.5000,25,0.1
+Jean Fresnière,Wimmers gute Semmelknödel,6/11/1997 12:00:00 AM,33.2500,18,0.1
+Frédérique Citeaux,Queso Cabrales,6/12/1997 12:00:00 AM,21.0000,35,0.15
+Frédérique Citeaux,Carnarvon Tigers,6/12/1997 12:00:00 AM,62.5000,18,0.15
+Frédérique Citeaux,Lakkalikööri,6/12/1997 12:00:00 AM,18.0000,10,0
+Patricia McKenna,Gorgonzola Telino,6/12/1997 12:00:00 AM,12.5000,60,0.2
+Patricia McKenna,Manjimup Dried Apples,6/12/1997 12:00:00 AM,53.0000,3,0
+Patricia McKenna,Raclette Courdavault,6/12/1997 12:00:00 AM,55.0000,40,0.2
+Eduardo Saavedra,Ikura,6/13/1997 12:00:00 AM,31.0000,5,0
+Paula Wilson,Gorgonzola Telino,6/16/1997 12:00:00 AM,12.5000,35,0.2
+Paula Wilson,Lakkalikööri,6/16/1997 12:00:00 AM,18.0000,30,0
+Jean Fresnière,Queso Cabrales,6/17/1997 12:00:00 AM,21.0000,15,0.05
+Jean Fresnière,Gnocchi di nonna Alice,6/17/1997 12:00:00 AM,38.0000,60,0.05
+Roland Mendel,Tofu,6/17/1997 12:00:00 AM,23.2500,11,0.15
+Roland Mendel,Singaporean Hokkien Fried Mee,6/17/1997 12:00:00 AM,14.0000,28,0.15
+Christina Berglund,Pavlova,6/18/1997 12:00:00 AM,17.4500,12,0.1
+Christina Berglund,Mascarpone Fabioli,6/18/1997 12:00:00 AM,32.0000,10,0.1
+Christina Berglund,Boston Crab Meat,6/18/1997 12:00:00 AM,18.4000,50,0
+Christina Berglund,Rhönbräu Klosterbier,6/18/1997 12:00:00 AM,7.7500,15,0.1
+Antonio Moreno,Alice Mutton,6/19/1997 12:00:00 AM,39.0000,18,0
+Antonio Moreno,Sasquatch Ale,6/19/1997 12:00:00 AM,14.0000,40,0
+Antonio Moreno,Perth Pasties,6/19/1997 12:00:00 AM,32.8000,25,0
+Helvetius Nagy,Geitost,6/19/1997 12:00:00 AM,2.5000,14,0
+Helvetius Nagy,Boston Crab Meat,6/19/1997 12:00:00 AM,18.4000,2,0
+Helvetius Nagy,Tarte au sucre,6/19/1997 12:00:00 AM,49.3000,10,0
+Helvetius Nagy,Wimmers gute Semmelknödel,6/19/1997 12:00:00 AM,33.2500,6,0
+Alexander Feuer,Raclette Courdavault,6/20/1997 12:00:00 AM,55.0000,12,0
+Alexander Feuer,Vegie-spread,6/20/1997 12:00:00 AM,43.9000,6,0
+Alexander Feuer,Mozzarella di Giovanni,6/20/1997 12:00:00 AM,34.8000,30,0
+Alexander Feuer,Lakkalikööri,6/20/1997 12:00:00 AM,18.0000,10,0
+Miguel Angel Paolino,Chai,6/23/1997 12:00:00 AM,18.0000,10,0
+Miguel Angel Paolino,Gorgonzola Telino,6/23/1997 12:00:00 AM,12.5000,20,0
+Miguel Angel Paolino,Gula Malacca,6/23/1997 12:00:00 AM,19.4500,21,0
+Helvetius Nagy,Chartreuse verte,6/23/1997 12:00:00 AM,18.0000,10,0
+Helvetius Nagy,Rhönbräu Klosterbier,6/23/1997 12:00:00 AM,7.7500,20,0
+Helvetius Nagy,Original Frankfurter grüne Soße,6/23/1997 12:00:00 AM,13.0000,18,0
+Victoria Ashworth,Steeleye Stout,6/24/1997 12:00:00 AM,18.0000,20,0
+Victoria Ashworth,Ravioli Angelo,6/24/1997 12:00:00 AM,19.5000,6,0
+Jaime Yorres,Genen Shouyu,6/25/1997 12:00:00 AM,15.5000,10,0
+Jaime Yorres,Rhönbräu Klosterbier,6/25/1997 12:00:00 AM,7.7500,21,0
+Henriette Pfalzheim,Tofu,6/26/1997 12:00:00 AM,23.2500,15,0.05
+Henriette Pfalzheim,Jack's New England Clam Chowder,6/26/1997 12:00:00 AM,9.6500,9,0.05
+Henriette Pfalzheim,Louisiana Fiery Hot Pepper Sauce,6/26/1997 12:00:00 AM,21.0500,30,0.05
+Aria Cruz,Rhönbräu Klosterbier,6/26/1997 12:00:00 AM,7.7500,50,0.2
+Hanna Moos,Ravioli Angelo,6/27/1997 12:00:00 AM,19.5000,4,0
+Hanna Moos,Lakkalikööri,6/27/1997 12:00:00 AM,18.0000,14,0
+Pirkko Koskitalo,Thüringer Rostbratwurst,6/30/1997 12:00:00 AM,123.7900,10,0
+Pirkko Koskitalo,Camembert Pierrot,6/30/1997 12:00:00 AM,34.0000,24,0.15
+Pirkko Koskitalo,Gudbrandsdalsost,6/30/1997 12:00:00 AM,36.0000,10,0.15
+Frédérique Citeaux,Gorgonzola Telino,6/30/1997 12:00:00 AM,12.5000,50,0.05
+Paula Parente,Zaanse koeken,7/1/1997 12:00:00 AM,9.5000,15,0
+Maurizio Moroni,Filo Mix,7/2/1997 12:00:00 AM,7.0000,4,0.15
+Bernardo Batista,Gumbär Gummibärchen,7/2/1997 12:00:00 AM,31.2300,6,0
+Bernardo Batista,Steeleye Stout,7/2/1997 12:00:00 AM,18.0000,20,0
+Bernardo Batista,Original Frankfurter grüne Soße,7/2/1997 12:00:00 AM,13.0000,20,0
+Horst Kloss,Carnarvon Tigers,7/3/1997 12:00:00 AM,62.5000,40,0.2
+Horst Kloss,Singaporean Hokkien Fried Mee,7/3/1997 12:00:00 AM,14.0000,100,0.2
+Howard Snyder,Steeleye Stout,7/4/1997 12:00:00 AM,18.0000,4,0
+Jean Fresnière,Chai,7/7/1997 12:00:00 AM,18.0000,20,0
+Jean Fresnière,Original Frankfurter grüne Soße,7/7/1997 12:00:00 AM,13.0000,60,0.05
+Palle Ibsen,Aniseed Syrup,7/7/1997 12:00:00 AM,10.0000,14,0
+Palle Ibsen,Uncle Bob's Organic Dried Pears,7/7/1997 12:00:00 AM,30.0000,10,0
+Palle Ibsen,Tourtière,7/7/1997 12:00:00 AM,7.4500,50,0
+Renate Messner,Genen Shouyu,7/8/1997 12:00:00 AM,15.5000,25,0.05
+Renate Messner,Gumbär Gummibärchen,7/8/1997 12:00:00 AM,31.2300,5,0.05
+Renate Messner,Sir Rodney's Marmalade,7/9/1997 12:00:00 AM,81.0000,21,0.2
+Renate Messner,Gudbrandsdalsost,7/9/1997 12:00:00 AM,36.0000,20,0.2
+Renate Messner,Lakkalikööri,7/9/1997 12:00:00 AM,18.0000,4,0.2
+Rene Phillips,Filo Mix,7/9/1997 12:00:00 AM,7.0000,24,0
+Rene Phillips,Escargots de Bourgogne,7/9/1997 12:00:00 AM,13.2500,30,0
+Roland Mendel,Steeleye Stout,7/10/1997 12:00:00 AM,18.0000,30,0.25
+Roland Mendel,Sirop d'érable,7/10/1997 12:00:00 AM,28.5000,120,0.25
+Roland Mendel,Gudbrandsdalsost,7/10/1997 12:00:00 AM,36.0000,65,0.25
+Karl Jablonski,Gnocchi di nonna Alice,7/11/1997 12:00:00 AM,38.0000,5,0.2
+Karl Jablonski,Vegie-spread,7/11/1997 12:00:00 AM,43.9000,24,0.2
+Karl Jablonski,Rhönbräu Klosterbier,7/11/1997 12:00:00 AM,7.7500,30,0.2
+Georg Pipps,Guaraná Fantástica,7/11/1997 12:00:00 AM,4.5000,35,0.2
+Georg Pipps,Ravioli Angelo,7/11/1997 12:00:00 AM,19.5000,20,0
+Georg Pipps,Louisiana Fiery Hot Pepper Sauce,7/11/1997 12:00:00 AM,21.0500,12,0.2
+Paula Wilson,Schoggi Schokolade,7/14/1997 12:00:00 AM,43.9000,50,0
+Paula Wilson,Flotemysost,7/14/1997 12:00:00 AM,21.5000,9,0
+Victoria Ashworth,Tarte au sucre,7/15/1997 12:00:00 AM,49.3000,10,0
+Yoshi Latimer,Tourtière,7/16/1997 12:00:00 AM,7.4500,4,0
+Yoshi Latimer,Röd Kaviar,7/16/1997 12:00:00 AM,15.0000,30,0
+Carlos Hernández,Konbu,7/16/1997 12:00:00 AM,6.0000,60,0
+Carlos Hernández,Raclette Courdavault,7/16/1997 12:00:00 AM,55.0000,35,0
+Palle Ibsen,Original Frankfurter grüne Soße,7/17/1997 12:00:00 AM,13.0000,5,0.25
+Jose Pavarotti,Gustaf's Knäckebröd,7/18/1997 12:00:00 AM,21.0000,48,0
+Jose Pavarotti,Maxilaku,7/18/1997 12:00:00 AM,20.0000,25,0.05
+Lino Rodriguez,Chocolade,7/18/1997 12:00:00 AM,12.7500,6,0.1
+Lino Rodriguez,Lakkalikööri,7/18/1997 12:00:00 AM,18.0000,10,0.1
+Jean Fresnière,Pavlova,7/21/1997 12:00:00 AM,17.4500,30,0.05
+Jean Fresnière,Raclette Courdavault,7/21/1997 12:00:00 AM,55.0000,20,0.05
+Jean Fresnière,Camembert Pierrot,7/21/1997 12:00:00 AM,34.0000,70,0.05
+Jean Fresnière,Flotemysost,7/21/1997 12:00:00 AM,21.5000,15,0.05
+Anabela Domingues,Chef Anton's Cajun Seasoning,7/22/1997 12:00:00 AM,22.0000,20,0.2
+Anabela Domingues,Pâté chinois,7/22/1997 12:00:00 AM,24.0000,20,0.2
+Anabela Domingues,Tarte au sucre,7/22/1997 12:00:00 AM,49.3000,10,0.2
+Jose Pavarotti,Uncle Bob's Organic Dried Pears,7/22/1997 12:00:00 AM,30.0000,45,0
+Jose Pavarotti,Alice Mutton,7/22/1997 12:00:00 AM,39.0000,100,0
+Jose Pavarotti,Geitost,7/22/1997 12:00:00 AM,2.5000,14,0
+Jose Pavarotti,Boston Crab Meat,7/22/1997 12:00:00 AM,18.4000,42,0
+Jose Pavarotti,Mozzarella di Giovanni,7/22/1997 12:00:00 AM,34.8000,12,0
+Karin Josephs,Gnocchi di nonna Alice,7/23/1997 12:00:00 AM,38.0000,28,0
+Janine Labrune,Chai,7/24/1997 12:00:00 AM,18.0000,3,0
+Janine Labrune,Ikura,7/24/1997 12:00:00 AM,31.0000,10,0
+Janine Labrune,Sir Rodney's Scones,7/24/1997 12:00:00 AM,10.0000,6,0
+Annette Roulet,Inlagd Sill,7/25/1997 12:00:00 AM,19.0000,21,0.25
+Zbyszek Piestrzeniewicz,Chai,7/25/1997 12:00:00 AM,18.0000,6,0
+Zbyszek Piestrzeniewicz,Chang,7/25/1997 12:00:00 AM,19.0000,10,0
+Zbyszek Piestrzeniewicz,Camembert Pierrot,7/25/1997 12:00:00 AM,34.0000,15,0
+Jose Pavarotti,Ikura,7/28/1997 12:00:00 AM,31.0000,70,0
+Jose Pavarotti,Inlagd Sill,7/28/1997 12:00:00 AM,19.0000,55,0
+Jose Pavarotti,Maxilaku,7/28/1997 12:00:00 AM,20.0000,18,0
+Jose Pavarotti,Camembert Pierrot,7/28/1997 12:00:00 AM,34.0000,40,0
+Jose Pavarotti,Lakkalikööri,7/28/1997 12:00:00 AM,18.0000,80,0
+Carlos Hernández,Konbu,7/29/1997 12:00:00 AM,6.0000,8,0.1
+Carlos Hernández,Rhönbräu Klosterbier,7/29/1997 12:00:00 AM,7.7500,40,0
+Hanna Moos,Queso Cabrales,7/29/1997 12:00:00 AM,21.0000,14,0
+Hanna Moos,Sir Rodney's Scones,7/29/1997 12:00:00 AM,10.0000,8,0
+Hanna Moos,Chartreuse verte,7/29/1997 12:00:00 AM,18.0000,5,0
+Matti Karttunen,Pâté chinois,7/30/1997 12:00:00 AM,24.0000,5,0
+Howard Snyder,Côte de Blaye,7/31/1997 12:00:00 AM,263.5000,15,0.05
+Howard Snyder,Gnocchi di nonna Alice,7/31/1997 12:00:00 AM,38.0000,14,0
+Howard Snyder,Outback Lager,7/31/1997 12:00:00 AM,15.0000,15,0.05
+Howard Snyder,Flotemysost,7/31/1997 12:00:00 AM,21.5000,15,0.05
+Howard Snyder,Raclette Courdavault,7/31/1997 12:00:00 AM,55.0000,30,0.15
+Jean Fresnière,Grandma's Boysenberry Spread,8/1/1997 12:00:00 AM,25.0000,70,0
+Jean Fresnière,Gnocchi di nonna Alice,8/1/1997 12:00:00 AM,38.0000,20,0
+Jean Fresnière,Scottish Longbreads,8/1/1997 12:00:00 AM,12.5000,15,0
+Jean Fresnière,Sir Rodney's Scones,8/4/1997 12:00:00 AM,10.0000,42,0
+Jean Fresnière,Gustaf's Knäckebröd,8/4/1997 12:00:00 AM,21.0000,40,0
+Yoshi Tannamuri,Guaraná Fantástica,8/5/1997 12:00:00 AM,4.5000,5,0
+Yoshi Tannamuri,Filo Mix,8/5/1997 12:00:00 AM,7.0000,5,0
+Helen Bennett,Teatime Chocolate Biscuits,8/5/1997 12:00:00 AM,9.2000,5,0
+Helen Bennett,Tunnbröd,8/5/1997 12:00:00 AM,9.0000,10,0
+Helen Bennett,Outback Lager,8/5/1997 12:00:00 AM,15.0000,20,0
+Helen Bennett,Flotemysost,8/5/1997 12:00:00 AM,21.5000,15,0
+Janete Limeira,Chang,8/6/1997 12:00:00 AM,19.0000,20,0
+Janete Limeira,Scottish Longbreads,8/6/1997 12:00:00 AM,12.5000,18,0.2
+Peter Franken,Tofu,8/7/1997 12:00:00 AM,23.2500,21,0
+Peter Franken,Teatime Chocolate Biscuits,8/7/1997 12:00:00 AM,9.2000,15,0.1
+Peter Franken,Sir Rodney's Scones,8/7/1997 12:00:00 AM,10.0000,25,0.1
+Peter Franken,Guaraná Fantástica,8/7/1997 12:00:00 AM,4.5000,3,0
+Peter Franken,Steeleye Stout,8/7/1997 12:00:00 AM,18.0000,30,0.1
+Liu Wong,Rössle Sauerkraut,8/7/1997 12:00:00 AM,45.6000,10,0
+Liu Wong,Thüringer Rostbratwurst,8/7/1997 12:00:00 AM,123.7900,6,0
+Liu Wong,Gula Malacca,8/7/1997 12:00:00 AM,19.4500,10,0
+Ana Trujillo,Tofu,8/8/1997 12:00:00 AM,23.2500,3,0
+Ana Trujillo,Singaporean Hokkien Fried Mee,8/8/1997 12:00:00 AM,14.0000,5,0
+Ana Trujillo,Camembert Pierrot,8/8/1997 12:00:00 AM,34.0000,10,0
+Christina Berglund,Perth Pasties,8/11/1997 12:00:00 AM,32.8000,12,0
+Christina Berglund,Camembert Pierrot,8/11/1997 12:00:00 AM,34.0000,20,0
+Christina Berglund,Flotemysost,8/11/1997 12:00:00 AM,21.5000,20,0
+Jose Pavarotti,Tarte au sucre,8/11/1997 12:00:00 AM,49.3000,15,0
+Jose Pavarotti,Röd Kaviar,8/11/1997 12:00:00 AM,15.0000,35,0.15
+Frédérique Citeaux,Chai,8/12/1997 12:00:00 AM,18.0000,25,0
+José Pedro Freyre,Thüringer Rostbratwurst,8/12/1997 12:00:00 AM,123.7900,20,0
+José Pedro Freyre,Wimmers gute Semmelknödel,8/12/1997 12:00:00 AM,33.2500,9,0
+Philip Cramer,Pâté chinois,8/13/1997 12:00:00 AM,24.0000,12,0.05
+Philip Cramer,Lakkalikööri,8/13/1997 12:00:00 AM,18.0000,35,0
+Annette Roulet,Rhönbräu Klosterbier,8/14/1997 12:00:00 AM,7.7500,8,0.1
+Rita Müller,Chang,8/14/1997 12:00:00 AM,19.0000,30,0.05
+Rita Müller,Geitost,8/14/1997 12:00:00 AM,2.5000,20,0.05
+Roland Mendel,Queso Manchego La Pastora,8/15/1997 12:00:00 AM,38.0000,36,0.15
+Roland Mendel,Konbu,8/15/1997 12:00:00 AM,6.0000,13,0.15
+Roland Mendel,Gumbär Gummibärchen,8/15/1997 12:00:00 AM,31.2300,35,0.15
+Roland Mendel,Tarte au sucre,8/15/1997 12:00:00 AM,49.3000,80,0.15
+Martine Rancé,Uncle Bob's Organic Dried Pears,8/15/1997 12:00:00 AM,30.0000,35,0
+Martine Rancé,Carnarvon Tigers,8/15/1997 12:00:00 AM,62.5000,50,0
+Martine Rancé,Manjimup Dried Apples,8/15/1997 12:00:00 AM,53.0000,15,0
+Martine Rancé,Rhönbräu Klosterbier,8/15/1997 12:00:00 AM,7.7500,2,0
+Giovanni Rovelli,Chef Anton's Cajun Seasoning,8/18/1997 12:00:00 AM,22.0000,10,0.1
+Giovanni Rovelli,Chef Anton's Gumbo Mix,8/18/1997 12:00:00 AM,21.3500,15,0.1
+Giovanni Rovelli,Gustaf's Knäckebröd,8/18/1997 12:00:00 AM,21.0000,40,0
+Pirkko Koskitalo,Chef Anton's Cajun Seasoning,8/19/1997 12:00:00 AM,22.0000,25,0
+Pirkko Koskitalo,Escargots de Bourgogne,8/19/1997 12:00:00 AM,13.2500,6,0
+Lúcia Carvalho,Queso Cabrales,8/19/1997 12:00:00 AM,21.0000,10,0
+Lúcia Carvalho,Valkoinen suklaa,8/19/1997 12:00:00 AM,16.2500,25,0.05
+Lúcia Carvalho,Gnocchi di nonna Alice,8/19/1997 12:00:00 AM,38.0000,60,0.05
+Felipe Izquierdo,Rogede sild,8/20/1997 12:00:00 AM,9.5000,20,0
+Felipe Izquierdo,Louisiana Fiery Hot Pepper Sauce,8/20/1997 12:00:00 AM,21.0500,21,0
+Felipe Izquierdo,Mozzarella di Giovanni,8/20/1997 12:00:00 AM,34.8000,60,0
+Jonas Bergulfsen,Carnarvon Tigers,8/20/1997 12:00:00 AM,62.5000,8,0
+Rita Müller,Gudbrandsdalsost,8/21/1997 12:00:00 AM,36.0000,20,0.25
+Rita Müller,Outback Lager,8/21/1997 12:00:00 AM,15.0000,15,0.25
+Carlos Hernández,Chang,8/22/1997 12:00:00 AM,19.0000,50,0
+Carlos Hernández,Boston Crab Meat,8/22/1997 12:00:00 AM,18.4000,60,0
+Jytte Petersen,Sir Rodney's Scones,8/22/1997 12:00:00 AM,10.0000,30,0.2
+Jytte Petersen,Sirop d'érable,8/22/1997 12:00:00 AM,28.5000,20,0.2
+Maria Anders,Rössle Sauerkraut,8/25/1997 12:00:00 AM,45.6000,15,0.25
+Maria Anders,Chartreuse verte,8/25/1997 12:00:00 AM,18.0000,21,0.25
+Maria Anders,Spegesild,8/25/1997 12:00:00 AM,12.0000,2,0.25
+Paula Parente,Carnarvon Tigers,8/25/1997 12:00:00 AM,62.5000,4,0.1
+Paula Parente,Ipoh Coffee,8/25/1997 12:00:00 AM,46.0000,20,0
+Paula Parente,Spegesild,8/25/1997 12:00:00 AM,12.0000,21,0.1
+Mario Pontes,Carnarvon Tigers,8/26/1997 12:00:00 AM,62.5000,20,0
+Mario Pontes,Inlagd Sill,8/26/1997 12:00:00 AM,19.0000,15,0
+Patricia McKenna,Chai,8/27/1997 12:00:00 AM,18.0000,15,0.25
+Patricia McKenna,Ikura,8/27/1997 12:00:00 AM,31.0000,18,0.25
+Patricia McKenna,Flotemysost,8/27/1997 12:00:00 AM,21.5000,30,0.25
+Patricia McKenna,Original Frankfurter grüne Soße,8/27/1997 12:00:00 AM,13.0000,35,0.25
+Bernardo Batista,Teatime Chocolate Biscuits,8/27/1997 12:00:00 AM,9.2000,30,0
+Bernardo Batista,Chartreuse verte,8/27/1997 12:00:00 AM,18.0000,20,0
+Janete Limeira,Gustaf's Knäckebröd,8/28/1997 12:00:00 AM,21.0000,15,0
+Janete Limeira,Guaraná Fantástica,8/28/1997 12:00:00 AM,4.5000,15,0.15
+Catherine Dewey,Rössle Sauerkraut,8/28/1997 12:00:00 AM,45.6000,20,0
+Catherine Dewey,Mozzarella di Giovanni,8/28/1997 12:00:00 AM,34.8000,15,0
+Aria Cruz,Nord-Ost Matjeshering,8/29/1997 12:00:00 AM,25.8900,30,0
+Aria Cruz,Perth Pasties,8/29/1997 12:00:00 AM,32.8000,25,0.05
+Aria Cruz,Tourtière,8/29/1997 12:00:00 AM,7.4500,30,0
+Rita Müller,Teatime Chocolate Biscuits,9/1/1997 12:00:00 AM,9.2000,12,0.25
+Rita Müller,Gustaf's Knäckebröd,9/1/1997 12:00:00 AM,21.0000,20,0.25
+André Fonseca,Nord-Ost Matjeshering,9/1/1997 12:00:00 AM,25.8900,2,0.25
+André Fonseca,Singaporean Hokkien Fried Mee,9/1/1997 12:00:00 AM,14.0000,20,0
+Peter Franken,Pavlova,9/2/1997 12:00:00 AM,17.4500,30,0.1
+Peter Franken,Camembert Pierrot,9/2/1997 12:00:00 AM,34.0000,20,0.1
+Christina Berglund,Chef Anton's Cajun Seasoning,9/2/1997 12:00:00 AM,22.0000,12,0.1
+Christina Berglund,Chartreuse verte,9/2/1997 12:00:00 AM,18.0000,20,0.1
+Christina Berglund,Tourtière,9/2/1997 12:00:00 AM,7.4500,6,0.1
+Maurizio Moroni,Jack's New England Clam Chowder,9/3/1997 12:00:00 AM,9.6500,20,0.2
+Howard Snyder,Tofu,9/4/1997 12:00:00 AM,23.2500,3,0.1
+Howard Snyder,Gula Malacca,9/4/1997 12:00:00 AM,19.4500,28,0.1
+Howard Snyder,Zaanse koeken,9/4/1997 12:00:00 AM,9.5000,6,0.1
+Jose Pavarotti,Genen Shouyu,9/4/1997 12:00:00 AM,15.5000,50,0
+Jose Pavarotti,Jack's New England Clam Chowder,9/4/1997 12:00:00 AM,9.6500,24,0
+Jose Pavarotti,Spegesild,9/4/1997 12:00:00 AM,12.0000,45,0
+Jose Pavarotti,Zaanse koeken,9/4/1997 12:00:00 AM,9.5000,10,0
+Jose Pavarotti,Gnocchi di nonna Alice,9/4/1997 12:00:00 AM,38.0000,45,0
+Jose Pavarotti,Camembert Pierrot,9/4/1997 12:00:00 AM,34.0000,30,0
+Horst Kloss,Sir Rodney's Scones,9/5/1997 12:00:00 AM,10.0000,60,0
+Horst Kloss,Boston Crab Meat,9/5/1997 12:00:00 AM,18.4000,70,0.05
+Horst Kloss,Camembert Pierrot,9/5/1997 12:00:00 AM,34.0000,55,0.05
+Horst Kloss,Original Frankfurter grüne Soße,9/5/1997 12:00:00 AM,13.0000,70,0.05
+Lúcia Carvalho,Gorgonzola Telino,9/5/1997 12:00:00 AM,12.5000,20,0.05
+Lúcia Carvalho,Boston Crab Meat,9/5/1997 12:00:00 AM,18.4000,24,0.05
+Lúcia Carvalho,Outback Lager,9/5/1997 12:00:00 AM,15.0000,40,0.05
+Yoshi Latimer,Sir Rodney's Marmalade,9/8/1997 12:00:00 AM,81.0000,21,0
+Patricia McKenna,Chartreuse verte,9/9/1997 12:00:00 AM,18.0000,3,0.2
+Patricia McKenna,Escargots de Bourgogne,9/9/1997 12:00:00 AM,13.2500,49,0.2
+Fran Wilson,Scottish Longbreads,9/9/1997 12:00:00 AM,12.5000,10,0
+Laurence Lebihan,Boston Crab Meat,9/10/1997 12:00:00 AM,18.4000,30,0.05
+Laurence Lebihan,Singaporean Hokkien Fried Mee,9/10/1997 12:00:00 AM,14.0000,30,0.05
+Laurence Lebihan,Manjimup Dried Apples,9/10/1997 12:00:00 AM,53.0000,20,0.05
+Lino Rodriguez,Ikura,9/10/1997 12:00:00 AM,31.0000,24,0.15
+Lino Rodriguez,Gnocchi di nonna Alice,9/10/1997 12:00:00 AM,38.0000,12,0.15
+Lino Rodriguez,Louisiana Fiery Hot Pepper Sauce,9/10/1997 12:00:00 AM,21.0500,15,0.15
+Fran Wilson,Manjimup Dried Apples,9/11/1997 12:00:00 AM,53.0000,20,0
+Fran Wilson,Raclette Courdavault,9/11/1997 12:00:00 AM,55.0000,1,0
+Fran Wilson,Lakkalikööri,9/11/1997 12:00:00 AM,18.0000,10,0
+Michael Holz,Thüringer Rostbratwurst,9/12/1997 12:00:00 AM,123.7900,36,0
+Michael Holz,Louisiana Fiery Hot Pepper Sauce,9/12/1997 12:00:00 AM,21.0500,10,0
+Roland Mendel,Gudbrandsdalsost,9/12/1997 12:00:00 AM,36.0000,45,0.2
+Roland Mendel,Flotemysost,9/12/1997 12:00:00 AM,21.5000,14,0.2
+Rita Müller,Gorgonzola Telino,9/15/1997 12:00:00 AM,12.5000,8,0.1
+Rita Müller,Pâté chinois,9/15/1997 12:00:00 AM,24.0000,4,0.1
+Rita Müller,Wimmers gute Semmelknödel,9/15/1997 12:00:00 AM,33.2500,15,0.1
+Jytte Petersen,Inlagd Sill,9/15/1997 12:00:00 AM,19.0000,30,0
+Peter Franken,Tunnbröd,9/16/1997 12:00:00 AM,9.0000,32,0
+Peter Franken,Spegesild,9/16/1997 12:00:00 AM,12.0000,60,0
+Peter Franken,Laughing Lumberjack Lager,9/16/1997 12:00:00 AM,14.0000,25,0
+Peter Franken,Röd Kaviar,9/16/1997 12:00:00 AM,15.0000,50,0
+Peter Franken,Rhönbräu Klosterbier,9/16/1997 12:00:00 AM,7.7500,25,0
+Carine Schmitt,Pavlova,9/17/1997 12:00:00 AM,17.4500,10,0
+Carine Schmitt,Tarte au sucre,9/17/1997 12:00:00 AM,49.3000,10,0
+Carine Schmitt,Louisiana Fiery Hot Pepper Sauce,9/17/1997 12:00:00 AM,21.0500,12,0
+Christina Berglund,Côte de Blaye,9/17/1997 12:00:00 AM,263.5000,15,0.1
+Christina Berglund,Flotemysost,9/17/1997 12:00:00 AM,21.5000,12,0
+Matti Karttunen,Pavlova,9/18/1997 12:00:00 AM,17.4500,3,0
+Matti Karttunen,Singaporean Hokkien Fried Mee,9/18/1997 12:00:00 AM,14.0000,6,0
+Matti Karttunen,Ipoh Coffee,9/18/1997 12:00:00 AM,46.0000,6,0
+Helen Bennett,Tunnbröd,9/18/1997 12:00:00 AM,9.0000,5,0
+Peter Franken,Tofu,9/19/1997 12:00:00 AM,23.2500,30,0
+Peter Franken,Perth Pasties,9/19/1997 12:00:00 AM,32.8000,10,0
+Peter Franken,Escargots de Bourgogne,9/19/1997 12:00:00 AM,13.2500,30,0
+Miguel Angel Paolino,Ikura,9/22/1997 12:00:00 AM,31.0000,2,0
+Miguel Angel Paolino,Teatime Chocolate Biscuits,9/22/1997 12:00:00 AM,9.2000,7,0
+Miguel Angel Paolino,Gula Malacca,9/22/1997 12:00:00 AM,19.4500,21,0
+Antonio Moreno,Gumbär Gummibärchen,9/22/1997 12:00:00 AM,31.2300,30,0.15
+Antonio Moreno,Geitost,9/22/1997 12:00:00 AM,2.5000,8,0.15
+Jose Pavarotti,Queso Manchego La Pastora,9/23/1997 12:00:00 AM,38.0000,100,0
+Jose Pavarotti,Geitost,9/23/1997 12:00:00 AM,2.5000,30,0
+Jose Pavarotti,Jack's New England Clam Chowder,9/23/1997 12:00:00 AM,9.6500,120,0
+Jose Pavarotti,Tourtière,9/23/1997 12:00:00 AM,7.4500,30,0
+Frédérique Citeaux,Raclette Courdavault,9/23/1997 12:00:00 AM,55.0000,12,0
+Rene Phillips,Pavlova,9/24/1997 12:00:00 AM,17.4500,50,0.25
+Rene Phillips,Gorgonzola Telino,9/24/1997 12:00:00 AM,12.5000,20,0.25
+Rene Phillips,Singaporean Hokkien Fried Mee,9/24/1997 12:00:00 AM,14.0000,40,0.25
+Howard Snyder,Teatime Chocolate Biscuits,9/25/1997 12:00:00 AM,9.2000,30,0.1
+Howard Snyder,Sir Rodney's Scones,9/25/1997 12:00:00 AM,10.0000,12,0.1
+Howard Snyder,Wimmers gute Semmelknödel,9/25/1997 12:00:00 AM,33.2500,28,0
+Antonio Moreno,Geitost,9/25/1997 12:00:00 AM,2.5000,30,0
+Antonio Moreno,Louisiana Hot Spiced Okra,9/25/1997 12:00:00 AM,17.0000,4,0
+Antonio Moreno,Rhönbräu Klosterbier,9/25/1997 12:00:00 AM,7.7500,30,0
+Janine Labrune,Filo Mix,9/26/1997 12:00:00 AM,7.0000,9,0
+Henriette Pfalzheim,Boston Crab Meat,9/26/1997 12:00:00 AM,18.4000,20,0
+Henriette Pfalzheim,Zaanse koeken,9/26/1997 12:00:00 AM,9.5000,40,0
+Henriette Pfalzheim,Camembert Pierrot,9/26/1997 12:00:00 AM,34.0000,30,0
+André Fonseca,Ikura,9/29/1997 12:00:00 AM,31.0000,20,0
+André Fonseca,Jack's New England Clam Chowder,9/29/1997 12:00:00 AM,9.6500,4,0
+André Fonseca,Zaanse koeken,9/29/1997 12:00:00 AM,9.5000,15,0
+Georg Pipps,Alice Mutton,9/30/1997 12:00:00 AM,39.0000,30,0.2
+Georg Pipps,Gumbär Gummibärchen,9/30/1997 12:00:00 AM,31.2300,15,0
+Patricia McKenna,Mishi Kobe Niku,9/30/1997 12:00:00 AM,97.0000,50,0.25
+Patricia McKenna,Thüringer Rostbratwurst,9/30/1997 12:00:00 AM,123.7900,10,0
+Patricia McKenna,Inlagd Sill,9/30/1997 12:00:00 AM,19.0000,6,0.25
+Palle Ibsen,Ikura,10/1/1997 12:00:00 AM,31.0000,18,0.1
+Palle Ibsen,Rössle Sauerkraut,10/1/1997 12:00:00 AM,45.6000,60,0.1
+Palle Ibsen,Sasquatch Ale,10/1/1997 12:00:00 AM,14.0000,14,0
+Christina Berglund,Chai,10/1/1997 12:00:00 AM,18.0000,35,0.25
+Mario Pontes,Gnocchi di nonna Alice,10/2/1997 12:00:00 AM,38.0000,20,0.25
+Mario Pontes,Original Frankfurter grüne Soße,10/2/1997 12:00:00 AM,13.0000,30,0.25
+Horst Kloss,Chai,10/3/1997 12:00:00 AM,18.0000,30,0
+Horst Kloss,Thüringer Rostbratwurst,10/3/1997 12:00:00 AM,123.7900,40,0
+Horst Kloss,Ipoh Coffee,10/3/1997 12:00:00 AM,46.0000,40,0
+Horst Kloss,Gula Malacca,10/3/1997 12:00:00 AM,19.4500,24,0
+Horst Kloss,Tarte au sucre,10/3/1997 12:00:00 AM,49.3000,48,0
+Maria Anders,Vegie-spread,10/3/1997 12:00:00 AM,43.9000,20,0
+Karl Jablonski,Mishi Kobe Niku,10/6/1997 12:00:00 AM,97.0000,6,0
+Karl Jablonski,Tourtière,10/6/1997 12:00:00 AM,7.4500,60,0.15
+Karl Jablonski,Gudbrandsdalsost,10/6/1997 12:00:00 AM,36.0000,30,0.15
+Karl Jablonski,Röd Kaviar,10/6/1997 12:00:00 AM,15.0000,15,0.15
+Horst Kloss,Uncle Bob's Organic Dried Pears,10/6/1997 12:00:00 AM,30.0000,90,0
+Horst Kloss,Raclette Courdavault,10/6/1997 12:00:00 AM,55.0000,25,0
+Horst Kloss,Outback Lager,10/6/1997 12:00:00 AM,15.0000,50,0
+Matti Karttunen,Northwoods Cranberry Sauce,10/7/1997 12:00:00 AM,40.0000,10,0
+Matti Karttunen,Queso Manchego La Pastora,10/7/1997 12:00:00 AM,38.0000,4,0
+Matti Karttunen,Guaraná Fantástica,10/7/1997 12:00:00 AM,4.5000,20,0
+Karl Jablonski,Alice Mutton,10/8/1997 12:00:00 AM,39.0000,20,0
+Karl Jablonski,Spegesild,10/8/1997 12:00:00 AM,12.0000,18,0
+Felipe Izquierdo,Teatime Chocolate Biscuits,10/8/1997 12:00:00 AM,9.2000,7,0.25
+Felipe Izquierdo,Steeleye Stout,10/8/1997 12:00:00 AM,18.0000,9,0.25
+Felipe Izquierdo,Escargots de Bourgogne,10/8/1997 12:00:00 AM,13.2500,30,0.25
+Felipe Izquierdo,Outback Lager,10/8/1997 12:00:00 AM,15.0000,30,0.25
+Roland Mendel,Queso Cabrales,10/9/1997 12:00:00 AM,21.0000,15,0
+Roland Mendel,Alice Mutton,10/9/1997 12:00:00 AM,39.0000,8,0.05
+Roland Mendel,Thüringer Rostbratwurst,10/9/1997 12:00:00 AM,123.7900,12,0.05
+Roland Mendel,Louisiana Fiery Hot Pepper Sauce,10/9/1997 12:00:00 AM,21.0500,65,0.05
+Roland Mendel,Outback Lager,10/9/1997 12:00:00 AM,15.0000,8,0.05
+Alexander Feuer,Zaanse koeken,10/9/1997 12:00:00 AM,9.5000,12,0
+Jose Pavarotti,Chai,10/10/1997 12:00:00 AM,18.0000,5,0.2
+Jose Pavarotti,Sasquatch Ale,10/10/1997 12:00:00 AM,14.0000,12,0.2
+Jose Pavarotti,Scottish Longbreads,10/10/1997 12:00:00 AM,12.5000,40,0.2
+Jose Pavarotti,Flotemysost,10/10/1997 12:00:00 AM,21.5000,60,0.2
+Patricia McKenna,Raclette Courdavault,10/13/1997 12:00:00 AM,55.0000,42,0.15
+Patricia McKenna,Flotemysost,10/13/1997 12:00:00 AM,21.5000,20,0.15
+Patricia McKenna,Lakkalikööri,10/13/1997 12:00:00 AM,18.0000,35,0.15
+Maria Anders,Aniseed Syrup,10/13/1997 12:00:00 AM,10.0000,6,0
+Maria Anders,Lakkalikööri,10/13/1997 12:00:00 AM,18.0000,15,0
+Maria Larsson,Chang,10/14/1997 12:00:00 AM,19.0000,5,0
+Maria Larsson,Raclette Courdavault,10/14/1997 12:00:00 AM,55.0000,35,0
+Maria Larsson,Röd Kaviar,10/14/1997 12:00:00 AM,15.0000,35,0
+Lúcia Carvalho,Chef Anton's Cajun Seasoning,10/14/1997 12:00:00 AM,22.0000,6,0
+Lúcia Carvalho,Guaraná Fantástica,10/14/1997 12:00:00 AM,4.5000,35,0
+Lúcia Carvalho,Chocolade,10/14/1997 12:00:00 AM,12.7500,24,0
+Carlos Hernández,Gorgonzola Telino,10/15/1997 12:00:00 AM,12.5000,20,0
+Carlos Hernández,Mascarpone Fabioli,10/15/1997 12:00:00 AM,32.0000,4,0
+Rene Phillips,Pavlova,10/16/1997 12:00:00 AM,17.4500,20,0
+Rene Phillips,Ipoh Coffee,10/16/1997 12:00:00 AM,46.0000,24,0
+Rene Phillips,Raclette Courdavault,10/16/1997 12:00:00 AM,55.0000,8,0
+Thomas Hardy,Pâté chinois,10/16/1997 12:00:00 AM,24.0000,21,0
+Thomas Hardy,Ravioli Angelo,10/16/1997 12:00:00 AM,19.5000,40,0
+Thomas Hardy,Outback Lager,10/16/1997 12:00:00 AM,15.0000,28,0.15
+Liz Nixon,Chef Anton's Gumbo Mix,10/17/1997 12:00:00 AM,21.3500,4,0
+Liz Nixon,Inlagd Sill,10/17/1997 12:00:00 AM,19.0000,5,0
+André Fonseca,Northwoods Cranberry Sauce,10/17/1997 12:00:00 AM,40.0000,40,0
+André Fonseca,Manjimup Dried Apples,10/17/1997 12:00:00 AM,53.0000,28,0
+André Fonseca,Camembert Pierrot,10/17/1997 12:00:00 AM,34.0000,10,0
+Paolo Accorti,Teatime Chocolate Biscuits,10/20/1997 12:00:00 AM,9.2000,5,0
+Paolo Accorti,Zaanse koeken,10/20/1997 12:00:00 AM,9.5000,5,0
+Jose Pavarotti,Teatime Chocolate Biscuits,10/21/1997 12:00:00 AM,9.2000,12,0
+Jose Pavarotti,Jack's New England Clam Chowder,10/21/1997 12:00:00 AM,9.6500,42,0
+Jose Pavarotti,Perth Pasties,10/21/1997 12:00:00 AM,32.8000,120,0
+Patricia McKenna,Perth Pasties,10/21/1997 12:00:00 AM,32.8000,3,0.05
+Patricia McKenna,Gnocchi di nonna Alice,10/21/1997 12:00:00 AM,38.0000,30,0
+Jose Pavarotti,Ikura,10/22/1997 12:00:00 AM,31.0000,18,0
+Jose Pavarotti,Gumbär Gummibärchen,10/22/1997 12:00:00 AM,31.2300,30,0
+Jose Pavarotti,Rogede sild,10/22/1997 12:00:00 AM,9.5000,110,0
+Jose Pavarotti,Spegesild,10/22/1997 12:00:00 AM,12.0000,24,0
+Jose Pavarotti,Chang,10/22/1997 12:00:00 AM,19.0000,30,0.25
+Jose Pavarotti,Alice Mutton,10/22/1997 12:00:00 AM,39.0000,27,0.25
+Jose Pavarotti,Zaanse koeken,10/22/1997 12:00:00 AM,9.5000,50,0.25
+Jose Pavarotti,Gnocchi di nonna Alice,10/22/1997 12:00:00 AM,38.0000,18,0.25
+Jose Pavarotti,Escargots de Bourgogne,10/22/1997 12:00:00 AM,13.2500,12,0.25
+Laurence Lebihan,Ikura,10/23/1997 12:00:00 AM,31.0000,21,0
+Laurence Lebihan,Flotemysost,10/23/1997 12:00:00 AM,21.5000,30,0
+Sergio Gutiérrez,Sir Rodney's Scones,10/24/1997 12:00:00 AM,10.0000,5,0
+Sergio Gutiérrez,Manjimup Dried Apples,10/24/1997 12:00:00 AM,53.0000,7,0
+Sergio Gutiérrez,Sirop d'érable,10/24/1997 12:00:00 AM,28.5000,10,0
+Peter Franken,Sir Rodney's Scones,10/24/1997 12:00:00 AM,10.0000,32,0.05
+Peter Franken,Tourtière,10/24/1997 12:00:00 AM,7.4500,15,0
+Peter Franken,Gudbrandsdalsost,10/24/1997 12:00:00 AM,36.0000,25,0.05
+Philip Cramer,Queso Manchego La Pastora,10/27/1997 12:00:00 AM,38.0000,36,0
+Philip Cramer,Pavlova,10/27/1997 12:00:00 AM,17.4500,20,0
+Philip Cramer,Inlagd Sill,10/27/1997 12:00:00 AM,19.0000,40,0
+Philip Cramer,Tarte au sucre,10/27/1997 12:00:00 AM,49.3000,20,0
+Jaime Yorres,Carnarvon Tigers,10/27/1997 12:00:00 AM,62.5000,12,0.25
+Jaime Yorres,Nord-Ost Matjeshering,10/27/1997 12:00:00 AM,25.8900,3,0.25
+Jaime Yorres,Tourtière,10/27/1997 12:00:00 AM,7.4500,40,0.25
+Bernardo Batista,Steeleye Stout,10/28/1997 12:00:00 AM,18.0000,21,0
+Bernardo Batista,Flotemysost,10/28/1997 12:00:00 AM,21.5000,8,0
+Horst Kloss,Gula Malacca,10/29/1997 12:00:00 AM,19.4500,50,0.05
+Jose Pavarotti,Chang,10/29/1997 12:00:00 AM,19.0000,3,0
+Jose Pavarotti,Gorgonzola Telino,10/29/1997 12:00:00 AM,12.5000,50,0
+Jose Pavarotti,Scottish Longbreads,10/29/1997 12:00:00 AM,12.5000,45,0
+Jose Pavarotti,Rhönbräu Klosterbier,10/29/1997 12:00:00 AM,7.7500,42,0
+Karl Jablonski,Gumbär Gummibärchen,10/30/1997 12:00:00 AM,31.2300,15,0
+Jean Fresnière,Ikura,10/30/1997 12:00:00 AM,31.0000,16,0
+Jean Fresnière,Sirop d'érable,10/30/1997 12:00:00 AM,28.5000,5,0
+Aria Cruz,Jack's New England Clam Chowder,10/31/1997 12:00:00 AM,9.6500,12,0
+Aria Cruz,Filo Mix,10/31/1997 12:00:00 AM,7.0000,4,0
+Aria Cruz,Pâté chinois,10/31/1997 12:00:00 AM,24.0000,6,0
+Ann Devon,Chef Anton's Cajun Seasoning,11/3/1997 12:00:00 AM,22.0000,25,0
+Ann Devon,Queso Cabrales,11/3/1997 12:00:00 AM,21.0000,5,0
+Maurizio Moroni,Alice Mutton,11/3/1997 12:00:00 AM,39.0000,20,0.05
+Maurizio Moroni,Gnocchi di nonna Alice,11/3/1997 12:00:00 AM,38.0000,10,0.05
+Maurizio Moroni,Raclette Courdavault,11/3/1997 12:00:00 AM,55.0000,10,0.05
+Lúcia Carvalho,Nord-Ost Matjeshering,11/4/1997 12:00:00 AM,25.8900,15,0
+Lúcia Carvalho,Boston Crab Meat,11/4/1997 12:00:00 AM,18.4000,6,0
+Lúcia Carvalho,Pâté chinois,11/4/1997 12:00:00 AM,24.0000,12,0
+Lúcia Carvalho,Camembert Pierrot,11/4/1997 12:00:00 AM,34.0000,15,0
+Felipe Izquierdo,Chai,11/4/1997 12:00:00 AM,18.0000,50,0
+Felipe Izquierdo,Sir Rodney's Scones,11/4/1997 12:00:00 AM,10.0000,30,0
+Felipe Izquierdo,Valkoinen suklaa,11/4/1997 12:00:00 AM,16.2500,40,0
+Laurence Lebihan,Pavlova,11/5/1997 12:00:00 AM,17.4500,15,0.05
+Laurence Lebihan,Gorgonzola Telino,11/5/1997 12:00:00 AM,12.5000,3,0.05
+Laurence Lebihan,Louisiana Fiery Hot Pepper Sauce,11/5/1997 12:00:00 AM,21.0500,10,0.05
+Yang Wang,Sir Rodney's Scones,11/6/1997 12:00:00 AM,10.0000,40,0.05
+Yang Wang,Manjimup Dried Apples,11/6/1997 12:00:00 AM,53.0000,30,0.05
+Laurence Lebihan,Lakkalikööri,11/6/1997 12:00:00 AM,18.0000,20,0
+Christina Berglund,Tofu,11/7/1997 12:00:00 AM,23.2500,16,0
+Christina Berglund,Rössle Sauerkraut,11/7/1997 12:00:00 AM,45.6000,20,0
+Christina Berglund,Filo Mix,11/7/1997 12:00:00 AM,7.0000,25,0
+André Fonseca,Grandma's Boysenberry Spread,11/7/1997 12:00:00 AM,25.0000,30,0
+André Fonseca,Nord-Ost Matjeshering,11/7/1997 12:00:00 AM,25.8900,15,0
+André Fonseca,Lakkalikööri,11/7/1997 12:00:00 AM,18.0000,20,0
+Jaime Yorres,Sirop d'érable,11/10/1997 12:00:00 AM,28.5000,20,0.1
+Jaime Yorres,Original Frankfurter grüne Soße,11/10/1997 12:00:00 AM,13.0000,2,0.1
+Patricia McKenna,Louisiana Fiery Hot Pepper Sauce,11/11/1997 12:00:00 AM,21.0500,40,0
+Patricia McKenna,Rhönbräu Klosterbier,11/11/1997 12:00:00 AM,7.7500,20,0
+Paul Henriot,Konbu,11/11/1997 12:00:00 AM,6.0000,4,0
+Paul Henriot,Jack's New England Clam Chowder,11/11/1997 12:00:00 AM,9.6500,12,0
+Dominique Perrier,Pavlova,11/12/1997 12:00:00 AM,17.4500,3,0
+Paul Henriot,Inlagd Sill,11/12/1997 12:00:00 AM,19.0000,6,0
+Paul Henriot,Filo Mix,11/12/1997 12:00:00 AM,7.0000,18,0
+Karl Jablonski,Rössle Sauerkraut,11/13/1997 12:00:00 AM,45.6000,5,0.2
+Karl Jablonski,Steeleye Stout,11/13/1997 12:00:00 AM,18.0000,35,0.2
+Karl Jablonski,Rogede sild,11/13/1997 12:00:00 AM,9.5000,40,0.2
+Karl Jablonski,Gnocchi di nonna Alice,11/13/1997 12:00:00 AM,38.0000,14,0.2
+Thomas Hardy,Chang,11/14/1997 12:00:00 AM,19.0000,15,0.2
+Elizabeth Lincoln,Aniseed Syrup,11/14/1997 12:00:00 AM,10.0000,20,0
+Elizabeth Lincoln,Camembert Pierrot,11/14/1997 12:00:00 AM,34.0000,50,0
+Elizabeth Lincoln,Mozzarella di Giovanni,11/14/1997 12:00:00 AM,34.8000,35,0
+Thomas Hardy,Spegesild,11/17/1997 12:00:00 AM,12.0000,28,0.05
+Palle Ibsen,Boston Crab Meat,11/17/1997 12:00:00 AM,18.4000,50,0.2
+Horst Kloss,Carnarvon Tigers,11/18/1997 12:00:00 AM,62.5000,24,0
+Horst Kloss,Gula Malacca,11/18/1997 12:00:00 AM,19.4500,16,0
+Horst Kloss,Raclette Courdavault,11/18/1997 12:00:00 AM,55.0000,45,0
+Horst Kloss,Mozzarella di Giovanni,11/18/1997 12:00:00 AM,34.8000,7,0
+Yang Wang,Konbu,11/19/1997 12:00:00 AM,6.0000,6,0
+Yang Wang,Singaporean Hokkien Fried Mee,11/19/1997 12:00:00 AM,14.0000,28,0
+Yang Wang,Tarte au sucre,11/19/1997 12:00:00 AM,49.3000,9,0
+Yang Wang,Gudbrandsdalsost,11/19/1997 12:00:00 AM,36.0000,40,0
+Georg Pipps,Gorgonzola Telino,11/19/1997 12:00:00 AM,12.5000,8,0
+Georg Pipps,Jack's New England Clam Chowder,11/19/1997 12:00:00 AM,9.6500,35,0
+Georg Pipps,Vegie-spread,11/19/1997 12:00:00 AM,43.9000,9,0
+Georg Pipps,Gudbrandsdalsost,11/19/1997 12:00:00 AM,36.0000,30,0
+Jose Pavarotti,Tunnbröd,11/20/1997 12:00:00 AM,9.0000,44,0
+Jose Pavarotti,Boston Crab Meat,11/20/1997 12:00:00 AM,18.4000,40,0
+Jose Pavarotti,Gnocchi di nonna Alice,11/20/1997 12:00:00 AM,38.0000,28,0
+Helen Bennett,Gnocchi di nonna Alice,11/20/1997 12:00:00 AM,38.0000,15,0
+Helen Bennett,Raclette Courdavault,11/20/1997 12:00:00 AM,55.0000,6,0
+Helen Bennett,Lakkalikööri,11/20/1997 12:00:00 AM,18.0000,10,0
+Pirkko Koskitalo,Tofu,11/21/1997 12:00:00 AM,23.2500,5,0.15
+Pirkko Koskitalo,Rogede sild,11/21/1997 12:00:00 AM,9.5000,40,0.15
+Pirkko Koskitalo,Raclette Courdavault,11/21/1997 12:00:00 AM,55.0000,25,0.15
+Michael Holz,Gumbär Gummibärchen,11/24/1997 12:00:00 AM,31.2300,12,0.1
+Michael Holz,Nord-Ost Matjeshering,11/24/1997 12:00:00 AM,25.8900,30,0
+Michael Holz,Valkoinen suklaa,11/24/1997 12:00:00 AM,16.2500,20,0.1
+Michael Holz,Röd Kaviar,11/24/1997 12:00:00 AM,15.0000,15,0
+Simon Crowther,Chai,11/24/1997 12:00:00 AM,18.0000,8,0
+Simon Crowther,Gudbrandsdalsost,11/24/1997 12:00:00 AM,36.0000,3,0
+Paolo Accorti,Rogede sild,11/25/1997 12:00:00 AM,9.5000,4,0
+Paolo Accorti,Longlife Tofu,11/25/1997 12:00:00 AM,10.0000,5,0
+Giovanni Rovelli,Boston Crab Meat,11/25/1997 12:00:00 AM,18.4000,3,0
+Laurence Lebihan,Zaanse koeken,11/26/1997 12:00:00 AM,9.5000,30,0.25
+Laurence Lebihan,Gnocchi di nonna Alice,11/26/1997 12:00:00 AM,38.0000,30,0.25
+Laurence Lebihan,Ravioli Angelo,11/26/1997 12:00:00 AM,19.5000,14,0.25
+Laurence Lebihan,Gudbrandsdalsost,11/26/1997 12:00:00 AM,36.0000,25,0.25
+Art Braunschweiger,Carnarvon Tigers,11/27/1997 12:00:00 AM,62.5000,21,0.2
+Art Braunschweiger,Inlagd Sill,11/27/1997 12:00:00 AM,19.0000,20,0.2
+Art Braunschweiger,Scottish Longbreads,11/27/1997 12:00:00 AM,12.5000,6,0.2
+Art Braunschweiger,Gudbrandsdalsost,11/27/1997 12:00:00 AM,36.0000,20,0.2
+Jose Pavarotti,Sasquatch Ale,11/27/1997 12:00:00 AM,14.0000,30,0
+Jose Pavarotti,Raclette Courdavault,11/27/1997 12:00:00 AM,55.0000,7,0
+Jose Pavarotti,Tarte au sucre,11/27/1997 12:00:00 AM,49.3000,30,0
+Jose Pavarotti,Wimmers gute Semmelknödel,11/27/1997 12:00:00 AM,33.2500,24,0
+Michael Holz,Gumbär Gummibärchen,11/28/1997 12:00:00 AM,31.2300,20,0
+Michael Holz,Filo Mix,11/28/1997 12:00:00 AM,7.0000,60,0
+Michael Holz,Outback Lager,11/28/1997 12:00:00 AM,15.0000,40,0
+Ana Trujillo,Mascarpone Fabioli,11/28/1997 12:00:00 AM,32.0000,10,0
+Catherine Dewey,NuNuCa Nuß-Nougat-Creme,12/1/1997 12:00:00 AM,14.0000,12,0.25
+Catherine Dewey,Schoggi Schokolade,12/1/1997 12:00:00 AM,43.9000,40,0
+Catherine Dewey,Ipoh Coffee,12/1/1997 12:00:00 AM,46.0000,30,0.25
+Paula Wilson,NuNuCa Nuß-Nougat-Creme,12/2/1997 12:00:00 AM,14.0000,35,0.25
+Paula Wilson,Rhönbräu Klosterbier,12/2/1997 12:00:00 AM,7.7500,18,0
+Maria Larsson,Chartreuse verte,12/2/1997 12:00:00 AM,18.0000,16,0
+Maria Larsson,Zaanse koeken,12/2/1997 12:00:00 AM,9.5000,30,0
+Maria Larsson,Manjimup Dried Apples,12/2/1997 12:00:00 AM,53.0000,28,0
+Maria Larsson,Gnocchi di nonna Alice,12/2/1997 12:00:00 AM,38.0000,60,0
+Martine Rancé,Sir Rodney's Scones,12/3/1997 12:00:00 AM,10.0000,40,0
+Martine Rancé,Gustaf's Knäckebröd,12/3/1997 12:00:00 AM,21.0000,6,0
+Martine Rancé,Guaraná Fantástica,12/3/1997 12:00:00 AM,4.5000,20,0
+Roland Mendel,Aniseed Syrup,12/3/1997 12:00:00 AM,10.0000,20,0.1
+Roland Mendel,Chartreuse verte,12/3/1997 12:00:00 AM,18.0000,130,0.1
+Horst Kloss,Louisiana Fiery Hot Pepper Sauce,12/4/1997 12:00:00 AM,21.0500,80,0.1
+Henriette Pfalzheim,Chang,12/5/1997 12:00:00 AM,19.0000,40,0
+Henriette Pfalzheim,Uncle Bob's Organic Dried Pears,12/5/1997 12:00:00 AM,30.0000,35,0
+Henriette Pfalzheim,Scottish Longbreads,12/5/1997 12:00:00 AM,12.5000,40,0
+Pascale Cartrain,Singaporean Hokkien Fried Mee,12/5/1997 12:00:00 AM,14.0000,2,0
+Thomas Hardy,Gustaf's Knäckebröd,12/8/1997 12:00:00 AM,21.0000,4,0
+Thomas Hardy,Gorgonzola Telino,12/8/1997 12:00:00 AM,12.5000,50,0
+Thomas Hardy,Camembert Pierrot,12/8/1997 12:00:00 AM,34.0000,15,0
+Thomas Hardy,Flotemysost,12/8/1997 12:00:00 AM,21.5000,12,0
+Palle Ibsen,Jack's New England Clam Chowder,12/8/1997 12:00:00 AM,9.6500,30,0.05
+Palle Ibsen,Filo Mix,12/8/1997 12:00:00 AM,7.0000,15,0.05
+Palle Ibsen,Sirop d'érable,12/8/1997 12:00:00 AM,28.5000,20,0
+Palle Ibsen,Tarte au sucre,12/8/1997 12:00:00 AM,49.3000,15,0
+Mario Pontes,Queso Cabrales,12/9/1997 12:00:00 AM,21.0000,15,0.25
+Roland Mendel,Flotemysost,12/10/1997 12:00:00 AM,21.5000,16,0
+Renate Messner,Thüringer Rostbratwurst,12/10/1997 12:00:00 AM,123.7900,18,0
+Renate Messner,Raclette Courdavault,12/10/1997 12:00:00 AM,55.0000,25,0
+Roland Mendel,Alice Mutton,12/11/1997 12:00:00 AM,39.0000,33,0
+Roland Mendel,Gorgonzola Telino,12/11/1997 12:00:00 AM,12.5000,70,0.2
+Roland Mendel,Rhönbräu Klosterbier,12/11/1997 12:00:00 AM,7.7500,7,0.2
+Maria Larsson,Gorgonzola Telino,12/11/1997 12:00:00 AM,12.5000,2,0.25
+Maria Larsson,Louisiana Hot Spiced Okra,12/11/1997 12:00:00 AM,17.0000,50,0
+Liu Wong,Ikura,12/12/1997 12:00:00 AM,31.0000,6,0
+Liu Wong,Laughing Lumberjack Lager,12/12/1997 12:00:00 AM,14.0000,3,0
+Roland Mendel,Gorgonzola Telino,12/15/1997 12:00:00 AM,12.5000,16,0.05
+Roland Mendel,Singaporean Hokkien Fried Mee,12/15/1997 12:00:00 AM,14.0000,12,0.05
+Roland Mendel,Rogede sild,12/15/1997 12:00:00 AM,9.5000,27,0.05
+Roland Mendel,Manjimup Dried Apples,12/15/1997 12:00:00 AM,53.0000,120,0.05
+André Fonseca,Singaporean Hokkien Fried Mee,12/15/1997 12:00:00 AM,14.0000,20,0.2
+Christina Berglund,Jack's New England Clam Chowder,12/16/1997 12:00:00 AM,9.6500,10,0
+Alexander Feuer,Pavlova,12/16/1997 12:00:00 AM,17.4500,20,0
+Alexander Feuer,Tarte au sucre,12/16/1997 12:00:00 AM,49.3000,20,0
+Carlos González,Outback Lager,12/16/1997 12:00:00 AM,15.0000,35,0
+Carlos González,Original Frankfurter grüne Soße,12/16/1997 12:00:00 AM,13.0000,15,0
+Pirkko Koskitalo,Tourtière,12/17/1997 12:00:00 AM,7.4500,3,0.2
+Pirkko Koskitalo,Gnocchi di nonna Alice,12/17/1997 12:00:00 AM,38.0000,20,0.2
+Pirkko Koskitalo,Longlife Tofu,12/17/1997 12:00:00 AM,10.0000,35,0
+Patricio Simpson,Gorgonzola Telino,12/17/1997 12:00:00 AM,12.5000,1,0
+Mario Pontes,Gorgonzola Telino,12/18/1997 12:00:00 AM,12.5000,10,0
+Mario Pontes,Côte de Blaye,12/18/1997 12:00:00 AM,263.5000,5,0
+Giovanni Rovelli,Inlagd Sill,12/18/1997 12:00:00 AM,19.0000,30,0
+Giovanni Rovelli,Chartreuse verte,12/18/1997 12:00:00 AM,18.0000,2,0.15
+Giovanni Rovelli,Mozzarella di Giovanni,12/18/1997 12:00:00 AM,34.8000,30,0.15
+Manuel Pereira,Ikura,12/18/1997 12:00:00 AM,31.0000,10,0
+Manuel Pereira,Rhönbräu Klosterbier,12/18/1997 12:00:00 AM,7.7500,10,0
+Lúcia Carvalho,Northwoods Cranberry Sauce,12/19/1997 12:00:00 AM,40.0000,30,0.2
+Lúcia Carvalho,Nord-Ost Matjeshering,12/19/1997 12:00:00 AM,25.8900,15,0.2
+Lúcia Carvalho,Rhönbräu Klosterbier,12/19/1997 12:00:00 AM,7.7500,42,0.2
+Annette Roulet,Chang,12/19/1997 12:00:00 AM,19.0000,15,0.05
+Annette Roulet,Thüringer Rostbratwurst,12/19/1997 12:00:00 AM,123.7900,20,0.05
+Horst Kloss,Teatime Chocolate Biscuits,12/22/1997 12:00:00 AM,9.2000,50,0.05
+Horst Kloss,Rhönbräu Klosterbier,12/22/1997 12:00:00 AM,7.7500,40,0.05
+Martine Rancé,Carnarvon Tigers,12/22/1997 12:00:00 AM,62.5000,30,0
+Martine Rancé,Steeleye Stout,12/22/1997 12:00:00 AM,18.0000,15,0
+Martine Rancé,Vegie-spread,12/22/1997 12:00:00 AM,43.9000,30,0
+Martine Rancé,Scottish Longbreads,12/22/1997 12:00:00 AM,12.5000,18,0
+André Fonseca,Uncle Bob's Organic Dried Pears,12/22/1997 12:00:00 AM,30.0000,3,0.15
+André Fonseca,Gnocchi di nonna Alice,12/22/1997 12:00:00 AM,38.0000,20,0.15
+Peter Franken,Thüringer Rostbratwurst,12/23/1997 12:00:00 AM,123.7900,14,0.05
+Peter Franken,Jack's New England Clam Chowder,12/23/1997 12:00:00 AM,9.6500,20,0.05
+Zbyszek Piestrzeniewicz,Chang,12/23/1997 12:00:00 AM,19.0000,10,0
+Zbyszek Piestrzeniewicz,Tourtière,12/23/1997 12:00:00 AM,7.4500,3,0
+Zbyszek Piestrzeniewicz,Scottish Longbreads,12/23/1997 12:00:00 AM,12.5000,15,0
+Thomas Hardy,Jack's New England Clam Chowder,12/24/1997 12:00:00 AM,9.6500,14,0
+Thomas Hardy,Filo Mix,12/24/1997 12:00:00 AM,7.0000,8,0
+Bernardo Batista,Tofu,12/24/1997 12:00:00 AM,23.2500,15,0.2
+Bernardo Batista,Tourtière,12/24/1997 12:00:00 AM,7.4500,6,0.2
+Roland Mendel,Pavlova,12/24/1997 12:00:00 AM,17.4500,65,0
+Roland Mendel,Alice Mutton,12/24/1997 12:00:00 AM,39.0000,35,0.25
+Carlos Hernández,Gumbär Gummibärchen,12/25/1997 12:00:00 AM,31.2300,21,0.2
+Carlos Hernández,Gula Malacca,12/25/1997 12:00:00 AM,19.4500,10,0
+Carlos Hernández,Wimmers gute Semmelknödel,12/25/1997 12:00:00 AM,33.2500,35,0.2
+Carlos Hernández,Gudbrandsdalsost,12/25/1997 12:00:00 AM,36.0000,24,0.2
+Sven Ottlieb,Queso Cabrales,12/25/1997 12:00:00 AM,21.0000,20,0
+Helen Bennett,Tarte au sucre,12/26/1997 12:00:00 AM,49.3000,2,0
+Helen Bennett,Mozzarella di Giovanni,12/26/1997 12:00:00 AM,34.8000,10,0
+Philip Cramer,Konbu,12/26/1997 12:00:00 AM,6.0000,20,0.15
+Philip Cramer,Guaraná Fantástica,12/26/1997 12:00:00 AM,4.5000,20,0.15
+Philip Cramer,Raclette Courdavault,12/26/1997 12:00:00 AM,55.0000,25,0
+Hari Kumar,Queso Cabrales,12/26/1997 12:00:00 AM,21.0000,50,0.1
+Hari Kumar,Manjimup Dried Apples,12/26/1997 12:00:00 AM,53.0000,10,0.1
+Hari Kumar,Tourtière,12/26/1997 12:00:00 AM,7.4500,7,0.1
+Martín Sommer,Alice Mutton,12/29/1997 12:00:00 AM,39.0000,40,0.25
+Martín Sommer,Thüringer Rostbratwurst,12/29/1997 12:00:00 AM,123.7900,20,0.25
+Jytte Petersen,Nord-Ost Matjeshering,12/29/1997 12:00:00 AM,25.8900,25,0.25
+Jytte Petersen,Manjimup Dried Apples,12/29/1997 12:00:00 AM,53.0000,30,0.25
+Jytte Petersen,Pâté chinois,12/29/1997 12:00:00 AM,24.0000,60,0.25
+Jytte Petersen,Tarte au sucre,12/29/1997 12:00:00 AM,49.3000,5,0.25
+Paula Parente,Teatime Chocolate Biscuits,12/30/1997 12:00:00 AM,9.2000,24,0.05
+Paula Parente,NuNuCa Nuß-Nougat-Creme,12/30/1997 12:00:00 AM,14.0000,15,0.05
+Paula Parente,Raclette Courdavault,12/30/1997 12:00:00 AM,55.0000,15,0.05
+Hari Kumar,Ikura,12/30/1997 12:00:00 AM,31.0000,36,0
+Hari Kumar,Rössle Sauerkraut,12/30/1997 12:00:00 AM,45.6000,24,0
+Hari Kumar,Maxilaku,12/30/1997 12:00:00 AM,20.0000,4,0.15
+Liz Nixon,Sasquatch Ale,12/30/1997 12:00:00 AM,14.0000,10,0
+Liz Nixon,Côte de Blaye,12/30/1997 12:00:00 AM,263.5000,10,0
+Mary Saveley,Chang,12/31/1997 12:00:00 AM,19.0000,20,0.25
+Mary Saveley,Louisiana Fiery Hot Pepper Sauce,12/31/1997 12:00:00 AM,21.0500,2,0
+Mary Saveley,Longlife Tofu,12/31/1997 12:00:00 AM,10.0000,15,0.25
+Paolo Accorti,Boston Crab Meat,12/31/1997 12:00:00 AM,18.4000,1,0
+Rene Phillips,Gnocchi di nonna Alice,1/1/1998 12:00:00 AM,38.0000,20,0.15
+Rene Phillips,Lakkalikööri,1/1/1998 12:00:00 AM,18.0000,50,0.15
+Paula Parente,Filo Mix,1/1/1998 12:00:00 AM,7.0000,20,0
+Yoshi Tannamuri,Konbu,1/1/1998 12:00:00 AM,6.0000,7,0
+Yoshi Tannamuri,NuNuCa Nuß-Nougat-Creme,1/1/1998 12:00:00 AM,14.0000,5,0
+Yoshi Tannamuri,Outback Lager,1/1/1998 12:00:00 AM,15.0000,5,0
+Felipe Izquierdo,Teatime Chocolate Biscuits,1/2/1998 12:00:00 AM,9.2000,15,0
+Felipe Izquierdo,Tunnbröd,1/2/1998 12:00:00 AM,9.0000,18,0
+Felipe Izquierdo,Boston Crab Meat,1/2/1998 12:00:00 AM,18.4000,30,0
+Maurizio Moroni,Gorgonzola Telino,1/2/1998 12:00:00 AM,12.5000,16,0.1
+Maurizio Moroni,Mozzarella di Giovanni,1/2/1998 12:00:00 AM,34.8000,40,0.1
+Maurizio Moroni,Original Frankfurter grüne Soße,1/2/1998 12:00:00 AM,13.0000,20,0
+Janete Limeira,Chang,1/5/1998 12:00:00 AM,19.0000,12,0.2
+Janete Limeira,Spegesild,1/5/1998 12:00:00 AM,12.0000,35,0
+Mary Saveley,Jack's New England Clam Chowder,1/5/1998 12:00:00 AM,9.6500,20,0
+Mary Saveley,Ipoh Coffee,1/5/1998 12:00:00 AM,46.0000,20,0.15
+Mary Saveley,Chocolade,1/5/1998 12:00:00 AM,12.7500,8,0.15
+Mary Saveley,Sirop d'érable,1/5/1998 12:00:00 AM,28.5000,30,0.15
+Jose Pavarotti,Geitost,1/5/1998 12:00:00 AM,2.5000,16,0
+Howard Snyder,Côte de Blaye,1/6/1998 12:00:00 AM,263.5000,30,0.05
+Howard Snyder,Tarte au sucre,1/6/1998 12:00:00 AM,49.3000,20,0.05
+Philip Cramer,Gumbär Gummibärchen,1/6/1998 12:00:00 AM,31.2300,40,0.15
+Philip Cramer,Côte de Blaye,1/6/1998 12:00:00 AM,263.5000,30,0
+Philip Cramer,Boston Crab Meat,1/6/1998 12:00:00 AM,18.4000,60,0.15
+Philip Cramer,Tarte au sucre,1/6/1998 12:00:00 AM,49.3000,25,0.15
+Giovanni Rovelli,Mascarpone Fabioli,1/7/1998 12:00:00 AM,32.0000,20,0
+Giovanni Rovelli,Jack's New England Clam Chowder,1/7/1998 12:00:00 AM,9.6500,20,0
+Patricio Simpson,Ipoh Coffee,1/7/1998 12:00:00 AM,46.0000,7,0
+Patricio Simpson,Rhönbräu Klosterbier,1/7/1998 12:00:00 AM,7.7500,20,0
+Paula Wilson,Gnocchi di nonna Alice,1/7/1998 12:00:00 AM,38.0000,30,0
+Art Braunschweiger,Steeleye Stout,1/8/1998 12:00:00 AM,18.0000,20,0
+Art Braunschweiger,Manjimup Dried Apples,1/8/1998 12:00:00 AM,53.0000,6,0
+Helvetius Nagy,Tarte au sucre,1/8/1998 12:00:00 AM,49.3000,3,0
+Helvetius Nagy,Outback Lager,1/8/1998 12:00:00 AM,15.0000,6,0
+Carlos González,Queso Cabrales,1/9/1998 12:00:00 AM,21.0000,20,0.1
+Carlos González,Ravioli Angelo,1/9/1998 12:00:00 AM,19.5000,15,0
+Carlos González,Raclette Courdavault,1/9/1998 12:00:00 AM,55.0000,40,0.1
+Carlos González,Original Frankfurter grüne Soße,1/9/1998 12:00:00 AM,13.0000,15,0.1
+Maria Larsson,Jack's New England Clam Chowder,1/9/1998 12:00:00 AM,9.6500,12,0
+Maria Larsson,Outback Lager,1/9/1998 12:00:00 AM,15.0000,9,0
+Sven Ottlieb,Gumbär Gummibärchen,1/9/1998 12:00:00 AM,31.2300,12,0
+Sven Ottlieb,Perth Pasties,1/9/1998 12:00:00 AM,32.8000,20,0
+Frédérique Citeaux,Gorgonzola Telino,1/12/1998 12:00:00 AM,12.5000,35,0
+Frédérique Citeaux,Ravioli Angelo,1/12/1998 12:00:00 AM,19.5000,15,0
+Laurence Lebihan,Ikura,1/12/1998 12:00:00 AM,31.0000,15,0
+Laurence Lebihan,Chartreuse verte,1/12/1998 12:00:00 AM,18.0000,21,0
+Sergio Gutiérrez,Sir Rodney's Marmalade,1/13/1998 12:00:00 AM,81.0000,5,0
+Sergio Gutiérrez,Côte de Blaye,1/13/1998 12:00:00 AM,263.5000,2,0
+Helen Bennett,Chang,1/13/1998 12:00:00 AM,19.0000,10,0
+Helen Bennett,Northwoods Cranberry Sauce,1/13/1998 12:00:00 AM,40.0000,20,0
+Helen Bennett,Konbu,1/13/1998 12:00:00 AM,6.0000,10,0
+Helen Bennett,Camembert Pierrot,1/13/1998 12:00:00 AM,34.0000,21,0
+Anabela Domingues,Grandma's Boysenberry Spread,1/13/1998 12:00:00 AM,25.0000,6,0
+Anabela Domingues,Chartreuse verte,1/13/1998 12:00:00 AM,18.0000,28,0
+Anabela Domingues,Camembert Pierrot,1/13/1998 12:00:00 AM,34.0000,30,0
+Anabela Domingues,Scottish Longbreads,1/13/1998 12:00:00 AM,12.5000,24,0
+Jonas Bergulfsen,Teatime Chocolate Biscuits,1/14/1998 12:00:00 AM,9.2000,2,0
+Jonas Bergulfsen,Steeleye Stout,1/14/1998 12:00:00 AM,18.0000,8,0
+Jonas Bergulfsen,Côte de Blaye,1/14/1998 12:00:00 AM,263.5000,8,0
+Jonas Bergulfsen,Ipoh Coffee,1/14/1998 12:00:00 AM,46.0000,9,0
+Annette Roulet,Konbu,1/14/1998 12:00:00 AM,6.0000,3,0.2
+Annette Roulet,NuNuCa Nuß-Nougat-Creme,1/14/1998 12:00:00 AM,14.0000,10,0.2
+Annette Roulet,Gula Malacca,1/14/1998 12:00:00 AM,19.4500,16,0.2
+Annette Roulet,Wimmers gute Semmelknödel,1/14/1998 12:00:00 AM,33.2500,3,0
+Henriette Pfalzheim,Uncle Bob's Organic Dried Pears,1/15/1998 12:00:00 AM,30.0000,20,0.1
+Henriette Pfalzheim,Gorgonzola Telino,1/15/1998 12:00:00 AM,12.5000,9,0.1
+Henriette Pfalzheim,Perth Pasties,1/15/1998 12:00:00 AM,32.8000,9,0.1
+Anabela Domingues,Thüringer Rostbratwurst,1/15/1998 12:00:00 AM,123.7900,8,0.05
+Anabela Domingues,Nord-Ost Matjeshering,1/15/1998 12:00:00 AM,25.8900,20,0.05
+Maria Anders,Raclette Courdavault,1/15/1998 12:00:00 AM,55.0000,15,0
+Maria Anders,Original Frankfurter grüne Soße,1/15/1998 12:00:00 AM,13.0000,2,0.2
+Roland Mendel,Gustaf's Knäckebröd,1/16/1998 12:00:00 AM,21.0000,52,0
+Roland Mendel,Steeleye Stout,1/16/1998 12:00:00 AM,18.0000,6,0
+Roland Mendel,Ravioli Angelo,1/16/1998 12:00:00 AM,19.5000,24,0
+Roland Mendel,Camembert Pierrot,1/16/1998 12:00:00 AM,34.0000,60,0
+Roland Mendel,Wimmers gute Semmelknödel,1/16/1998 12:00:00 AM,33.2500,30,0
+Christina Berglund,Konbu,1/16/1998 12:00:00 AM,6.0000,6,0
+Christina Berglund,Boston Crab Meat,1/16/1998 12:00:00 AM,18.4000,25,0
+Christina Berglund,Zaanse koeken,1/16/1998 12:00:00 AM,9.5000,40,0.25
+Christina Berglund,Lakkalikööri,1/16/1998 12:00:00 AM,18.0000,21,0.25
+Felipe Izquierdo,Chai,1/19/1998 12:00:00 AM,18.0000,4,0.25
+Felipe Izquierdo,Carnarvon Tigers,1/19/1998 12:00:00 AM,62.5000,25,0.25
+Felipe Izquierdo,Inlagd Sill,1/19/1998 12:00:00 AM,19.0000,50,0.25
+Anabela Domingues,Escargots de Bourgogne,1/19/1998 12:00:00 AM,13.2500,30,0.1
+Anabela Domingues,Mozzarella di Giovanni,1/19/1998 12:00:00 AM,34.8000,15,0.1
+Felipe Izquierdo,NuNuCa Nuß-Nougat-Creme,1/19/1998 12:00:00 AM,14.0000,6,0.2
+Felipe Izquierdo,Chartreuse verte,1/19/1998 12:00:00 AM,18.0000,10,0.2
+Pascale Cartrain,Ikura,1/20/1998 12:00:00 AM,31.0000,16,0
+Pascale Cartrain,Gnocchi di nonna Alice,1/20/1998 12:00:00 AM,38.0000,30,0
+Pascale Cartrain,Raclette Courdavault,1/20/1998 12:00:00 AM,55.0000,50,0
+Pascale Cartrain,Original Frankfurter grüne Soße,1/20/1998 12:00:00 AM,13.0000,15,0
+Miguel Angel Paolino,Queso Cabrales,1/20/1998 12:00:00 AM,21.0000,15,0
+Miguel Angel Paolino,Ipoh Coffee,1/20/1998 12:00:00 AM,46.0000,5,0
+Miguel Angel Paolino,Scottish Longbreads,1/20/1998 12:00:00 AM,12.5000,20,0
+Miguel Angel Paolino,Outback Lager,1/20/1998 12:00:00 AM,15.0000,12,0
+Mary Saveley,Manjimup Dried Apples,1/21/1998 12:00:00 AM,53.0000,4,0.25
+Georg Pipps,Gustaf's Knäckebröd,1/21/1998 12:00:00 AM,21.0000,35,0
+Horst Kloss,Tunnbröd,1/21/1998 12:00:00 AM,9.0000,70,0.1
+Horst Kloss,Steeleye Stout,1/21/1998 12:00:00 AM,18.0000,25,0.1
+Horst Kloss,Singaporean Hokkien Fried Mee,1/21/1998 12:00:00 AM,14.0000,42,0.1
+Horst Kloss,Escargots de Bourgogne,1/21/1998 12:00:00 AM,13.2500,60,0.1
+Horst Kloss,Wimmers gute Semmelknödel,1/21/1998 12:00:00 AM,33.2500,48,0
+Pascale Cartrain,Chef Anton's Cajun Seasoning,1/22/1998 12:00:00 AM,22.0000,21,0
+Pascale Cartrain,Outback Lager,1/22/1998 12:00:00 AM,15.0000,30,0
+Pascale Cartrain,Longlife Tofu,1/22/1998 12:00:00 AM,10.0000,20,0
+Jose Pavarotti,Chai,1/22/1998 12:00:00 AM,18.0000,80,0.2
+Jose Pavarotti,Teatime Chocolate Biscuits,1/22/1998 12:00:00 AM,9.2000,12,0.2
+Jose Pavarotti,Gravad lax,1/22/1998 12:00:00 AM,26.0000,60,0.2
+Jose Pavarotti,Rogede sild,1/22/1998 12:00:00 AM,9.5000,36,0.2
+Jose Pavarotti,Camembert Pierrot,1/22/1998 12:00:00 AM,34.0000,45,0.2
+Jose Pavarotti,Flotemysost,1/22/1998 12:00:00 AM,21.5000,55,0.2
+Elizabeth Brown,Chef Anton's Gumbo Mix,1/23/1998 12:00:00 AM,21.3500,30,0
+Elizabeth Brown,Mishi Kobe Niku,1/23/1998 12:00:00 AM,97.0000,3,0
+Philip Cramer,Aniseed Syrup,1/23/1998 12:00:00 AM,10.0000,49,0
+Philip Cramer,Gumbär Gummibärchen,1/23/1998 12:00:00 AM,31.2300,18,0.15
+Mary Saveley,NuNuCa Nuß-Nougat-Creme,1/23/1998 12:00:00 AM,14.0000,20,0.15
+Mary Saveley,Geitost,1/23/1998 12:00:00 AM,2.5000,4,0.15
+Mary Saveley,Outback Lager,1/23/1998 12:00:00 AM,15.0000,30,0.15
+Janete Limeira,Chang,1/26/1998 12:00:00 AM,19.0000,5,0.05
+Janete Limeira,NuNuCa Nuß-Nougat-Creme,1/26/1998 12:00:00 AM,14.0000,10,0.05
+Janete Limeira,Ravioli Angelo,1/26/1998 12:00:00 AM,19.5000,10,0.05
+Janete Limeira,Raclette Courdavault,1/26/1998 12:00:00 AM,55.0000,42,0.05
+Paula Wilson,Chang,1/26/1998 12:00:00 AM,19.0000,15,0
+Paula Wilson,Alice Mutton,1/26/1998 12:00:00 AM,39.0000,6,0
+Paula Wilson,Tarte au sucre,1/26/1998 12:00:00 AM,49.3000,50,0
+Hanna Moos,Carnarvon Tigers,1/27/1998 12:00:00 AM,62.5000,10,0
+Roland Mendel,Ikura,1/27/1998 12:00:00 AM,31.0000,100,0.15
+Roland Mendel,Konbu,1/27/1998 12:00:00 AM,6.0000,65,0.15
+Rene Phillips,Pavlova,1/27/1998 12:00:00 AM,17.4500,50,0
+Rene Phillips,Gorgonzola Telino,1/27/1998 12:00:00 AM,12.5000,14,0
+Rene Phillips,Gnocchi di nonna Alice,1/27/1998 12:00:00 AM,38.0000,24,0
+Rene Phillips,Louisiana Fiery Hot Pepper Sauce,1/27/1998 12:00:00 AM,21.0500,15,0.15
+Antonio Moreno,Chang,1/28/1998 12:00:00 AM,19.0000,20,0
+Antonio Moreno,Singaporean Hokkien Fried Mee,1/28/1998 12:00:00 AM,14.0000,20,0
+Christina Berglund,Aniseed Syrup,1/28/1998 12:00:00 AM,10.0000,30,0
+Christina Berglund,Gumbär Gummibärchen,1/28/1998 12:00:00 AM,31.2300,35,0.25
+Christina Berglund,Thüringer Rostbratwurst,1/28/1998 12:00:00 AM,123.7900,10,0.25
+Daniel Tonini,Uncle Bob's Organic Dried Pears,1/29/1998 12:00:00 AM,30.0000,5,0
+Daniel Tonini,Schoggi Schokolade,1/29/1998 12:00:00 AM,43.9000,10,0
+Daniel Tonini,Outback Lager,1/29/1998 12:00:00 AM,15.0000,4,0
+Peter Franken,Guaraná Fantástica,1/29/1998 12:00:00 AM,4.5000,40,0.25
+Peter Franken,Tourtière,1/29/1998 12:00:00 AM,7.4500,35,0.25
+Peter Franken,Wimmers gute Semmelknödel,1/29/1998 12:00:00 AM,33.2500,30,0.25
+Carine Schmitt,Manjimup Dried Apples,1/29/1998 12:00:00 AM,53.0000,3,0
+Carine Schmitt,Lakkalikööri,1/29/1998 12:00:00 AM,18.0000,20,0
+Karl Jablonski,Alice Mutton,1/30/1998 12:00:00 AM,39.0000,42,0
+Karl Jablonski,Carnarvon Tigers,1/30/1998 12:00:00 AM,62.5000,20,0
+Karl Jablonski,Sir Rodney's Scones,1/30/1998 12:00:00 AM,10.0000,40,0
+Karl Jablonski,Geitost,1/30/1998 12:00:00 AM,2.5000,35,0
+Karl Jablonski,Tarte au sucre,1/30/1998 12:00:00 AM,49.3000,3,0
+Renate Messner,Queso Cabrales,1/30/1998 12:00:00 AM,21.0000,25,0
+Renate Messner,Filo Mix,1/30/1998 12:00:00 AM,7.0000,8,0
+Carlos Hernández,Chai,2/2/1998 12:00:00 AM,18.0000,20,0.15
+Carlos Hernández,Escargots de Bourgogne,2/2/1998 12:00:00 AM,13.2500,12,0.15
+Thomas Hardy,Steeleye Stout,2/2/1998 12:00:00 AM,18.0000,4,0
+Thomas Hardy,Laughing Lumberjack Lager,2/2/1998 12:00:00 AM,14.0000,15,0
+Horst Kloss,Côte de Blaye,2/2/1998 12:00:00 AM,263.5000,60,0.05
+Horst Kloss,Chartreuse verte,2/2/1998 12:00:00 AM,18.0000,80,0.05
+Christina Berglund,Chang,2/3/1998 12:00:00 AM,19.0000,21,0.25
+Christina Berglund,Guaraná Fantástica,2/3/1998 12:00:00 AM,4.5000,6,0.25
+Christina Berglund,Nord-Ost Matjeshering,2/3/1998 12:00:00 AM,25.8900,40,0.25
+Fran Wilson,Perth Pasties,2/3/1998 12:00:00 AM,32.8000,3,0
+Lúcia Carvalho,Gumbär Gummibärchen,2/4/1998 12:00:00 AM,31.2300,20,0
+Lúcia Carvalho,Steeleye Stout,2/4/1998 12:00:00 AM,18.0000,30,0
+Lúcia Carvalho,Maxilaku,2/4/1998 12:00:00 AM,20.0000,42,0.1
+Hari Kumar,Chai,2/4/1998 12:00:00 AM,18.0000,40,0
+Hari Kumar,Queso Cabrales,2/4/1998 12:00:00 AM,21.0000,10,0
+Hari Kumar,Tunnbröd,2/4/1998 12:00:00 AM,9.0000,50,0
+Hari Kumar,Scottish Longbreads,2/4/1998 12:00:00 AM,12.5000,20,0
+Zbyszek Piestrzeniewicz,Steeleye Stout,2/4/1998 12:00:00 AM,18.0000,3,0
+Zbyszek Piestrzeniewicz,Manjimup Dried Apples,2/4/1998 12:00:00 AM,53.0000,2,0
+Laurence Lebihan,Grandma's Boysenberry Spread,2/5/1998 12:00:00 AM,25.0000,50,0.05
+Laurence Lebihan,Pavlova,2/5/1998 12:00:00 AM,17.4500,12,0.05
+Laurence Lebihan,Alice Mutton,2/5/1998 12:00:00 AM,39.0000,16,0.05
+José Pedro Freyre,Pâté chinois,2/5/1998 12:00:00 AM,24.0000,10,0.05
+José Pedro Freyre,Tarte au sucre,2/5/1998 12:00:00 AM,49.3000,20,0.05
+José Pedro Freyre,Wimmers gute Semmelknödel,2/5/1998 12:00:00 AM,33.2500,15,0.05
+José Pedro Freyre,Louisiana Fiery Hot Pepper Sauce,2/5/1998 12:00:00 AM,21.0500,21,0.05
+Matti Karttunen,Sir Rodney's Scones,2/6/1998 12:00:00 AM,10.0000,20,0
+Matti Karttunen,Rössle Sauerkraut,2/6/1998 12:00:00 AM,45.6000,3,0
+José Pedro Freyre,Ikura,2/6/1998 12:00:00 AM,31.0000,10,0
+Christina Berglund,Teatime Chocolate Biscuits,2/6/1998 12:00:00 AM,9.2000,25,0
+Christina Berglund,Zaanse koeken,2/6/1998 12:00:00 AM,9.5000,21,0.1
+Christina Berglund,Maxilaku,2/6/1998 12:00:00 AM,20.0000,15,0
+Laurence Lebihan,Spegesild,2/9/1998 12:00:00 AM,12.0000,21,0
+Laurence Lebihan,Wimmers gute Semmelknödel,2/9/1998 12:00:00 AM,33.2500,20,0
+Janete Limeira,Pavlova,2/9/1998 12:00:00 AM,17.4500,30,0.25
+Janete Limeira,Carnarvon Tigers,2/9/1998 12:00:00 AM,62.5000,25,0
+Horst Kloss,Sir Rodney's Marmalade,2/10/1998 12:00:00 AM,81.0000,20,0.05
+Matti Karttunen,Boston Crab Meat,2/10/1998 12:00:00 AM,18.4000,12,0
+Matti Karttunen,Louisiana Fiery Hot Pepper Sauce,2/10/1998 12:00:00 AM,21.0500,10,0
+Matti Karttunen,Lakkalikööri,2/10/1998 12:00:00 AM,18.0000,10,0
+Maria Larsson,Tunnbröd,2/10/1998 12:00:00 AM,9.0000,30,0.2
+Maria Larsson,Sirop d'érable,2/10/1998 12:00:00 AM,28.5000,30,0.2
+Maria Larsson,Outback Lager,2/10/1998 12:00:00 AM,15.0000,50,0.2
+Patricio Simpson,Röd Kaviar,2/11/1998 12:00:00 AM,15.0000,10,0
+Jose Pavarotti,Singaporean Hokkien Fried Mee,2/11/1998 12:00:00 AM,14.0000,25,0
+Jose Pavarotti,Maxilaku,2/11/1998 12:00:00 AM,20.0000,20,0.15
+Jose Pavarotti,Tourtière,2/11/1998 12:00:00 AM,7.4500,32,0.15
+Fran Wilson,Guaraná Fantástica,2/12/1998 12:00:00 AM,4.5000,8,0
+Jaime Yorres,Sir Rodney's Scones,2/12/1998 12:00:00 AM,10.0000,40,0.05
+Jaime Yorres,Gnocchi di nonna Alice,2/12/1998 12:00:00 AM,38.0000,21,0.05
+Jaime Yorres,Louisiana Fiery Hot Pepper Sauce,2/12/1998 12:00:00 AM,21.0500,12,0.05
+Pascale Cartrain,Chang,2/12/1998 12:00:00 AM,19.0000,20,0
+Pascale Cartrain,Guaraná Fantástica,2/12/1998 12:00:00 AM,4.5000,12,0
+Pascale Cartrain,Outback Lager,2/12/1998 12:00:00 AM,15.0000,30,0
+Pascale Cartrain,Original Frankfurter grüne Soße,2/12/1998 12:00:00 AM,13.0000,25,0
+Mario Pontes,Ikura,2/13/1998 12:00:00 AM,31.0000,70,0
+Mario Pontes,Gorgonzola Telino,2/13/1998 12:00:00 AM,12.5000,35,0
+Mario Pontes,Original Frankfurter grüne Soße,2/13/1998 12:00:00 AM,13.0000,40,0
+Eduardo Saavedra,NuNuCa Nuß-Nougat-Creme,2/13/1998 12:00:00 AM,14.0000,5,0
+José Pedro Freyre,Chang,2/16/1998 12:00:00 AM,19.0000,20,0
+José Pedro Freyre,Scottish Longbreads,2/16/1998 12:00:00 AM,12.5000,18,0
+Paula Wilson,Queso Cabrales,2/16/1998 12:00:00 AM,21.0000,40,0
+Paula Wilson,Côte de Blaye,2/16/1998 12:00:00 AM,263.5000,40,0
+Janine Labrune,Alice Mutton,2/16/1998 12:00:00 AM,39.0000,15,0
+Janine Labrune,Sasquatch Ale,2/16/1998 12:00:00 AM,14.0000,10,0
+Janine Labrune,Jack's New England Clam Chowder,2/16/1998 12:00:00 AM,9.6500,14,0
+Renate Messner,Nord-Ost Matjeshering,2/17/1998 12:00:00 AM,25.8900,15,0.05
+Catherine Dewey,Raclette Courdavault,2/17/1998 12:00:00 AM,55.0000,40,0.05
+Philip Cramer,Northwoods Cranberry Sauce,2/18/1998 12:00:00 AM,40.0000,30,0
+Philip Cramer,Guaraná Fantástica,2/18/1998 12:00:00 AM,4.5000,10,0
+Philip Cramer,Thüringer Rostbratwurst,2/18/1998 12:00:00 AM,123.7900,24,0
+Philip Cramer,Nord-Ost Matjeshering,2/18/1998 12:00:00 AM,25.8900,35,0
+Philip Cramer,Inlagd Sill,2/18/1998 12:00:00 AM,19.0000,20,0
+Jose Pavarotti,Konbu,2/18/1998 12:00:00 AM,6.0000,28,0.05
+Jose Pavarotti,Gudbrandsdalsost,2/18/1998 12:00:00 AM,36.0000,50,0.05
+Jose Pavarotti,Rhönbräu Klosterbier,2/18/1998 12:00:00 AM,7.7500,120,0.05
+Roland Mendel,Guaraná Fantástica,2/18/1998 12:00:00 AM,4.5000,110,0
+Roland Mendel,Chartreuse verte,2/18/1998 12:00:00 AM,18.0000,45,0
+Roland Mendel,Boston Crab Meat,2/18/1998 12:00:00 AM,18.4000,91,0
+Roland Mendel,Camembert Pierrot,2/18/1998 12:00:00 AM,34.0000,100,0
+Catherine Dewey,Rogede sild,2/19/1998 12:00:00 AM,9.5000,15,0
+Catherine Dewey,Gnocchi di nonna Alice,2/19/1998 12:00:00 AM,38.0000,16,0
+Patricia McKenna,Thüringer Rostbratwurst,2/19/1998 12:00:00 AM,123.7900,80,0
+Patricia McKenna,Nord-Ost Matjeshering,2/19/1998 12:00:00 AM,25.8900,36,0
+Yvonne Moncada,Konbu,2/20/1998 12:00:00 AM,6.0000,5,0
+Carlos González,Chartreuse verte,2/20/1998 12:00:00 AM,18.0000,8,0.15
+Paula Parente,Outback Lager,2/20/1998 12:00:00 AM,15.0000,3,0.25
+Carlos Hernández,Jack's New England Clam Chowder,2/23/1998 12:00:00 AM,9.6500,30,0
+Carlos Hernández,Flotemysost,2/23/1998 12:00:00 AM,21.5000,30,0
+Maria Larsson,Pâté chinois,2/23/1998 12:00:00 AM,24.0000,30,0.15
+Maria Larsson,Tarte au sucre,2/23/1998 12:00:00 AM,49.3000,6,0.15
+Mario Pontes,Konbu,2/24/1998 12:00:00 AM,6.0000,40,0
+Mario Pontes,Louisiana Fiery Hot Pepper Sauce,2/24/1998 12:00:00 AM,21.0500,21,0
+Mario Pontes,Scottish Longbreads,2/24/1998 12:00:00 AM,12.5000,20,0
+Karl Jablonski,Escargots de Bourgogne,2/24/1998 12:00:00 AM,13.2500,15,0
+Karl Jablonski,Tarte au sucre,2/24/1998 12:00:00 AM,49.3000,35,0
+Paula Parente,Chai,2/24/1998 12:00:00 AM,18.0000,20,0.05
+Zbyszek Piestrzeniewicz,Sirop d'érable,2/25/1998 12:00:00 AM,28.5000,15,0
+Dominique Perrier,Rhönbräu Klosterbier,2/25/1998 12:00:00 AM,7.7500,14,0
+Maurizio Moroni,Uncle Bob's Organic Dried Pears,2/26/1998 12:00:00 AM,30.0000,20,0.05
+Maurizio Moroni,Filo Mix,2/26/1998 12:00:00 AM,7.0000,14,0.05
+Jonas Bergulfsen,Uncle Bob's Organic Dried Pears,2/26/1998 12:00:00 AM,30.0000,12,0
+Jonas Bergulfsen,Pavlova,2/26/1998 12:00:00 AM,17.4500,15,0
+Jonas Bergulfsen,Jack's New England Clam Chowder,2/26/1998 12:00:00 AM,9.6500,5,0
+Matti Karttunen,Teatime Chocolate Biscuits,2/26/1998 12:00:00 AM,9.2000,12,0
+Matti Karttunen,Maxilaku,2/26/1998 12:00:00 AM,20.0000,10,0
+Matti Karttunen,Sirop d'érable,2/26/1998 12:00:00 AM,28.5000,5,0
+José Pedro Freyre,Chai,2/26/1998 12:00:00 AM,18.0000,10,0
+José Pedro Freyre,Alice Mutton,2/26/1998 12:00:00 AM,39.0000,12,0
+José Pedro Freyre,Laughing Lumberjack Lager,2/26/1998 12:00:00 AM,14.0000,15,0
+Patricia McKenna,Queso Cabrales,2/26/1998 12:00:00 AM,21.0000,40,0.25
+Patricia McKenna,Thüringer Rostbratwurst,2/26/1998 12:00:00 AM,123.7900,60,0.25
+Lúcia Carvalho,Chef Anton's Cajun Seasoning,2/26/1998 12:00:00 AM,22.0000,30,0.25
+Lúcia Carvalho,Geitost,2/26/1998 12:00:00 AM,2.5000,40,0.25
+Lúcia Carvalho,Escargots de Bourgogne,2/26/1998 12:00:00 AM,13.2500,15,0
+Lúcia Carvalho,Flotemysost,2/27/1998 12:00:00 AM,21.5000,25,0
+Miguel Angel Paolino,Alice Mutton,2/27/1998 12:00:00 AM,39.0000,10,0
+Miguel Angel Paolino,Geitost,2/27/1998 12:00:00 AM,2.5000,30,0
+Miguel Angel Paolino,Tourtière,2/27/1998 12:00:00 AM,7.4500,10,0
+Sergio Gutiérrez,Pavlova,2/27/1998 12:00:00 AM,17.4500,6,0
+Sergio Gutiérrez,Mascarpone Fabioli,2/27/1998 12:00:00 AM,32.0000,6,0
+Sergio Gutiérrez,Ravioli Angelo,2/27/1998 12:00:00 AM,19.5000,20,0
+Alejandra Camino,Nord-Ost Matjeshering,3/2/1998 12:00:00 AM,25.8900,1,0
+Alejandra Camino,Camembert Pierrot,3/2/1998 12:00:00 AM,34.0000,10,0
+Elizabeth Lincoln,Chai,3/2/1998 12:00:00 AM,18.0000,60,0.25
+Elizabeth Lincoln,Camembert Pierrot,3/2/1998 12:00:00 AM,34.0000,25,0.25
+Felipe Izquierdo,Pavlova,3/2/1998 12:00:00 AM,17.4500,24,0
+Felipe Izquierdo,NuNuCa Nuß-Nougat-Creme,3/2/1998 12:00:00 AM,14.0000,24,0
+Felipe Izquierdo,Boston Crab Meat,3/2/1998 12:00:00 AM,18.4000,20,0
+Thomas Hardy,Valkoinen suklaa,3/3/1998 12:00:00 AM,16.2500,24,0
+Palle Ibsen,Steeleye Stout,3/3/1998 12:00:00 AM,18.0000,10,0
+Palle Ibsen,Vegie-spread,3/3/1998 12:00:00 AM,43.9000,40,0
+Mario Pontes,Alice Mutton,3/3/1998 12:00:00 AM,39.0000,15,0
+Mario Pontes,Guaraná Fantástica,3/3/1998 12:00:00 AM,4.5000,35,0
+Annette Roulet,Singaporean Hokkien Fried Mee,3/3/1998 12:00:00 AM,14.0000,10,0.2
+Annette Roulet,Ipoh Coffee,3/3/1998 12:00:00 AM,46.0000,10,0.2
+Annette Roulet,Laughing Lumberjack Lager,3/3/1998 12:00:00 AM,14.0000,24,0.2
+Christina Berglund,Ikura,3/4/1998 12:00:00 AM,31.0000,20,0.1
+Christina Berglund,Rössle Sauerkraut,3/4/1998 12:00:00 AM,45.6000,30,0.1
+Christina Berglund,Rhönbräu Klosterbier,3/4/1998 12:00:00 AM,7.7500,6,0
+Mario Pontes,Inlagd Sill,3/4/1998 12:00:00 AM,19.0000,25,0.15
+Mario Pontes,Filo Mix,3/4/1998 12:00:00 AM,7.0000,12,0.15
+Ana Trujillo,Queso Cabrales,3/4/1998 12:00:00 AM,21.0000,2,0
+Ana Trujillo,Konbu,3/4/1998 12:00:00 AM,6.0000,10,0
+Ana Trujillo,Teatime Chocolate Biscuits,3/4/1998 12:00:00 AM,9.2000,7,0
+Ana Trujillo,Mozzarella di Giovanni,3/4/1998 12:00:00 AM,34.8000,10,0
+Daniel Tonini,Sir Rodney's Marmalade,3/5/1998 12:00:00 AM,81.0000,5,0
+Daniel Tonini,Filo Mix,3/5/1998 12:00:00 AM,7.0000,5,0
+Daniel Tonini,Lakkalikööri,3/5/1998 12:00:00 AM,18.0000,20,0
+Eduardo Saavedra,Zaanse koeken,3/5/1998 12:00:00 AM,9.5000,5,0
+Eduardo Saavedra,Lakkalikööri,3/5/1998 12:00:00 AM,18.0000,5,0
+Peter Franken,Sir Rodney's Scones,3/5/1998 12:00:00 AM,10.0000,60,0
+Peter Franken,Rhönbräu Klosterbier,3/5/1998 12:00:00 AM,7.7500,49,0
+Peter Franken,Original Frankfurter grüne Soße,3/5/1998 12:00:00 AM,13.0000,15,0
+Pascale Cartrain,Sir Rodney's Scones,3/6/1998 12:00:00 AM,10.0000,36,0
+Pascale Cartrain,Schoggi Schokolade,3/6/1998 12:00:00 AM,43.9000,25,0
+Pascale Cartrain,Pâté chinois,3/6/1998 12:00:00 AM,24.0000,25,0.2
+Pascale Cartrain,Escargots de Bourgogne,3/6/1998 12:00:00 AM,13.2500,30,0.2
+Michael Holz,Konbu,3/6/1998 12:00:00 AM,6.0000,42,0.15
+Michael Holz,Ravioli Angelo,3/6/1998 12:00:00 AM,19.5000,30,0
+Laurence Lebihan,Pavlova,3/6/1998 12:00:00 AM,17.4500,30,0.1
+Laurence Lebihan,Tarte au sucre,3/6/1998 12:00:00 AM,49.3000,14,0.1
+Laurence Lebihan,Mozzarella di Giovanni,3/6/1998 12:00:00 AM,34.8000,16,0
+Laurence Lebihan,Rhönbräu Klosterbier,3/6/1998 12:00:00 AM,7.7500,20,0.1
+Helen Bennett,Perth Pasties,3/6/1998 12:00:00 AM,32.8000,2,0
+Helen Bennett,Sirop d'érable,3/6/1998 12:00:00 AM,28.5000,30,0
+Renate Messner,Grandma's Boysenberry Spread,3/9/1998 12:00:00 AM,25.0000,20,0
+Paula Parente,Chai,3/9/1998 12:00:00 AM,18.0000,21,0
+Paula Parente,Carnarvon Tigers,3/9/1998 12:00:00 AM,62.5000,4,0.25
+Paula Parente,Tunnbröd,3/9/1998 12:00:00 AM,9.0000,8,0.25
+Howard Snyder,Inlagd Sill,3/9/1998 12:00:00 AM,19.0000,30,0.2
+Patricio Simpson,Rössle Sauerkraut,3/10/1998 12:00:00 AM,45.6000,8,0
+Patricio Simpson,Sasquatch Ale,3/10/1998 12:00:00 AM,14.0000,20,0
+Horst Kloss,Konbu,3/10/1998 12:00:00 AM,6.0000,20,0.25
+Horst Kloss,Ipoh Coffee,3/10/1998 12:00:00 AM,46.0000,24,0.25
+Horst Kloss,Camembert Pierrot,3/10/1998 12:00:00 AM,34.0000,49,0.25
+Horst Kloss,Flotemysost,3/10/1998 12:00:00 AM,21.5000,35,0.25
+Giovanni Rovelli,Chang,3/10/1998 12:00:00 AM,19.0000,10,0.15
+Giovanni Rovelli,Laughing Lumberjack Lager,3/10/1998 12:00:00 AM,14.0000,40,0.15
+Laurence Lebihan,Uncle Bob's Organic Dried Pears,3/11/1998 12:00:00 AM,30.0000,8,0
+Laurence Lebihan,Konbu,3/11/1998 12:00:00 AM,6.0000,20,0
+Jose Pavarotti,Gorgonzola Telino,3/11/1998 12:00:00 AM,12.5000,44,0.25
+Jose Pavarotti,Tarte au sucre,3/11/1998 12:00:00 AM,49.3000,30,0.25
+Jose Pavarotti,Scottish Longbreads,3/11/1998 12:00:00 AM,12.5000,80,0.25
+Jose Pavarotti,Mozzarella di Giovanni,3/11/1998 12:00:00 AM,34.8000,50,0
+Maurizio Moroni,Maxilaku,3/11/1998 12:00:00 AM,20.0000,28,0
+Victoria Ashworth,Konbu,3/11/1998 12:00:00 AM,6.0000,15,0
+Victoria Ashworth,Gustaf's Knäckebröd,3/11/1998 12:00:00 AM,21.0000,21,0
+Victoria Ashworth,Spegesild,3/11/1998 12:00:00 AM,12.0000,15,0
+Elizabeth Lincoln,Queso Cabrales,3/12/1998 12:00:00 AM,21.0000,5,0.25
+Elizabeth Lincoln,Gula Malacca,3/12/1998 12:00:00 AM,19.4500,18,0.25
+Elizabeth Lincoln,Gnocchi di nonna Alice,3/12/1998 12:00:00 AM,38.0000,18,0
+Alexander Feuer,Konbu,3/12/1998 12:00:00 AM,6.0000,20,0
+Alexander Feuer,Gorgonzola Telino,3/12/1998 12:00:00 AM,12.5000,10,0
+Palle Ibsen,Ikura,3/12/1998 12:00:00 AM,31.0000,25,0
+Palle Ibsen,Guaraná Fantástica,3/12/1998 12:00:00 AM,4.5000,25,0
+Palle Ibsen,Original Frankfurter grüne Soße,3/12/1998 12:00:00 AM,13.0000,40,0
+Victoria Ashworth,Raclette Courdavault,3/13/1998 12:00:00 AM,55.0000,4,0
+José Pedro Freyre,Valkoinen suklaa,3/13/1998 12:00:00 AM,16.2500,9,0
+José Pedro Freyre,Manjimup Dried Apples,3/13/1998 12:00:00 AM,53.0000,40,0
+José Pedro Freyre,Pâté chinois,3/13/1998 12:00:00 AM,24.0000,4,0
+Elizabeth Lincoln,Grandma's Boysenberry Spread,3/13/1998 12:00:00 AM,25.0000,12,0
+Elizabeth Lincoln,Ikura,3/13/1998 12:00:00 AM,31.0000,30,0
+Elizabeth Lincoln,Alice Mutton,3/13/1998 12:00:00 AM,39.0000,6,0
+Elizabeth Lincoln,Tarte au sucre,3/13/1998 12:00:00 AM,49.3000,60,0
+Giovanni Rovelli,Chef Anton's Cajun Seasoning,3/16/1998 12:00:00 AM,22.0000,5,0
+Michael Holz,Geitost,3/16/1998 12:00:00 AM,2.5000,15,0.05
+Michael Holz,Jack's New England Clam Chowder,3/16/1998 12:00:00 AM,9.6500,6,0.05
+Michael Holz,Rhönbräu Klosterbier,3/16/1998 12:00:00 AM,7.7500,50,0.05
+Maria Anders,Grandma's Boysenberry Spread,3/16/1998 12:00:00 AM,25.0000,16,0.05
+Maria Anders,Rössle Sauerkraut,3/16/1998 12:00:00 AM,45.6000,2,0
+Thomas Hardy,Sir Rodney's Marmalade,3/16/1998 12:00:00 AM,81.0000,50,0.05
+Thomas Hardy,Gorgonzola Telino,3/16/1998 12:00:00 AM,12.5000,50,0.05
+Felipe Izquierdo,Pavlova,3/17/1998 12:00:00 AM,17.4500,28,0.15
+Felipe Izquierdo,Gorgonzola Telino,3/17/1998 12:00:00 AM,12.5000,25,0.15
+Felipe Izquierdo,Rogede sild,3/17/1998 12:00:00 AM,9.5000,30,0
+Felipe Izquierdo,Camembert Pierrot,3/17/1998 12:00:00 AM,34.0000,24,0.15
+Maria Larsson,Rhönbräu Klosterbier,3/17/1998 12:00:00 AM,7.7500,12,0.2
+Hanna Moos,Sir Rodney's Scones,3/17/1998 12:00:00 AM,10.0000,12,0
+Hanna Moos,Zaanse koeken,3/17/1998 12:00:00 AM,9.5000,14,0
+Hanna Moos,Manjimup Dried Apples,3/17/1998 12:00:00 AM,53.0000,8,0
+Carlos Hernández,Nord-Ost Matjeshering,3/18/1998 12:00:00 AM,25.8900,30,0
+Carlos Hernández,Steeleye Stout,3/18/1998 12:00:00 AM,18.0000,40,0
+Carlos Hernández,Wimmers gute Semmelknödel,3/18/1998 12:00:00 AM,33.2500,8,0
+Yvonne Moncada,Chef Anton's Gumbo Mix,3/18/1998 12:00:00 AM,21.3500,20,0
+Yvonne Moncada,Uncle Bob's Organic Dried Pears,3/18/1998 12:00:00 AM,30.0000,6,0
+Yvonne Moncada,Mozzarella di Giovanni,3/18/1998 12:00:00 AM,34.8000,5,0
+André Fonseca,Rhönbräu Klosterbier,3/18/1998 12:00:00 AM,7.7500,20,0.15
+Carlos Hernández,Guaraná Fantástica,3/19/1998 12:00:00 AM,4.5000,10,0.25
+Carlos Hernández,Jack's New England Clam Chowder,3/19/1998 12:00:00 AM,9.6500,24,0
+Lúcia Carvalho,Filo Mix,3/19/1998 12:00:00 AM,7.0000,6,0.05
+Lúcia Carvalho,Lakkalikööri,3/19/1998 12:00:00 AM,18.0000,60,0
+Horst Kloss,Uncle Bob's Organic Dried Pears,3/19/1998 12:00:00 AM,30.0000,45,0
+Horst Kloss,Konbu,3/19/1998 12:00:00 AM,6.0000,77,0
+Horst Kloss,Perth Pasties,3/19/1998 12:00:00 AM,32.8000,20,0
+Horst Kloss,Gudbrandsdalsost,3/19/1998 12:00:00 AM,36.0000,9,0
+Horst Kloss,Lakkalikööri,3/19/1998 12:00:00 AM,18.0000,44,0
+Lino Rodriguez,Camembert Pierrot,3/19/1998 12:00:00 AM,34.0000,2,0.15
+Dominique Perrier,Carnarvon Tigers,3/20/1998 12:00:00 AM,62.5000,6,0
+Dominique Perrier,Côte de Blaye,3/20/1998 12:00:00 AM,263.5000,5,0
+Dominique Perrier,Gudbrandsdalsost,3/20/1998 12:00:00 AM,36.0000,10,0
+Rene Phillips,Manjimup Dried Apples,3/20/1998 12:00:00 AM,53.0000,16,0
+Yang Wang,Gravad lax,3/20/1998 12:00:00 AM,26.0000,8,0
+Yang Wang,Gnocchi di nonna Alice,3/20/1998 12:00:00 AM,38.0000,12,0.15
+Yang Wang,Tarte au sucre,3/20/1998 12:00:00 AM,49.3000,12,0.15
+Karin Josephs,Teatime Chocolate Biscuits,3/23/1998 12:00:00 AM,9.2000,12,0
+Karin Josephs,Maxilaku,3/23/1998 12:00:00 AM,20.0000,40,0
+Roland Mendel,Queso Manchego La Pastora,3/23/1998 12:00:00 AM,38.0000,30,0
+Roland Mendel,Guaraná Fantástica,3/23/1998 12:00:00 AM,4.5000,30,0
+Roland Mendel,Wimmers gute Semmelknödel,3/23/1998 12:00:00 AM,33.2500,4,0
+Pedro Afonso,Spegesild,3/23/1998 12:00:00 AM,12.0000,9,0
+Martín Sommer,Filo Mix,3/24/1998 12:00:00 AM,7.0000,40,0.2
+Carine Schmitt,Thüringer Rostbratwurst,3/24/1998 12:00:00 AM,123.7900,14,0
+Daniel Tonini,Alice Mutton,3/24/1998 12:00:00 AM,39.0000,6,0
+Daniel Tonini,Geitost,3/24/1998 12:00:00 AM,2.5000,7,0
+Daniel Tonini,Gumbär Gummibärchen,3/24/1998 12:00:00 AM,31.2300,5,0
+Daniel Tonini,Jack's New England Clam Chowder,3/24/1998 12:00:00 AM,9.6500,6,0
+Daniel Tonini,Rhönbräu Klosterbier,3/24/1998 12:00:00 AM,7.7500,10,0
+Art Braunschweiger,Vegie-spread,3/25/1998 12:00:00 AM,43.9000,10,0
+Elizabeth Lincoln,Northwoods Cranberry Sauce,3/25/1998 12:00:00 AM,40.0000,16,0
+Elizabeth Lincoln,Rhönbräu Klosterbier,3/25/1998 12:00:00 AM,7.7500,10,0
+Carlos Hernández,Rössle Sauerkraut,3/25/1998 12:00:00 AM,45.6000,20,0
+Maria Larsson,Chartreuse verte,3/26/1998 12:00:00 AM,18.0000,30,0
+Maria Larsson,Zaanse koeken,3/26/1998 12:00:00 AM,9.5000,30,0
+Maria Larsson,Manjimup Dried Apples,3/26/1998 12:00:00 AM,53.0000,10,0
+Maria Larsson,Vegie-spread,3/26/1998 12:00:00 AM,43.9000,20,0
+Catherine Dewey,Northwoods Cranberry Sauce,3/26/1998 12:00:00 AM,40.0000,20,0.15
+Catherine Dewey,Sir Rodney's Scones,3/26/1998 12:00:00 AM,10.0000,40,0.15
+Catherine Dewey,Boston Crab Meat,3/26/1998 12:00:00 AM,18.4000,10,0
+Catherine Dewey,Gula Malacca,3/26/1998 12:00:00 AM,19.4500,6,0.15
+Roland Mendel,Uncle Bob's Organic Dried Pears,3/26/1998 12:00:00 AM,30.0000,18,0
+Roland Mendel,Queso Manchego La Pastora,3/26/1998 12:00:00 AM,38.0000,20,0
+Roland Mendel,Guaraná Fantástica,3/26/1998 12:00:00 AM,4.5000,80,0
+Roland Mendel,Schoggi Schokolade,3/26/1998 12:00:00 AM,43.9000,30,0
+Roland Mendel,Gorgonzola Telino,3/26/1998 12:00:00 AM,12.5000,24,0
+Roland Mendel,Vegie-spread,3/26/1998 12:00:00 AM,43.9000,35,0
+Maria Larsson,Rhönbräu Klosterbier,3/27/1998 12:00:00 AM,7.7500,40,0.2
+Mario Pontes,Côte de Blaye,3/27/1998 12:00:00 AM,263.5000,60,0
+Elizabeth Lincoln,Uncle Bob's Organic Dried Pears,3/27/1998 12:00:00 AM,30.0000,20,0
+Elizabeth Lincoln,Ipoh Coffee,3/27/1998 12:00:00 AM,46.0000,9,0
+Jose Pavarotti,Konbu,3/27/1998 12:00:00 AM,6.0000,84,0.15
+Jose Pavarotti,Ravioli Angelo,3/27/1998 12:00:00 AM,19.5000,15,0
+Jose Pavarotti,Pavlova,3/30/1998 12:00:00 AM,17.4500,55,0
+Jose Pavarotti,Guaraná Fantástica,3/30/1998 12:00:00 AM,4.5000,20,0
+Jose Pavarotti,Inlagd Sill,3/30/1998 12:00:00 AM,19.0000,40,0
+Patricia McKenna,Pavlova,3/30/1998 12:00:00 AM,17.4500,36,0.1
+Patricia McKenna,Carnarvon Tigers,3/30/1998 12:00:00 AM,62.5000,8,0.1
+Patricia McKenna,Mascarpone Fabioli,3/30/1998 12:00:00 AM,32.0000,35,0.1
+Yvonne Moncada,Queso Cabrales,3/30/1998 12:00:00 AM,21.0000,30,0
+Yvonne Moncada,Sir Rodney's Marmalade,3/30/1998 12:00:00 AM,81.0000,15,0
+Yvonne Moncada,Lakkalikööri,3/30/1998 12:00:00 AM,18.0000,10,0
+Yvonne Moncada,Original Frankfurter grüne Soße,3/30/1998 12:00:00 AM,13.0000,15,0
+Ann Devon,Uncle Bob's Organic Dried Pears,3/31/1998 12:00:00 AM,30.0000,60,0
+Ann Devon,Ipoh Coffee,3/31/1998 12:00:00 AM,46.0000,6,0
+Ann Devon,Mozzarella di Giovanni,3/31/1998 12:00:00 AM,34.8000,20,0
+Paula Wilson,Uncle Bob's Organic Dried Pears,3/31/1998 12:00:00 AM,30.0000,60,0
+Paula Wilson,Tarte au sucre,3/31/1998 12:00:00 AM,49.3000,40,0.1
+Bernardo Batista,Grandma's Boysenberry Spread,3/31/1998 12:00:00 AM,25.0000,40,0
+Bernardo Batista,Queso Cabrales,3/31/1998 12:00:00 AM,21.0000,15,0
+Bernardo Batista,Jack's New England Clam Chowder,3/31/1998 12:00:00 AM,9.6500,4,0
+Roland Mendel,Sir Rodney's Scones,4/1/1998 12:00:00 AM,10.0000,65,0
+Roland Mendel,Sasquatch Ale,4/1/1998 12:00:00 AM,14.0000,60,0.15
+Roland Mendel,Pâté chinois,4/1/1998 12:00:00 AM,24.0000,65,0.15
+Roland Mendel,Sirop d'érable,4/1/1998 12:00:00 AM,28.5000,66,0.15
+Horst Kloss,Chang,4/1/1998 12:00:00 AM,19.0000,50,0.2
+Horst Kloss,Outback Lager,4/1/1998 12:00:00 AM,15.0000,20,0.2
+Horst Kloss,Lakkalikööri,4/1/1998 12:00:00 AM,18.0000,90,0.2
+Liz Nixon,Mozzarella di Giovanni,4/1/1998 12:00:00 AM,34.8000,2,0
+Maria Larsson,Thüringer Rostbratwurst,4/1/1998 12:00:00 AM,123.7900,50,0.25
+Maria Larsson,Jack's New England Clam Chowder,4/1/1998 12:00:00 AM,9.6500,35,0.25
+Palle Ibsen,Raclette Courdavault,4/2/1998 12:00:00 AM,55.0000,18,0.05
+Guillermo Fernández,Manjimup Dried Apples,4/2/1998 12:00:00 AM,53.0000,20,0
+Guillermo Fernández,Camembert Pierrot,4/2/1998 12:00:00 AM,34.0000,4,0
+Horst Kloss,Singaporean Hokkien Fried Mee,4/2/1998 12:00:00 AM,14.0000,40,0
+Carlos González,Mascarpone Fabioli,4/3/1998 12:00:00 AM,32.0000,50,0
+Carlos González,Spegesild,4/3/1998 12:00:00 AM,12.0000,20,0.25
+Carlos González,Filo Mix,4/3/1998 12:00:00 AM,7.0000,20,0.25
+Zbyszek Piestrzeniewicz,Guaraná Fantástica,4/3/1998 12:00:00 AM,4.5000,12,0
+Zbyszek Piestrzeniewicz,Sirop d'érable,4/3/1998 12:00:00 AM,28.5000,7,0
+Zbyszek Piestrzeniewicz,Longlife Tofu,4/3/1998 12:00:00 AM,10.0000,20,0
+Zbyszek Piestrzeniewicz,Rhönbräu Klosterbier,4/3/1998 12:00:00 AM,7.7500,30,0
+Henriette Pfalzheim,Jack's New England Clam Chowder,4/3/1998 12:00:00 AM,9.6500,20,0.05
+Henriette Pfalzheim,Manjimup Dried Apples,4/3/1998 12:00:00 AM,53.0000,15,0.05
+Henriette Pfalzheim,Original Frankfurter grüne Soße,4/3/1998 12:00:00 AM,13.0000,21,0.05
+Paula Wilson,Chef Anton's Cajun Seasoning,4/6/1998 12:00:00 AM,22.0000,25,0.25
+Paula Wilson,Guaraná Fantástica,4/6/1998 12:00:00 AM,4.5000,30,0.25
+Paula Wilson,Original Frankfurter grüne Soße,4/6/1998 12:00:00 AM,13.0000,30,0
+Maria Larsson,Uncle Bob's Organic Dried Pears,4/6/1998 12:00:00 AM,30.0000,60,0
+Maria Larsson,Gustaf's Knäckebröd,4/6/1998 12:00:00 AM,21.0000,25,0
+Maria Larsson,Spegesild,4/6/1998 12:00:00 AM,12.0000,25,0
+Maria Larsson,Pâté chinois,4/6/1998 12:00:00 AM,24.0000,6,0
+Jose Pavarotti,Konbu,4/6/1998 12:00:00 AM,6.0000,56,0
+Jose Pavarotti,Steeleye Stout,4/6/1998 12:00:00 AM,18.0000,15,0.15
+Jose Pavarotti,Singaporean Hokkien Fried Mee,4/6/1998 12:00:00 AM,14.0000,24,0.15
+Jose Pavarotti,Pâté chinois,4/6/1998 12:00:00 AM,24.0000,40,0
+Liu Wong,Chai,4/6/1998 12:00:00 AM,18.0000,4,0
+Liu Wong,Boston Crab Meat,4/6/1998 12:00:00 AM,18.4000,10,0
+Liu Wong,Filo Mix,4/6/1998 12:00:00 AM,7.0000,10,0
+Catherine Dewey,Gumbär Gummibärchen,4/7/1998 12:00:00 AM,31.2300,6,0
+Catherine Dewey,Lakkalikööri,4/7/1998 12:00:00 AM,18.0000,6,0
+Matti Karttunen,Chai,4/7/1998 12:00:00 AM,18.0000,2,0
+Matti Karttunen,Raclette Courdavault,4/7/1998 12:00:00 AM,55.0000,10,0
+Howard Snyder,Chai,4/7/1998 12:00:00 AM,18.0000,8,0
+Howard Snyder,Thüringer Rostbratwurst,4/7/1998 12:00:00 AM,123.7900,2,0.25
+Isabel de Castro,Northwoods Cranberry Sauce,4/8/1998 12:00:00 AM,40.0000,30,0
+Isabel de Castro,Thüringer Rostbratwurst,4/8/1998 12:00:00 AM,123.7900,10,0
+Isabel de Castro,Singaporean Hokkien Fried Mee,4/8/1998 12:00:00 AM,14.0000,14,0
+Roland Mendel,Rössle Sauerkraut,4/8/1998 12:00:00 AM,45.6000,70,0.05
+Roland Mendel,Sasquatch Ale,4/8/1998 12:00:00 AM,14.0000,90,0.05
+Roland Mendel,Flotemysost,4/8/1998 12:00:00 AM,21.5000,21,0
+José Pedro Freyre,Guaraná Fantástica,4/8/1998 12:00:00 AM,4.5000,12,0
+José Pedro Freyre,Inlagd Sill,4/8/1998 12:00:00 AM,19.0000,18,0.25
+José Pedro Freyre,Camembert Pierrot,4/8/1998 12:00:00 AM,34.0000,9,0
+Maurizio Moroni,Uncle Bob's Organic Dried Pears,4/9/1998 12:00:00 AM,30.0000,20,0
+Maurizio Moroni,Guaraná Fantástica,4/9/1998 12:00:00 AM,4.5000,10,0
+Maria Anders,Escargots de Bourgogne,4/9/1998 12:00:00 AM,13.2500,40,0.05
+Maria Anders,Flotemysost,4/9/1998 12:00:00 AM,21.5000,20,0
+Peter Franken,Teatime Chocolate Biscuits,4/9/1998 12:00:00 AM,9.2000,50,0.05
+Peter Franken,Camembert Pierrot,4/9/1998 12:00:00 AM,34.0000,36,0.05
+Peter Franken,Flotemysost,4/9/1998 12:00:00 AM,21.5000,60,0.05
+Alejandra Camino,Tunnbröd,4/9/1998 12:00:00 AM,9.0000,10,0
+Alejandra Camino,Singaporean Hokkien Fried Mee,4/9/1998 12:00:00 AM,14.0000,4,0
+Alejandra Camino,Rogede sild,4/9/1998 12:00:00 AM,9.5000,20,0
+Alejandra Camino,Scottish Longbreads,4/9/1998 12:00:00 AM,12.5000,2,0
+Felipe Izquierdo,Jack's New England Clam Chowder,4/10/1998 12:00:00 AM,9.6500,28,0.1
+Jonas Bergulfsen,Nord-Ost Matjeshering,4/10/1998 12:00:00 AM,25.8900,15,0
+Jonas Bergulfsen,Original Frankfurter grüne Soße,4/10/1998 12:00:00 AM,13.0000,18,0
+Thomas Hardy,Gorgonzola Telino,4/10/1998 12:00:00 AM,12.5000,15,0
+Thomas Hardy,Inlagd Sill,4/10/1998 12:00:00 AM,19.0000,16,0
+Roland Mendel,Aniseed Syrup,4/13/1998 12:00:00 AM,10.0000,25,0
+Roland Mendel,Raclette Courdavault,4/13/1998 12:00:00 AM,55.0000,110,0
+Roland Mendel,Outback Lager,4/13/1998 12:00:00 AM,15.0000,30,0
+Fran Wilson,Queso Manchego La Pastora,4/13/1998 12:00:00 AM,38.0000,20,0
+Fran Wilson,Carnarvon Tigers,4/13/1998 12:00:00 AM,62.5000,10,0
+Fran Wilson,Gnocchi di nonna Alice,4/13/1998 12:00:00 AM,38.0000,5,0
+Sergio Gutiérrez,Spegesild,4/13/1998 12:00:00 AM,12.0000,3,0
+Sergio Gutiérrez,Maxilaku,4/13/1998 12:00:00 AM,20.0000,2,0
+Henriette Pfalzheim,Ikura,4/14/1998 12:00:00 AM,31.0000,24,0.15
+Horst Kloss,Chang,4/14/1998 12:00:00 AM,19.0000,11,0.25
+Horst Kloss,Sir Rodney's Marmalade,4/14/1998 12:00:00 AM,81.0000,15,0
+Horst Kloss,Gumbär Gummibärchen,4/14/1998 12:00:00 AM,31.2300,63,0
+Horst Kloss,Manjimup Dried Apples,4/14/1998 12:00:00 AM,53.0000,44,0.25
+Horst Kloss,Mozzarella di Giovanni,4/14/1998 12:00:00 AM,34.8000,35,0
+Mario Pontes,Teatime Chocolate Biscuits,4/14/1998 12:00:00 AM,9.2000,35,0
+Mario Pontes,Gudbrandsdalsost,4/14/1998 12:00:00 AM,36.0000,30,0
+Victoria Ashworth,Uncle Bob's Organic Dried Pears,4/14/1998 12:00:00 AM,30.0000,4,0
+Victoria Ashworth,Ipoh Coffee,4/14/1998 12:00:00 AM,46.0000,30,0
+Ann Devon,Gumbär Gummibärchen,4/15/1998 12:00:00 AM,31.2300,12,0
+Ann Devon,Geitost,4/15/1998 12:00:00 AM,2.5000,30,0
+Ann Devon,Louisiana Fiery Hot Pepper Sauce,4/15/1998 12:00:00 AM,21.0500,21,0
+Ann Devon,Flotemysost,4/15/1998 12:00:00 AM,21.5000,50,0
+Pirkko Koskitalo,Chai,4/15/1998 12:00:00 AM,18.0000,10,0.1
+Pirkko Koskitalo,Konbu,4/15/1998 12:00:00 AM,6.0000,20,0.1
+Paolo Accorti,Carnarvon Tigers,4/15/1998 12:00:00 AM,62.5000,8,0
+Paolo Accorti,Manjimup Dried Apples,4/15/1998 12:00:00 AM,53.0000,10,0
+Elizabeth Lincoln,Guaraná Fantástica,4/16/1998 12:00:00 AM,4.5000,30,0.25
+Elizabeth Lincoln,Tarte au sucre,4/16/1998 12:00:00 AM,49.3000,21,0.25
+Philip Cramer,Pâté chinois,4/16/1998 12:00:00 AM,24.0000,35,0
+Philip Cramer,Raclette Courdavault,4/16/1998 12:00:00 AM,55.0000,24,0
+Yang Wang,Gnocchi di nonna Alice,4/16/1998 12:00:00 AM,38.0000,20,0
+Yang Wang,Vegie-spread,4/16/1998 12:00:00 AM,43.9000,12,0
+Jose Pavarotti,Chang,4/17/1998 12:00:00 AM,19.0000,100,0.25
+Jose Pavarotti,Chef Anton's Gumbo Mix,4/17/1998 12:00:00 AM,21.3500,70,0
+Jose Pavarotti,Thüringer Rostbratwurst,4/17/1998 12:00:00 AM,123.7900,60,0.25
+Jose Pavarotti,Raclette Courdavault,4/17/1998 12:00:00 AM,55.0000,100,0.25
+Jose Pavarotti,Chai,4/17/1998 12:00:00 AM,18.0000,45,0
+Jose Pavarotti,Konbu,4/17/1998 12:00:00 AM,6.0000,80,0
+Jose Pavarotti,Guaraná Fantástica,4/17/1998 12:00:00 AM,4.5000,21,0
+Jose Pavarotti,Wimmers gute Semmelknödel,4/17/1998 12:00:00 AM,33.2500,20,0
+Jose Pavarotti,Flotemysost,4/17/1998 12:00:00 AM,21.5000,16,0
+Karl Jablonski,Inlagd Sill,4/17/1998 12:00:00 AM,19.0000,35,0
+Karl Jablonski,Côte de Blaye,4/17/1998 12:00:00 AM,263.5000,25,0
+Karl Jablonski,Raclette Courdavault,4/17/1998 12:00:00 AM,55.0000,30,0
+Michael Holz,Perth Pasties,4/17/1998 12:00:00 AM,32.8000,70,0.1
+Michael Holz,Gudbrandsdalsost,4/17/1998 12:00:00 AM,36.0000,36,0.1
+Rene Phillips,Sir Rodney's Scones,4/20/1998 12:00:00 AM,10.0000,15,0.1
+Rene Phillips,Gula Malacca,4/20/1998 12:00:00 AM,19.4500,12,0
+Rene Phillips,Sirop d'érable,4/20/1998 12:00:00 AM,28.5000,6,0
+Pascale Cartrain,Chai,4/20/1998 12:00:00 AM,18.0000,10,0
+Pascale Cartrain,Steeleye Stout,4/20/1998 12:00:00 AM,18.0000,60,0
+Pascale Cartrain,Singaporean Hokkien Fried Mee,4/20/1998 12:00:00 AM,14.0000,30,0
+Pascale Cartrain,Tourtière,4/20/1998 12:00:00 AM,7.4500,10,0
+Sven Ottlieb,Konbu,4/20/1998 12:00:00 AM,6.0000,7,0
+Sven Ottlieb,Raclette Courdavault,4/20/1998 12:00:00 AM,55.0000,30,0
+José Pedro Freyre,Outback Lager,4/21/1998 12:00:00 AM,15.0000,4,0
+Pascale Cartrain,Boston Crab Meat,4/21/1998 12:00:00 AM,18.4000,5,0.2
+Pascale Cartrain,Filo Mix,4/21/1998 12:00:00 AM,7.0000,2,0
+Pascale Cartrain,Flotemysost,4/21/1998 12:00:00 AM,21.5000,30,0
+Felipe Izquierdo,Rössle Sauerkraut,4/21/1998 12:00:00 AM,45.6000,20,0
+Felipe Izquierdo,Steeleye Stout,4/21/1998 12:00:00 AM,18.0000,24,0
+Felipe Izquierdo,Maxilaku,4/21/1998 12:00:00 AM,20.0000,60,0
+Felipe Izquierdo,Ravioli Angelo,4/21/1998 12:00:00 AM,19.5000,28,0
+Howard Snyder,Sir Rodney's Scones,4/22/1998 12:00:00 AM,10.0000,20,0
+Yang Wang,Chang,4/22/1998 12:00:00 AM,19.0000,30,0.2
+Yang Wang,Vegie-spread,4/22/1998 12:00:00 AM,43.9000,30,0
+Pedro Afonso,Gula Malacca,4/22/1998 12:00:00 AM,19.4500,15,0
+Pedro Afonso,Sirop d'érable,4/22/1998 12:00:00 AM,28.5000,4,0
+Dominique Perrier,Queso Cabrales,4/22/1998 12:00:00 AM,21.0000,10,0
+Zbyszek Piestrzeniewicz,Tarte au sucre,4/23/1998 12:00:00 AM,49.3000,12,0
+Elizabeth Lincoln,Geitost,4/23/1998 12:00:00 AM,2.5000,15,0
+Elizabeth Lincoln,Manjimup Dried Apples,4/23/1998 12:00:00 AM,53.0000,24,0
+Rita Müller,Queso Manchego La Pastora,4/23/1998 12:00:00 AM,38.0000,20,0.05
+Rita Müller,Mascarpone Fabioli,4/23/1998 12:00:00 AM,32.0000,15,0.05
+Rita Müller,Steeleye Stout,4/23/1998 12:00:00 AM,18.0000,18,0.05
+Ann Devon,Chai,4/24/1998 12:00:00 AM,18.0000,25,0.25
+Ann Devon,Chef Anton's Gumbo Mix,4/24/1998 12:00:00 AM,21.3500,30,0.25
+Elizabeth Lincoln,Scottish Longbreads,4/24/1998 12:00:00 AM,12.5000,42,0
+André Fonseca,Chang,4/24/1998 12:00:00 AM,19.0000,10,0.2
+André Fonseca,Queso Manchego La Pastora,4/24/1998 12:00:00 AM,38.0000,4,0.2
+Maria Larsson,Lakkalikööri,4/27/1998 12:00:00 AM,18.0000,50,0.1
+Annette Roulet,Guaraná Fantástica,4/27/1998 12:00:00 AM,4.5000,10,0.2
+Mario Pontes,Ipoh Coffee,4/27/1998 12:00:00 AM,46.0000,30,0.2
+Mario Pontes,Sirop d'érable,4/27/1998 12:00:00 AM,28.5000,10,0.2
+Georg Pipps,Carnarvon Tigers,4/27/1998 12:00:00 AM,62.5000,35,0.2
+Georg Pipps,Mascarpone Fabioli,4/27/1998 12:00:00 AM,32.0000,20,0
+Georg Pipps,Wimmers gute Semmelknödel,4/27/1998 12:00:00 AM,33.2500,25,0.2
+Patricio Simpson,Geitost,4/28/1998 12:00:00 AM,2.5000,10,0
+Patricio Simpson,Laughing Lumberjack Lager,4/28/1998 12:00:00 AM,14.0000,20,0
+Carlos Hernández,Guaraná Fantástica,4/28/1998 12:00:00 AM,4.5000,15,0
+Carlos Hernández,NuNuCa Nuß-Nougat-Creme,4/28/1998 12:00:00 AM,14.0000,15,0
+Carlos Hernández,Manjimup Dried Apples,4/28/1998 12:00:00 AM,53.0000,20,0
+Carlos Hernández,Ravioli Angelo,4/28/1998 12:00:00 AM,19.5000,20,0
+Ann Devon,Uncle Bob's Organic Dried Pears,4/28/1998 12:00:00 AM,30.0000,40,0
+Ann Devon,Pâté chinois,4/28/1998 12:00:00 AM,24.0000,35,0
+Ann Devon,Camembert Pierrot,4/28/1998 12:00:00 AM,34.0000,50,0
+Simon Crowther,Outback Lager,4/29/1998 12:00:00 AM,15.0000,3,0
+Hanna Moos,Sir Rodney's Scones,4/29/1998 12:00:00 AM,10.0000,3,0
+Hanna Moos,Camembert Pierrot,4/29/1998 12:00:00 AM,34.0000,21,0
+Hanna Moos,Sirop d'érable,4/29/1998 12:00:00 AM,28.5000,4,0
+Janete Limeira,Konbu,4/29/1998 12:00:00 AM,6.0000,30,0
+Janete Limeira,Alice Mutton,4/29/1998 12:00:00 AM,39.0000,12,0
+Janete Limeira,Camembert Pierrot,4/29/1998 12:00:00 AM,34.0000,35,0
+Paolo Accorti,Camembert Pierrot,4/30/1998 12:00:00 AM,34.0000,4,0
+Paolo Accorti,Original Frankfurter grüne Soße,4/30/1998 12:00:00 AM,13.0000,10,0
+Howard Snyder,Camembert Pierrot,4/30/1998 12:00:00 AM,34.0000,15,0
+Maurizio Moroni,Perth Pasties,4/30/1998 12:00:00 AM,32.8000,10,0.2
+Maurizio Moroni,Outback Lager,4/30/1998 12:00:00 AM,15.0000,12,0.2
+Patricia McKenna,Sasquatch Ale,4/30/1998 12:00:00 AM,14.0000,30,0
+Patricia McKenna,Boston Crab Meat,4/30/1998 12:00:00 AM,18.4000,40,0.1
+Patricia McKenna,Jack's New England Clam Chowder,4/30/1998 12:00:00 AM,9.6500,30,0.1
+Jose Pavarotti,Alice Mutton,5/1/1998 12:00:00 AM,39.0000,77,0.1
+Jose Pavarotti,Jack's New England Clam Chowder,5/1/1998 12:00:00 AM,9.6500,12,0
+Jose Pavarotti,Perth Pasties,5/1/1998 12:00:00 AM,32.8000,25,0.1
+Jose Pavarotti,Pâté chinois,5/1/1998 12:00:00 AM,24.0000,4,0.1
+Jose Pavarotti,Scottish Longbreads,5/1/1998 12:00:00 AM,12.5000,55,0
+Carlos González,Nord-Ost Matjeshering,5/1/1998 12:00:00 AM,25.8900,4,0.25
+Carlos González,Tourtière,5/1/1998 12:00:00 AM,7.4500,20,0.25
+Karl Jablonski,Pavlova,5/1/1998 12:00:00 AM,17.4500,3,0
+Karl Jablonski,Teatime Chocolate Biscuits,5/1/1998 12:00:00 AM,9.2000,42,0
+Karl Jablonski,Sasquatch Ale,5/1/1998 12:00:00 AM,14.0000,35,0
+Sven Ottlieb,Jack's New England Clam Chowder,5/4/1998 12:00:00 AM,9.6500,9,0
+Lúcia Carvalho,Rössle Sauerkraut,5/4/1998 12:00:00 AM,45.6000,8,0.15
+Lúcia Carvalho,Ipoh Coffee,5/4/1998 12:00:00 AM,46.0000,36,0.15
+Lúcia Carvalho,Original Frankfurter grüne Soße,5/4/1998 12:00:00 AM,13.0000,28,0.15
+Miguel Angel Paolino,Chartreuse verte,5/4/1998 12:00:00 AM,18.0000,20,0
+Renate Messner,Chai,5/5/1998 12:00:00 AM,18.0000,40,0.15
+Renate Messner,Chang,5/5/1998 12:00:00 AM,19.0000,20,0.15
+Renate Messner,Pavlova,5/5/1998 12:00:00 AM,17.4500,30,0.15
+Renate Messner,Gorgonzola Telino,5/5/1998 12:00:00 AM,12.5000,20,0
+Carlos González,Uncle Bob's Organic Dried Pears,5/5/1998 12:00:00 AM,30.0000,15,0.05
+Carlos González,Konbu,5/5/1998 12:00:00 AM,6.0000,10,0.05
+Roland Mendel,Chang,5/5/1998 12:00:00 AM,19.0000,8,0
+Roland Mendel,Jack's New England Clam Chowder,5/5/1998 12:00:00 AM,9.6500,40,0
+Roland Mendel,Valkoinen suklaa,5/5/1998 12:00:00 AM,16.2500,22,0
+Roland Mendel,Wimmers gute Semmelknödel,5/5/1998 12:00:00 AM,33.2500,130,0
+Guillermo Fernández,Queso Cabrales,5/5/1998 12:00:00 AM,21.0000,10,0
+Guillermo Fernández,Guaraná Fantástica,5/5/1998 12:00:00 AM,4.5000,20,0
+Jytte Petersen,Pavlova,5/6/1998 12:00:00 AM,17.4500,14,0.05
+Michael Holz,Chang,5/6/1998 12:00:00 AM,19.0000,10,0.15
+Michael Holz,Spegesild,5/6/1998 12:00:00 AM,12.0000,30,0.15
+Michael Holz,Lakkalikööri,5/6/1998 12:00:00 AM,18.0000,2,0.15
+Laurence Lebihan,Grandma's Boysenberry Spread,5/6/1998 12:00:00 AM,25.0000,20,0.25
+Laurence Lebihan,Tofu,5/6/1998 12:00:00 AM,23.2500,20,0.25
+Laurence Lebihan,Teatime Chocolate Biscuits,5/6/1998 12:00:00 AM,9.2000,10,0.25
+Paula Wilson,Chang,5/6/1998 12:00:00 AM,19.0000,24,0.2
+Paula Wilson,Aniseed Syrup,5/6/1998 12:00:00 AM,10.0000,4,0
+Paula Wilson,Chef Anton's Cajun Seasoning,5/6/1998 12:00:00 AM,22.0000,1,0
+Paula Wilson,Grandma's Boysenberry Spread,5/6/1998 12:00:00 AM,25.0000,1,0.02
+Paula Wilson,Uncle Bob's Organic Dried Pears,5/6/1998 12:00:00 AM,30.0000,1,0.05
+Paula Wilson,Northwoods Cranberry Sauce,5/6/1998 12:00:00 AM,40.0000,2,0.1
+Paula Wilson,Ikura,5/6/1998 12:00:00 AM,31.0000,1,0
+Paula Wilson,Queso Manchego La Pastora,5/6/1998 12:00:00 AM,38.0000,2,0.05
+Paula Wilson,Konbu,5/6/1998 12:00:00 AM,6.0000,4,0
+Paula Wilson,Tofu,5/6/1998 12:00:00 AM,23.2500,1,0.03
+Paula Wilson,Pavlova,5/6/1998 12:00:00 AM,17.4500,2,0.03
+Paula Wilson,Sir Rodney's Marmalade,5/6/1998 12:00:00 AM,81.0000,1,0.04
+Paula Wilson,Tunnbröd,5/6/1998 12:00:00 AM,9.0000,2,0
+Paula Wilson,Mascarpone Fabioli,5/6/1998 12:00:00 AM,32.0000,1,0
+Paula Wilson,Chartreuse verte,5/6/1998 12:00:00 AM,18.0000,2,0.05
+Paula Wilson,Jack's New England Clam Chowder,5/6/1998 12:00:00 AM,9.6500,3,0
+Paula Wilson,Spegesild,5/6/1998 12:00:00 AM,12.0000,3,0.02
+Paula Wilson,Filo Mix,5/6/1998 12:00:00 AM,7.0000,2,0
+Paula Wilson,Pâté chinois,5/6/1998 12:00:00 AM,24.0000,2,0
+Paula Wilson,Camembert Pierrot,5/6/1998 12:00:00 AM,34.0000,2,0.06
+Paula Wilson,Wimmers gute Semmelknödel,5/6/1998 12:00:00 AM,33.2500,2,0.03
+Paula Wilson,Louisiana Hot Spiced Okra,5/6/1998 12:00:00 AM,17.0000,1,0
+Paula Wilson,Röd Kaviar,5/6/1998 12:00:00 AM,15.0000,2,0.01
+Paula Wilson,Rhönbräu Klosterbier,5/6/1998 12:00:00 AM,7.7500,4,0
+Paula Wilson,Original Frankfurter grüne Soße,5/6/1998 12:00:00 AM,13.0000,2,0
