@@ -2,6 +2,7 @@
 
 namespace LinqExcersize {
     public class Model {
+        public int ID { get; set; }
         public string ContactName { get; set; }
         public string ProductName { get; set; }
         public DateTime OrderDate { get; set; }
